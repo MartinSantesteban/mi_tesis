@@ -1,0 +1,18 @@
+{
+  "dataset": "Nations",
+  "early_stopper_params": {
+    "frequency": 5,
+    "patience": 3,
+    "delta" : 0.005,
+    "metric": "hits_at_1"
+  },
+  "grid_search_attrs": {
+    "loss_function": ["MSE"],
+    "margin": [1],
+    "model_name" : ["RESCAL","RotatE","TransE"],
+    "embedding_dim" : [128],
+    "batch_size" : [32]
+  },
+  "max_epochs": 200,
+  "output_dir": "./quantum_embeddings/results/Nations_MSE_clasicos"
+}

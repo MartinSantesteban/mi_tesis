@@ -1,0 +1,20 @@
+{
+  "dataset": "FinRED_component0",
+  "early_stopper_params": {
+    "frequency": 5,
+    "patience": 5,
+    "delta" : 0.005,
+    "metric": "hits_at_10"
+  },
+  "grid_search_attrs": {
+    "loss_function": ["MSE"],
+    "margin": [null],
+    "overlap_estimator": ["ComputeUncompute", "RealInnerProduct"],
+    "num_qubits": [5,6,7],
+    "rotations": [["rx", "rz", "rx"]],
+    "controls": [["cx"]],
+    "batch_size" : [32]
+  },
+  "max_epochs": 200,
+  "output_dir": "./quantum_embeddings/results/FinRED_CU_R_MSE_ansatz2"
+}

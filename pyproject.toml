@@ -1,0 +1,36 @@
+[project]
+name = "quantum_embeddings"
+version = "0.1.0"
+dependencies = [
+  "torch==2.6",
+  "torchvision",
+  "torchaudio",
+  "pykeen>=1.11.0",
+  "qiskit>=2.0.0",
+  "qiskit-aer>=0.17.0",
+  #"qiskit-machine-learning[torch]==0.9.0",
+  "quantum-circuit-gradients",
+  "mlflow>=3.3.2",
+]
+
+requires-python = ">=3.13"
+
+[tool.uv.sources]
+#qiskit-machine-learning = { path = "quantum_embeddings/packages/qiskit_machine_learning-0.9.0-py3-none-any.whl" }
+torch = { index = "pytorch-cu118" }
+torchvision = { index = "pytorch-cu118" }
+torchaudio = { index = "pytorch-cu118" }
+quantum-circuit-gradients = { git = "https://github.com/pdbruno/gradient-reverse-mode.git", branch = "martin_playground"}
+
+
+[[tool.uv.index]]
+name = "pytorch-cu118"
+url = "https://download.pytorch.org/whl/cu118"
+explicit = true
+
+[dependency-groups]
+dev = [
+  "ipykernel",
+  "pylatexenc",
+  "qiskit-ibm-runtime"
+]

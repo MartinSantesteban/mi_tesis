@@ -1,0 +1,1373 @@
+h.name,count(*)
+Apple Inc,13
+Vikram Pandit,1
+Lehman Brothers,2
+Viacom,4
+Les Moonves,1
+Talbots,1
+Bear Stearns,1
+Analog Devices,2
+Walgreens,3
+Rite Aid,1
+Mastercard,7
+General Electric,7
+Capital One,1
+Starbucks,3
+Gmail,2
+Google Talk,1
+Google Docs,2
+Jamie Dimon,2
+Xbox 360,2
+Xbox,1
+OfficeMax,1
+Diet Pepsi,2
+PepsiCo,8
+Gatorade,2
+Sony,10
+Buckle,2
+mobility,4
+Google Chrome,1
+food industry,1
+Match,1
+Flying,1
+Fresh,1
+HBO Max,3
+Higher,2
+VersuS,2
+ARRAY,1
+LinkedIn,3
+GMC,4
+Zoom Telephonics,1
+DSV,1
+Working,1
+TO,1
+Zimbra,1
+Initiative,3
+Baidu,7
+Xeon,1
+Extra,1
+Microsoft Azure,1
+Microsoft Teams,1
+Gucci,2
+Stuff,1
+FireEye,3
+Mandiant,1
+Express Scripts,1
+Google Analytics,3
+Costco,1
+Office 365,1
+TransACT,1
+music industry,1
+Product,2
+Better,1
+Esri,2
+Zulily,2
+partypoker,2
+Best Buy,3
+Anyone,1
+retail environment,1
+Circa,1
+Lordstown Motors,1
+Software Solutions,1
+software industry,1
+Chromebook,1
+UiPath,1
+Deloitte,6
+Cornerstone,1
+SingTel,2
+Samsung,6
+Michael Dell,2
+Dell Technologies,3
+ADNOC,1
+PayPal,8
+HBO,5
+software company,1
+Live,1
+department store chain,1
+Mervyns,1
+Cognos,3
+Ahold,3
+Delhaize,1
+Ahold Delhaize,1
+Angeles,1
+Begin,1
+Walmart Canada,1
+grocery,1
+Envestnet,1
+Avenue,1
+Forever 21,1
+Revlon,1
+Party City,1
+CapitaLand,1
+SuccessFactors,1
+Canadian Tire,1
+Lead,1
+Sears Outlet,1
+Fortnite,2
+Epic Games,1
+eBay,10
+Material,1
+DualSense,1
+PlayStation,2
+DualShock,1
+iOS 14,1
+Come,1
+Cash Flow,1
+Beechcraft,2
+gold mine,1
+Audio,2
+Was,1
+Alteryx,1
+VAST,1
+Zillow,2
+Momentum,1
+Boeing,17
+Seamless,2
+GrubHub,1
+Ageas,1
+Minimal,1
+Airbus,9
+Cognizant,1
+Upjohn,2
+remdesivir,1
+Mylan,3
+Viatris,2
+battery industry,1
+Republic Services,1
+Focus Features,1
+Petrobras,4
+Animal Crossing,3
+Nintendo,5
+A350,4
+DirecTV,2
+Sky Brasil,1
+Vrio,2
+Concentration,1
+MetLife,2
+Limoneira,1
+ViacomCBS,3
+Pluto TV,1
+Equinix,3
+DataXu,1
+HBO Go,1
+MSN,1
+Exposure Notification,1
+Sonos,1
+Ternium,1
+WarnerMedia,5
+CDW,1
+Refinitiv,1
+DKNY,2
+Very,1
+Different,2
+Happy,1
+Cigna,1
+Intel,5
+Results,2
+Google Fi,2
+HiSilicon,2
+Kernel,1
+Amazon Go,4
+Liberty Mutual,1
+Ingredion,1
+First Media,1
+Mafia Trilogy,2
+Mafia III,3
+Mafia II,1
+Civilization VI,3
+Civilization,1
+NBA 2K21,1
+WWE 2K,1
+Roll7,1
+OlliOlli,1
+Avanade,3
+bank statement,1
+AppFolio,1
+Dufry,1
+ASEAN,5
+Prime,1
+Boeing 747,1
+Foodstuffs,1
+TD Ameritrade,1
+Within,2
+SFR,2
+Saipem,2
+Vivendi,5
+Editis,1
+Universal Music Group,3
+Answer,1
+Has Been,1
+Future,1
+Usiminas,1
+Nord Pool,2
+Euronext,4
+Wachovia,2
+Transavia France,2
+Tata Motors,5
+TELUS,1
+Warburg Pincus,1
+Methanex,1
+Interxion,2
+FIFA,3
+Madden NFL,1
+FIFA 21,2
+Madden NFL 21,2
+Further,1
+Marfrig,1
+Land,1
+UGG,2
+Xilinx,1
+Google Checkout,1
+Fendt,3
+Virgin Media,2
+Liberty Global,7
+Yanacocha,1
+NBCUniversal,10
+Comcast,5
+Sky Broadband,1
+Better Place,1
+Airbnb,7
+Volvo,4
+Resonate,1
+toy industry,1
+Create,2
+Cameco,3
+Kazatomprom,1
+Japan Post Holdings,1
+We Believe,1
+Play,2
+She,2
+Open,1
+Above,1
+Available,2
+Inception,1
+Much Higher,1
+Commissioner,1
+Red Hat,3
+OpenShift,1
+Share,2
+Office Online,1
+skype,1
+KPN,1
+Canfor,1
+Audi Q5,2
+Mapfre,1
+Out There,1
+Things,2
+GROW,1
+Mattel,8
+Away,2
+Ipsos,1
+Nucor,1
+steelmaking,1
+Codelco,3
+Grasberg Mine,2
+Green,1
+Alipay,1
+AutoNation,1
+Xandr,2
+FedEx,6
+Up,2
+Amazon Prime,1
+Boeing 737,4
+Kenworth,2
+PACCAR,3
+Peterbilt,3
+DAF,2
+Art Van,1
+Red Hat Linux,1
+Prime Video,3
+hdfc,2
+Big Lots,1
+Living Spaces,1
+iShares,1
+Bouygues Telecom,2
+Bouygues,4
+Virgin Atlantic,4
+Virgin Group,5
+Ocado,2
+Hundreds,1
+Steelcase,2
+Leverage,2
+FedEx Express,1
+FedEx Ground,1
+FedEx Office,1
+Enhance,1
+Sanofi,3
+Genzyme,2
+Menards,1
+NetSuite,1
+KPMG,2
+Woolworths Group,1
+Wella,3
+Indofood,1
+AutoCAD,2
+Autodesk,2
+Nordstrom Rack,1
+Nordstrom,1
+GoPro,3
+Free People,2
+EHang,1
+DHL,2
+ILS,1
+Kabbage,1
+Pinduoduo,1
+Mindshare,1
+Meituan,2
+Jo Malone,1
+CRH,3
+Australia Post,2
+tjx,1
+Kingsoft,2
+Google Ads,3
+Flipkart,5
+Google Play,3
+Windows Server,1
+Swift Response,1
+Goldcorp,1
+Publix,1
+Samsung Electronics,3
+Zhengzhou,1
+Google Search,5
+Farfetch,1
+Sony Pictures,5
+Places,1
+Pixel,2
+Apple Maps,1
+Embraer,1
+Assurant,1
+software development,1
+Hindustan Times,1
+Bob Dudley,2
+Alcoa,3
+Close,2
+Primark,4
+Super Mario,2
+Game Boy,1
+Xbox One,1
+Wii,2
+CyberArk,3
+Sky Italia,2
+Sky Deutschland,2
+Vodafone,12
+Numericable,1
+Coal India,1
+Elon Musk,3
+Gwynne Shotwell,2
+Bupa,1
+Antony Jenkins,2
+Renaissance Center,1
+Clairol,1
+Max Factor,2
+BiondVax,1
+Fresnillo plc,1
+Tullow Oil,5
+Avolon,1
+Mary Barra,2
+Dixons,1
+Dixons Carphone,3
+Comscore,2
+Aer Lingus,3
+Evraz,4
+TUI AG,1
+easyJet,2
+Intertek,3
+BT Group,1
+Goldman Sachs,4
+Mr Kipling,1
+Bisto,1
+Vontobel,1
+Snapdeal,3
+Whitbread,4
+Costa Coffee,3
+Windows Phone,1
+Casino Group,2
+Myer,2
+Norsk Hydro,1
+UNIQLO,5
+Fast Retailing,5
+FAO Schwarz,1
+Chevrolet Silverado,2
+Tata Daewoo,2
+BBC Worldwide,4
+UKTV,3
+Tim Davie,1
+Atlassian,4
+Premier Oil,3
+Teavana,2
+Walter Energy,1
+Northern Trust,2
+Johnnie Walker,2
+Diageo,7
+American Girl,1
+Albertsons,5
+Chevrolet Volt,2
+Chevrolet Bolt,2
+Telstra,3
+David Thodey,1
+Burberry,3
+Dick Smith,2
+retail chain,1
+Balfour Beatty,3
+Lonmin,3
+Hacking Team,3
+Dick Costolo,1
+Bandhan Bank,2
+Azimo,1
+United Internet,1
+Babcock International,3
+British Land,2
+Producers,1
+Scotiabank,3
+International Bank,2
+Twitter,7
+Ellen Pao,1
+Facebook,5
+Natera,1
+Russell 2000,2
+Searchlight Pictures,1
+Apple TV+,3
+Version,2
+Launched,1
+eHealthInsurance,2
+Merrill Lynch,3
+Aflac,1
+Merkel,2
+Google account,2
+Google Now,2
+Asda,5
+Paytm,2
+FIFA headquarters,1
+Yello,1
+Altera,1
+Arundhati Bhattacharya,2
+Paladin Energy,1
+CoverGirl,1
+Coty,1
+Alan Joyce,1
+Qantas,2
+Schroders,3
+Experian,1
+Ashtead Group,2
+IP Group,2
+Drax Group,1
+HellermannTyton,2
+Esure,2
+Weir Group,2
+Popular,1
+iPhone,3
+iTunes,1
+Murphy Oil,1
+Range Resources,1
+Michael Corbat,1
+Marissa Mayer,2
+Cdiscount,2
+Microsoft Dynamics,1
+Hansen Yuncken,1
+Aconex,1
+Jeff Immelt,1
+GE Capital,3
+Hotmail,3
+Hasbro,1
+Afren,1
+Endemol,1
+Direct Line,1
+Fluor Corporation,1
+Pemex,2
+TaskRabbit,1
+iTunes Store,1
+Lloyd Blankfein,2
+British Airways,4
+Windows 10,2
+Premier Farnell,2
+CPC,1
+Aramex,2
+Tutor Perini,1
+Microsoft Office,1
+Morgan Stanley,4
+Windows XP,1
+Vodafone Ghana,1
+Airbus Group,6
+Airbus A380,5
+DFS,2
+Topps Tiles,1
+Escondida Mine,1
+Chapters,2
+Verizon,1
+Chicago Tribune,4
+Tribune Publishing,2
+Los Angeles Times,1
+news agency,1
+Vittorio Colao,1
+Lavazza,3
+Club Med,2
+Barclaycard,2
+Steve Ballmer,2
+Ruth Porat,1
+Unilever,16
+Knorr,1
+Lockheed Martin,5
+Visa Inc,2
+Visa Europe,2
+Kosmos Energy,1
+Apple Music,1
+Suffolk University,1
+Shopify,1
+Emergency,1
+Qube Logistics,1
+OZ Minerals,1
+Turquoise Hill Resources,1
+Janet Yellen,4
+Socialtext,1
+Oracle Corporation,1
+United Airlines,4
+MileagePlus,1
+Larry Page,1
+Mothercare,1
+Vertu,1
+banamex,1
+Bridgewater Associates,3
+Brico,1
+Castorama,1
+Screwfix,1
+Hindustan Petroleum,1
+Bharat Petroleum,1
+Bing Search,1
+bing,2
+John Cryan,1
+Eni,3
+American Apparel,3
+Tata Teleservices,1
+Olivier Blanchard,1
+Mark Carney,2
+Sonic Foundry,1
+Lafarge,2
+Holcim,1
+Glencore,9
+Run,1
+Google Glass,1
+Investec,1
+Whistl,1
+MSCI,1
+Porsche 911,2
+Porsche 911 GT3,2
+Xstrata,2
+BT,1
+Sirtex,1
+Doug McMillon,1
+SABMiller,8
+Nomura Holdings,2
+Nomura Securities,1
+Dragon Oil,1
+Stephen Elop,1
+Satya Nadella,2
+Bing Maps,2
+Chevrolet Equinox,2
+Marianne Lake,1
+HDFC Bank,2
+MoneyGram,2
+Lyft,4
+Duracell,3
+DESFA,3
+Gap Inc,4
+Lipper,1
+Macquarie Group,4
+Rupert Murdoch,1
+Volkswagen Group,6
+ArcelorMittal,4
+Lakshmi Mittal,2
+FilmOn,1
+Omid Kordestani,1
+Southwest Airlines,3
+Loeb,1
+Aspects,1
+Johnston Press,1
+Gerard Kleisterlee,1
+Bharti Airtel,2
+entertainment company,1
+Volvo Buses,1
+Trulia,1
+Fairfax Media,1
+Next plc,1
+Lulu Hypermarket,1
+Standard Chartered,6
+Check Point,1
+Reddit,3
+RapidAdvance,1
+Man Group,4
+LVMH,13
+Louis Vuitton,4
+Madame Tussauds,1
+Jeff Bezos,4
+Tata Ace,2
+Eiffel,1
+Thomson Reuters,9
+Chevrolet Trailblazer,2
+d2h,1
+NASDAQ 100,1
+IKEA,2
+Singapore Power,1
+REA Group,1
+Foxtel,3
+News Corp,7
+News Corp Australia,1
+Philippines,4
+Television,1
+Lucasfilm,4
+Star Wars,1
+Ashmore Group,2
+RIA Novosti,1
+Berkshire Hathaway,11
+Warren Buffett,1
+Allan Moss,1
+Harvey Norman,2
+Citigroup,6
+WorldPay,3
+Dubai World,4
+Boston Globe,2
+NASDAQ Dubai,1
+Athabasca Basin,1
+Admiral Group,2
+Stifel,2
+Network Rail,2
+Just Eat,1
+Commonwealth Bank,6
+Clarizen,1
+Reid Hoffman,1
+Microsoft Windows,1
+TJX Companies,1
+Bradley Horowitz,1
+Google Photos,2
+broadcaster,1
+NBC Sports,1
+Bill Gates,1
+Possible,2
+Smirnoff,3
+Facebook Inc,6
+Castrol,1
+CBS Corporation,2
+CBS News,2
+Office Depot,2
+Gene,1
+Ralph Norris,1
+Nine,1
+Panasonic Corporation,4
+brewing,1
+Harpoon Brewery,3
+Neighborly,2
+EFG Hermes,1
+Buick Envision,1
+Bolloré,3
+NBC,2
+John Fallon,1
+ConocoPhillips,1
+Marathon Oil,1
+Robin Li,1
+Mining engineer,1
+French Connection,1
+Thomas Cook Group,3
+Medigus,1
+Brian Moynihan,2
+Tata Steel,1
+Inter Milan,1
+Polly Pocket,2
+Alenia,1
+GE Healthcare,2
+Mirvac,1
+Felony,1
+Virgin Money,1
+Bobby Jindal,1
+Air France KLM,3
+ROXI,2
+Chuquicamata,2
+Elementis,1
+Accelerator,1
+SoulCycle,2
+Planet Fitness,1
+Hiscox,1
+Boeing Capital,3
+TechTarget,1
+Emirates NBD,2
+Global Witness,1
+Arabtec,1
+Tim Cook,2
+Offline,1
+Boeing 737 MAX,2
+Rathbone Brothers,2
+Ladbrokes,2
+Rightmove,3
+Greggs,1
+Kesko,1
+Porsche Macan,2
+Sciences Po,1
+Old Mutual,3
+3i,2
+Land Securities,2
+Sinopec,2
+Apartment,1
+Interbank,3
+Google Maps,1
+Sephora,2
+TAG Heuer,2
+Myntra,2
+Yelp,2
+Jeremy Stoppelman,1
+ABN AMRO,1
+Aldus,2
+iiNet,2
+SunGard,2
+AMP Capital,1
+Rexona,1
+Durex,3
+ASSOCHAM,1
+Standard Bank,1
+Kinross Gold,4
+Chanda Kochhar,3
+Naftogaz,2
+ITV plc,1
+3i Infrastructure,1
+Aussie,1
+Mel Watt,1
+Wanda Group,2
+Fenchurch,1
+Hammerson,2
+Singapore Exchange,1
+Kraft Heinz,4
+Magnum,1
+Officeworks,2
+Electronic Arts,2
+Suzuki,3
+Maruti Suzuki,4
+Greg Hywood,1
+Dennis Muilenburg,1
+Rio Tinto Group,1
+Kathmandu,2
+game industry,1
+Airbus A330,1
+Lukoil,1
+PVH,2
+Sam Altman,1
+Vodafone India,2
+Sheryl Sandberg,2
+Lazard,2
+Tim Armstrong,1
+Wanda Commercial,1
+Repsol,1
+MBDA,1
+Tom Enders,1
+Tumblr,1
+Everlane,1
+Opera Australia,1
+Albert Heijn,2
+Luxoft,1
+Fannie Mae,2
+Wallis,1
+Dalian,1
+Vertex Pharmaceuticals,2
+Sears Canada,1
+Donut,1
+Renée James,1
+Brian Krzanich,1
+Citibank,2
+Canada Post,2
+Orkambi,1
+Areva,5
+Televisa,2
+Minute,1
+Jeremy Clarkson,1
+BrightHouse,2
+Resolution Copper,1
+Ivan Glasenberg,1
+USAA,1
+Alexis Ohanian,1
+Taylor Wimpey,2
+Debenhams,3
+New Balance,4
+Chief,1
+Wesfarmers,4
+Alphabet Inc,2
+Zocdoc,3
+Ryanair,3
+Findus,2
+Volkswagen Polo,1
+Foxconn,5
+Russell Group,1
+Ekart,1
+Presto,1
+MSCI World,1
+Fininvest,2
+New India Assurance,1
+Johnson Matthey,2
+Shire plc,1
+GKN,2
+Southern,1
+Dr Dre,1
+Appaloosa Management,4
+David Tepper,1
+Topshop,4
+Orica,1
+Sage Group,1
+KeyBank,1
+SolarEdge,1
+Amazon Kindle,2
+Microsoft Store,1
+Kinect,1
+Century,1
+Chevrolet Cruze,2
+Pueblo Viejo mine,1
+Oando,1
+IEA,1
+Tim Hortons,1
+LetterOne,2
+Sony Music,1
+News Corporation,4
+deposit slip,1
+Synchrony,1
+Interfax,2
+RF,1
+Patriot Coal,2
+James Squire,2
+Brooks Brothers,1
+Like,1
+Daughter,1
+Solid Energy,1
+Gears,3
+Citadel LLC,1
+Waha Capital,2
+Chances,1
+Mashreq,1
+Chicago Air,1
+Shiseido,1
+Ausgrid,1
+MyRepublic,1
+Alon USA,1
+Blogger,4
+Textron,1
+Cessna,4
+Meggitt,1
+Vodacom Tanzania,1
+Vodacom,2
+LafargeHolcim,1
+Chevrolet Cobalt,1
+Profit,1
+Freeport McMoRan,2
+Savers,1
+Unibanco,2
+Business Wire,2
+Tenaris,2
+Ferrexpo,1
+Reliance Infrastructure,2
+Western Electric,1
+Aurizon,1
+Dell Inc,6
+Buick,3
+Cadillac Escalade,1
+Dairy Crest,2
+Statistics Canada,1
+Bradesco,1
+Air India,4
+Microsoft Word,1
+Amazon Studios,1
+Jira,1
+Tide,1
+Restoration Hardware,1
+Mastek,1
+Pacific Life,2
+In July,1
+Alps Electric,1
+Inmarsat,2
+G4S,2
+Cineworld,3
+Playtech,1
+Petrofac,4
+Back On,1
+Grocon,1
+Terry Gou,2
+Chrome OS,1
+Major League Soccer,2
+Keio,1
+Buick LaCrosse,1
+PhosAgro,1
+Kmart,1
+NBS,1
+Google Fiber,1
+Givenchy,2
+Restrictions,2
+Classic,1
+Santander UK,1
+Microsoft Mobile,2
+CGG,1
+SoftBank,2
+filmmaking,1
+Polyus,2
+Buick Regal,1
+Buick Verano,1
+Tribune Media,1
+Telenet,4
+Personal,1
+Change,1
+Dollar Tree,1
+Seagate Technology,2
+Micron Technology,1
+SanDisk,3
+Eldorado Gold,2
+Phenom 300,1
+Postbus,1
+PokerStars,1
+Masdar,1
+Adam Smith Institute,1
+Duane Reade,1
+One Direction,1
+Capture,1
+Comerica,2
+Coles Supermarkets,2
+Hero Cycles,2
+Audi RS5,2
+Audi Sport,1
+Surface Pro,1
+Porter Airlines,2
+Western Digital,5
+El Abra mine,2
+Paramount Pictures,2
+Viterra,1
+IRESS,1
+OnStar,1
+Phillips 66,1
+Polyvore,1
+Buick Encore,2
+Cencosud,2
+GfK,1
+coffee roaster,1
+Tchibo,2
+Debswana,1
+Shopko,1
+Rosneft,5
+Evolution Fresh,2
+Jumia,1
+betfair,2
+Escort,1
+Michelob,1
+Writer,1
+Ashley Madison,1
+GMC Envoy,1
+Western Bulldogs,1
+Tizen,1
+Federal Bank,1
+PG Tips,2
+Savills,1
+Heathrow Hub,1
+Impala Platinum,1
+Harrods,3
+incorporation,1
+Premier Inn,2
+Amit Sood,1
+APUS Group,1
+Panshi,1
+BeiBei,2
+Tujia,2
+Taobao,5
+Fanli,1
+Altice,4
+Dubai,1
+Spillers,2
+Walkman,1
+Fletcher Building,1
+Asus,1
+ASUS ZenFone,2
+Epicor,2
+Urban Outfitters,1
+Anthropologie,1
+Linn Energy,1
+Victrex,1
+iPad,1
+Tongrentang,1
+Later,1
+Shide Group,1
+LogMeIn,1
+Hofbräuhaus,1
+FXCM,2
+iBall,1
+iPhone 6S,1
+Capex,1
+Huntington Bank,1
+Reliance Communications,3
+Nexus 6P,3
+Google Nexus,2
+Mack Trucks,1
+iPhone 6S Plus,1
+Google TV,1
+go90,1
+App Store,1
+iOS app,1
+Amlin,1
+General Dynamics,2
+Petra Diamonds,2
+Teck Resources,2
+MillerCoors,3
+How To,2
+Rubicon Project,2
+Katanga Mining,2
+Lowell McAdam,1
+Chromecast,2
+60 Minutes,1
+Klaus Kleinfeld,1
+Google Earth,6
+Kickstarter,2
+Freecharge,2
+Technics,1
+SodaStream,2
+Talkmobile,1
+Deal,1
+FCB,1
+Vallourec,1
+Cash Converters,1
+Audi A6,2
+Yes Bank,3
+Veladero mine,1
+Columbia Pictures,1
+Buenaventura,1
+watchOS,2
+Media Player,1
+iPod,1
+Solera Holdings,1
+Marshall Wace,1
+Angel Broking,1
+Martin Winterkorn,3
+App,1
+Creator,1
+GroupM,1
+Fnac,1
+Golden State Warriors,1
+AGCO,5
+Valtra,2
+Massey Ferguson,2
+National Geographic Society,3
+National Geographic Partners,3
+Fiserv,2
+Metro Bank,2
+Electrocomponents,2
+Hearts,1
+Quantedge,1
+Jeff Kennett,2
+Forrester,2
+Crowdnetic,1
+Citation,1
+Bloomsbury Publishing,2
+Crest Nicholson,1
+Rexam,2
+Good Energy,1
+Novatek,1
+Merlin Entertainments,2
+Vectura Group,1
+United Utilities,1
+Quarto Group,1
+Smiths Group,2
+Oxford Instruments,2
+IG Group,3
+Ultra Electronics,2
+Reckitt,1
+Pierre Omidyar,1
+Star India,1
+Rent,1
+Optiver,1
+TechCrunch,2
+Servcorp,1
+Chevrolet Impala,1
+RMIT University,1
+cement plant,1
+KLM,3
+ING,3
+Bright Blue,1
+Moscow Exchange,1
+Japan Display,4
+Looking,2
+Indra Nooyi,2
+Millions,1
+Patrick Pichette,1
+Pennon Group,1
+Poundland,1
+News UK,1
+Discover Card,1
+Discover Financial,1
+Internet Explorer,1
+Windows Media Player,2
+Windows Media,1
+Google Camera,1
+Hikvision,1
+Gilead Sciences,1
+Karen Millen,1
+Dunelm Group,1
+Carpetright,1
+Toll Group,1
+Cantor Fitzgerald,3
+Second Cup,1
+Gemfields,2
+Gear VR,2
+RadioShack,2
+Sachin Bansal,1
+Finally,1
+Dan Cobley,1
+AU Optronics,1
+PlayStation Vue,1
+Talisman Energy,1
+Brad Smith,1
+Games Workshop,1
+Avanti Communications,1
+Microsoft Edge,1
+Carlisle Companies,1
+Wolfgang Hatz,1
+Platts,4
+Virgin Australia,1
+Tatsumi Kimishima,1
+Hero MotoCorp,2
+Old Navy,4
+Movies,1
+Medium,1
+Gamers,1
+Big Bazaar,1
+Ryerson University,1
+Bravia,1
+Sucden,1
+See,2
+Process,1
+Microsoft Band,1
+Lexmark,1
+Porsche Cayman,2
+Heather Bresch,1
+United Mine Workers,1
+Google Express,1
+Dialog Semiconductor,2
+Mix,1
+Chevrolet Malibu,2
+NASDAQ,1
+PGI,2
+AmazonFresh,2
+Pebble Mine,2
+Cotton Bowl,1
+Seafood,1
+Instagram,1
+Radio,1
+Ross McEwan,1
+Liberty Bank,1
+Reliance Capital,1
+Failure,1
+Buick Enclave,2
+Exmor,1
+Euronext Amsterdam,2
+Rapper,1
+BTG,1
+Bank Mandiri,1
+See Tickets,1
+Dailymotion,2
+Powerhouse,1
+Amit Singhal,1
+Singapore Airlines,2
+Harvey Nash,1
+Travis Perkins,2
+Automation,1
+Mountain Warehouse,1
+Free Tibet,1
+Gameloft,3
+Ubisoft,1
+Banana Republic,1
+Heroes Reborn,1
+Cemex,1
+AmBev,1
+ING Group,3
+Michel Platini,1
+Fidelity Bank Ghana,1
+Pixar,1
+Walt Disney Studios,1
+Indiana Jones,1
+Chris Coons,1
+Dettol,1
+VH1,1
+Harcourts,1
+phd,1
+Tories,1
+Insitu,1
+Gazprom Neft,1
+Lavasoft,1
+Show,1
+Because,1
+Chevrolet Camaro,2
+Mobileye,3
+OneBeacon,1
+Ansible,2
+Discover,1
+Scott Farquhar,1
+Xpeng,1
+Ensure Insurance,1
+Resolution Foundation,1
+Spinneys,1
+Remains,1
+Moving,1
+Loaf,1
+UNESCO,1
+Health Services Union,1
+Surface Book,1
+Saputo,3
+HDFC Life,1
+aQuantive,1
+Amy Hood,2
+Navantia,1
+Occidental Petroleum,1
+About Us,1
+Anadarko Petroleum,1
+Origus,1
+Blazor,1
+HBO Now,1
+Olive Kitteridge,1
+Nintendo DS,2
+Really Love,1
+Sportech,1
+Iveco,1
+Origines,1
+Sesame Street,1
+Chuck,1
+BMC Software,1
+KfW,1
+GMC Sierra,2
+Universal Pictures,1
+Celgene,1
+Shiv Sena,2
+Primerica,1
+JERA,1
+Stella Artois,1
+Pilbara Iron,1
+Hughes Electronics,1
+CLIPS,1
+Openreach,1
+Japan Post,1
+Hamleys,1
+Enter,1
+Traton,1
+Moz,1
+Oxford Analytica,1
+PLDT,1
+insurance company,1
+fronting,1
+Secret City,1
+Warner Bros,2
+58,1
+Roslyn Russell,1
+Swissport,1
+Zeta Interactive,1
+Tata Magic,1
+Apple Pay,3
+Mimecast,1
+Havas Worldwide,1
+Tanked,1
+SKY TV,1
+Google Authenticator,2
+iZettle,1
+Cheetah Mobile,2
+Lysol,2
+Orion Pictures,1
+| hdfc,1
+Google Hangouts,2
+Fincantieri,1
+Raise,1
+Deezer,1
+Chevrolet Aveo,1
+United Airlines Holdings,1
+Bourjois,2
+Volvo Trucks,2
+Optus,2
+TheCityUK,1
+Henderson Group,2
+Suzuki Ertiga,2
+Allianz SE,1
+Provident Financial,1
+Twitter Inc,2
+Far,1
+Premiere,1
+HuffPost,2
+GMC Acadia,1
+Lux Capital,1
+Grupo Modelo,2
+Passion Capital,1
+Skylake,2
+SM Energy,1
+Nutanix,1
+AccountAbility,1
+Stagecoach Group,1
+Swiss Re,2
+Secret Escapes,1
+Deliveroo,2
+Bumi Resources,1
+Chevrolet Traverse,1
+Volkswagen Passat,2
+Unibank,1
+Spirent,1
+Computacenter,1
+Cairn Energy,1
+Carillion,1
+Entertainment One,1
+Jardine Matheson,1
+Manx Telecom,1
+Booker Group,1
+PBS,1
+RD,1
+Sri Mulyani Indrawati,1
+Ping An Insurance,1
+MSD Capital,1
+Talk Talk,1
+Atlas Jewellery,1
+Pioneer Investments,1
+Miu Miu,1
+Yahoo Sports,2
+Google Books,2
+Dunkin Brands,1
+Amstrad,1
+China Mobile,1
+INEOS,5
+Jim Ratcliffe,1
+Jan Hatzius,1
+Eutelsat,1
+Grangemouth Refinery,2
+Chevrolet Corvette,1
+Daniel Zhang,1
+Yodlee,1
+Chevrolet Trax,1
+Montgomery Ward,1
+Culture,1
+Freedom,1
+Google Sites,2
+Hoyts,1
+Yahoo Mail,1
+Blackbaud,1
+Premier Foods,1
+Rebel Sport,1
+PayScale,1
+Christian Clausen,1
+Suzuki SX4,2
+Suzuki Kizashi,1
+Blanket Mine,1
+Chevrolet Spark,1
+DBS Bank,1
+Domain Group,1
+NOVA Entertainment,1
+Become,1
+Ico,1
+Suzan DelBene,1
+Aquarius Platinum,1
+Committed,1
+Josh Constine,1
+New York Post,1
+HarperCollins,2
+Stiff,1
+Microsoft Translator,1
+Captain Morgan,1
+Mobvoi,1
+Anime+,1
+Emma Marcegaglia,1
+Perth Wildcats,1
+David Ebersman,1
+Chevron Corporation,1
+AliExpress,2
+Pepper,1
+Campaign Monitor,1
+Changing,1
+Magento,1
+Eramet,2

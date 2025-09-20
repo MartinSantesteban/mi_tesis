@@ -1,0 +1,1489 @@
+head,relation,tail
+PeopleSoft,subsidiary,JD Edwards
+VH1,owned_by,Viacom
+Michael Corbat,employer,Citigroup
+Airbus,product_or_material_produced,aircraft
+TA Associates,industry,private equity
+Covestro,owned_by,Bayer
+Chromecast,developer,Google
+Chromecast,manufacturer,Google
+Harcourts,legal_form,company
+Saipem,parent_organization,Eni
+Frozen,distribution_format,single
+BG Group,parent_organization,Royal Dutch Shell
+Eurogroup,chairperson,Jeroen Dijsselbloem
+Man Group,industry,hedge fund
+CoverGirl,product_or_material_produced,cosmetics
+3D Systems,industry,3D printing
+VAST,location_of_formation,Seattle
+MYOB,product_or_material_produced,accounting software
+Glencore,industry,mining
+Lexus,owned_by,Toyota
+Lexus,parent_organization,Toyota
+Ultratech,headquarters_location,San Jose
+NetSuite,product_or_material_produced,software
+Wanda Commercial,headquarters_location,Dalian
+Google Glass,developer,Google
+Deloitte,product_or_material_produced,tax
+Chicago Tribune,headquarters_location,Chicago
+Premier Farnell,industry,electronics
+phd,operator,Google
+Gucci,parent_organization,Kering
+Marissa Mayer,employer,Yahoo
+Gears,owned_by,Google
+Google Search,owned_by,Google
+Gears,creator,Google
+Gears,developer,Google
+Avelumab,manufacturer,Pfizer
+iiNet,industry,Internet service provider
+Twitter,headquarters_location,San Francisco
+Glencore,industry,mining
+Mylan,parent_organization,Viatris
+Viatris,subsidiary,Mylan
+Belinda Hutchinson,employer,University of Sydney
+Chromecast,developer,Google
+Chromecast,manufacturer,Google
+Airbus,product_or_material_produced,aircraft
+SABMiller,owned_by,Anheuser-Busch InBev
+SABMiller,product_or_material_produced,beer
+SABMiller,parent_organization,Anheuser-Busch InBev
+Eurozone,currency,euro
+Brian Moynihan,employer,Bank of America
+Finns Party,founded_by,Timo Soini
+Finns Party,chairperson,Timo Soini
+PPL,industry,electric utility
+Extra,original_broadcaster,Nine
+Tories,headquarters_location,London
+Glencore,industry,mining
+Mattel,owner_of,Barbie
+Metro Bank,headquarters_location,London
+Tata Steel,product_or_material_produced,steel
+Fresh,industry,retail
+Prime,industry,retail
+Windows 10,developer,Microsoft
+Global 500,creator,Fortune
+Niki Lauda,employer,Mercedes
+Stratasys,industry,rapid prototyping
+Gucci,parent_organization,Kering
+Taser,manufacturer,Axon
+Antony Jenkins,employer,Barclays
+Mashreq,headquarters_location,Dubai
+Rite Aid,industry,retail
+Mattel,owner_of,Barbie
+stock market,operator,stock exchange
+Boeing,subsidiary,Insitu
+Insitu,parent_organization,Boeing
+FedEx Ground,parent_organization,FedEx
+FedEx,subsidiary,FedEx Ground
+Sergio Marchionne,employer,Fiat
+Casino Group,director_/_manager,Jean-Charles Naouri
+Chevrolet Cruze,manufacturer,General Motors
+Pure,original_broadcaster,Channel
+cement plant,product_or_material_produced,cement
+Thomson Reuters,business_division,Reuters
+Thomson Reuters,subsidiary,Reuters
+Capella University,parent_organization,Capella Education Company
+Gucci,industry,fashion
+Samsung,product_or_material_produced,electronics
+Lloyd Blankfein,position_held,chief executive officer
+Goldman Sachs,chief_executive_officer,Lloyd Blankfein
+Lloyd Blankfein,employer,Goldman Sachs
+Eurogroup,chairperson,Jeroen Dijsselbloem
+Eurogroup,chairperson,Jean-Claude Juncker
+Patriot Coal,product_or_material_produced,coal
+Walter Energy,product_or_material_produced,coal
+Sciences Po,headquarters_location,Paris
+program,platform,computer
+eu,operator,European Union
+WorldPay,headquarters_location,London
+GE Capital,industry,financial services
+Kay Kratky,employer,Austrian Airlines
+Lufthansa,subsidiary,Austrian Airlines
+Pipistrel,founded_by,Ivo Boscarol
+Pipistrel,chief_executive_officer,Ivo Boscarol
+program,platform,computer
+Yum Brands,owner_of,Pizza Hut
+Yum Brands,subsidiary,Pizza Hut
+Yum China,brand,Pizza Hut
+Gazprom Neft,industry,retail
+SABMiller,headquarters_location,London
+sugar industry,product_or_material_produced,sugar
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+News Corp,director_/_manager,Rupert Murdoch
+News Corp,founded_by,Rupert Murdoch
+Airbus,parent_organization,Airbus Group
+Airbus Group,subsidiary,Airbus
+Facebook,creator,Mark Zuckerberg
+Facebook,founded_by,Mark Zuckerberg
+Lexmark,product_or_material_produced,software
+Samsung,product_or_material_produced,electronics
+Hindustan Times,headquarters_location,New Delhi
+Capella University,parent_organization,Capella Education Company
+Lonmin,industry,mining
+Glencore,industry,mining
+Sling TV,parent_organization,Dish Network
+DirecTV,owned_by,AT
+Josh Earnest,position_held,White House Press Secretary
+Cemex,product_or_material_produced,cement
+Ram Pickup,manufacturer,Chrysler
+Xandr,owned_by,WarnerMedia
+Xandr,industry,advertising
+Analog Devices,product_or_material_produced,semiconductor
+Raghuram Rajan,employer,Reserve Bank of India
+Daimler AG,brand,Mercedes-Benz
+Daimler AG,owner_of,Mercedes-Benz
+Marissa Mayer,employer,Yahoo
+Buick Envision,brand,Buick
+Direct Line,product_or_material_produced,insurance
+Wanda Group,industry,conglomerate
+Wanda Group,location_of_formation,Dalian
+Ivan Glasenberg,owner_of,Glencore
+Glencore,owned_by,Ivan Glasenberg
+Glencore,chief_executive_officer,Ivan Glasenberg
+Super Mario,publisher,Nintendo
+Super Mario,distributed_by,Nintendo
+Lavasoft,product_or_material_produced,software
+MetLife,product_or_material_produced,insurance
+Sony Pictures,industry,entertainment
+PokerStars,industry,online poker
+Bitstamp,industry,bitcoin
+Saipem,parent_organization,Eni
+Gail Kelly,employer,Westpac
+Bharti Airtel,owned_by,Vodafone
+Comscore,owner_of,Rentrak
+Glencore,industry,mining
+Stratasys,industry,3D printing
+Stratasys,product_or_material_produced,3D printing
+Edward VIII,position_held,king
+Glenn Stevens,employer,Reserve Bank of Australia
+Show,distributed_by,Spotify
+Because,distributed_by,Spotify
+Sergio Marchionne,employer,Fiat
+Interbrand,industry,brand
+Airbnb,headquarters_location,San Francisco
+Initiative,industry,advertising
+Mack Trucks,product_or_material_produced,truck
+Volvo,product_or_material_produced,truck
+Movicel,headquarters_location,Luanda
+Unilever,subsidiary,Bovril
+National Geographic Society,owner_of,National Geographic
+Paladin Energy,product_or_material_produced,uranium
+Western Digital,subsidiary,SanDisk
+SanDisk,parent_organization,Western Digital
+Western Digital,owner_of,SanDisk
+SanDisk,owned_by,Western Digital
+Dairy Farmers,product_or_material_produced,dairy
+HDFC Bank,industry,Finance
+iPod,manufacturer,Steve Jobs
+Arundhati Bhattacharya,position_held,chairperson
+Assa Abloy,product_or_material_produced,lock
+Xstrata,owned_by,Glencore
+We,publisher,Avon
+Sergio Marchionne,employer,Fiat
+Merlin Entertainments,owner_of,Legoland
+Comscore,owner_of,Rentrak
+General Electric,owner_of,GE Capital
+GE Capital,parent_organization,General Electric
+GE Capital,owned_by,General Electric
+SunGard,owned_by,Fidelity National Information Services
+SunGard,product_or_material_produced,software
+Further,location_of_formation,Los Angeles
+Ivan Glasenberg,owner_of,Glencore
+Glencore,owned_by,Ivan Glasenberg
+Glencore,chief_executive_officer,Ivan Glasenberg
+Glencore,industry,mining
+Wii,developer,Nintendo
+Wii,manufacturer,Nintendo
+Alcoa,product_or_material_produced,aluminium
+Lavastorm,industry,analytics
+Mattel,subsidiary,Fisher-Price
+Mattel,owner_of,Barbie
+Mattel,subsidiary,American Girl
+Mattel,owner_of,Fisher-Price
+Sustainable Development Goals,creator,United Nations
+Ultra Electronics,industry,transport
+Stratasys,industry,3D printing
+Stratasys,product_or_material_produced,3D printing
+Altera,parent_organization,Intel
+Chevrolet Malibu,manufacturer,General Motors
+Dean Foods,product_or_material_produced,milk
+Areva,owned_by,France
+Areva,parent_organization,France
+General Electric,owner_of,GE Capital
+GE Capital,parent_organization,General Electric
+GE Capital,owned_by,General Electric
+Deloitte,product_or_material_produced,tax
+General Electric,owner_of,GE Capital
+GE Capital,parent_organization,General Electric
+GE Capital,owned_by,General Electric
+Facebook,creator,Mark Zuckerberg
+Facebook,founded_by,Mark Zuckerberg
+Starbucks,product_or_material_produced,coffee
+Goldman Sachs,product_or_material_produced,investment bank
+shaft sinking,product_or_material_produced,shaft
+Fonterra,product_or_material_produced,milk
+Baidu,product_or_material_produced,software
+Samsung,product_or_material_produced,electronics
+Pueblo Viejo mine,product_or_material_produced,gold
+Emirates NBD,industry,Finance
+Platts,owned_by,Global
+Platts,parent_organization,Global
+Brian Hartzer,employer,Westpac
+Merlin Entertainments,owner_of,Legoland
+Thomson Reuters,business_division,Reuters
+Thomson Reuters,subsidiary,Reuters
+Investec,headquarters_location,London
+GMC,headquarters_location,Detroit
+LVMH,owner_of,Hennessy
+Chevrolet Camaro,brand,Chevrolet
+Buick,owned_by,General Motors
+Chevrolet Camaro,manufacturer,General Motors
+Buick,parent_organization,General Motors
+Coinbase,industry,bitcoin
+Mobileye,legal_form,Intel
+Mobileye,headquarters_location,Jerusalem
+Mobileye,parent_organization,Intel
+Intel,subsidiary,Mobileye
+Covestro,owned_by,Bayer
+Direct Line,product_or_material_produced,insurance
+Brent Hoberman,founded_by,lastminute.com
+Asda,headquarters_location,Leeds
+Asda,location_of_formation,Leeds
+Dennis Muilenburg,employer,Boeing
+Boeing,chief_executive_officer,Dennis Muilenburg
+Samsung,product_or_material_produced,electronics
+Fluor Corporation,industry,construction
+QNX,developer,BlackBerry
+amex,operator,American Express
+Minimal,industry,retail
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+Russell 2000,stock_exchange,New York Stock Exchange
+MSCI,stock_exchange,New York Stock Exchange
+OneBeacon,industry,insurance
+Cameco,product_or_material_produced,uranium
+Greg Fischer,position_held,mayor
+Ansible,owned_by,Red Hat
+Ansible,developer,Red Hat
+Red Hat,parent_organization,IBM
+food industry,product_or_material_produced,food
+Los Angeles Times,owned_by,Tribune Publishing
+Starbucks,product_or_material_produced,coffee
+Boko Haram,chairperson,Abubakar Shekau
+Pixel,manufacturer,Google
+Pixel,developer,Google
+IKEA,product_or_material_produced,furniture
+Verizon,parent_organization,Vodafone
+Vodafone,subsidiary,Verizon
+Ivan Glasenberg,owner_of,Glencore
+Glencore,owned_by,Ivan Glasenberg
+Glencore,chief_executive_officer,Ivan Glasenberg
+Altice,headquarters_location,Amsterdam
+Samsung,product_or_material_produced,electronics
+National Geographic Society,owner_of,National Geographic
+Indivior,owned_by,Investments
+Poundland,industry,retail
+Discover,manufacturer,IBM
+Atlassian,founded_by,Scott Farquhar
+Scott Farquhar,employer,Atlassian
+SunGard,owned_by,Fidelity National Information Services
+SunGard,product_or_material_produced,software
+Infiniti,parent_organization,Nissan
+Infiniti,owned_by,Nissan
+Direct Line,product_or_material_produced,insurance
+Snapdeal,industry,e-commerce
+Glencore,industry,mining
+Apartment,location_of_formation,London
+Josh Earnest,position_held,White House Press Secretary
+Xpeng,stock_exchange,New York Stock Exchange
+Costco,industry,retail
+Esure,industry,insurance
+Direct Line,product_or_material_produced,insurance
+Chanda Kochhar,employer,ICICI Bank
+eu,operator,European Union
+grocery,operator,Walmart
+British Empire,currency,pound sterling
+Singapore Power,headquarters_location,Singapore
+Starbucks,product_or_material_produced,coffee
+Narendra Modi,member_of,Bharatiya Janata Party
+Jeep Cherokee,manufacturer,Chrysler
+Fresnillo plc,industry,mining
+Jeff Bezos,owner_of,Amazon
+Jeff Bezos,employer,Amazon
+Flipkart,industry,e-commerce
+webOS,developer,LG Electronics
+Talk,original_broadcaster,AMC
+Direct Line,product_or_material_produced,insurance
+Eurogroup,chairperson,Jeroen Dijsselbloem
+Vodafone,subsidiary,Vodafone India
+Vodafone India,parent_organization,Vodafone
+George Osborne,position_held,Chancellor of the Exchequer
+SunGard,owned_by,Fidelity National Information Services
+SunGard,product_or_material_produced,software
+amex,operator,American Express
+Whistl,industry,mail
+Flipkart,industry,e-commerce
+Chapters,industry,retail
+Chapters,parent_organization,Indigo
+Alcoa,legal_form,public company
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+Berkshire Hathaway,industry,insurance
+Exxon Valdez,owned_by,Exxon
+Hindustan Times,headquarters_location,New Delhi
+UNIQLO,owned_by,Fast Retailing
+UNIQLO,parent_organization,Fast Retailing
+Fast Retailing,subsidiary,UNIQLO
+Rodrigo Janot,position_held,prosecutor
+cannabis industry,product_or_material_produced,cannabis
+Twitter,industry,Internet
+Mary Barra,position_held,chief executive officer
+Ken Paxton,position_held,Texas Attorney General
+Rafale,manufacturer,Dassault Aviation
+Rafale,developer,Dassault Aviation
+Comscore,owner_of,Rentrak
+Stratasys,industry,3D printing
+Stratasys,product_or_material_produced,3D printing
+Munich Re,product_or_material_produced,reinsurance
+Evraz,product_or_material_produced,steel
+Larry Page,employer,Google
+iBall,product_or_material_produced,smartphone
+General Electric,owner_of,GE Capital
+GE Capital,parent_organization,General Electric
+GE Capital,owned_by,General Electric
+Marcantonio Barbarigo,position_held,cardinal
+Yelp,founded_by,Jeremy Stoppelman
+Yelp,chief_executive_officer,Jeremy Stoppelman
+gold mine,product_or_material_produced,gold
+Amazon Prime,owned_by,Amazon
+Singapore Exchange,headquarters_location,Singapore
+Airbnb,industry,tourism
+Novozymes,product_or_material_produced,enzyme
+BG Group,parent_organization,Royal Dutch Shell
+Merrill Lynch,headquarters_location,New York City
+Phillips 66,owned_by,Berkshire Hathaway
+Berkshire Hathaway,owner_of,Phillips 66
+Ensure Insurance,industry,insurance
+Poundland,industry,retail
+SK Group,owned_by,SK
+Samsung,product_or_material_produced,electronics
+Resolution Foundation,headquarters_location,London
+David Gilmour,member_of,Pink Floyd
+Eurozone,currency,euro
+radio station,industry,radio
+Hacking Team,product_or_material_produced,software
+Red Hat,product_or_material_produced,software
+OpenShift,developer,Red Hat
+Red Hat,parent_organization,IBM
+OfficeMax,parent_organization,Office Depot
+Free People,industry,retail
+Equinix,product_or_material_produced,data center
+Foxconn,industry,electronics
+SYRIZA,headquarters_location,Athens
+Dean Foods,product_or_material_produced,milk
+WeBank,owned_by,Tencent
+Tencent,owner_of,WeBank
+Resolution Foundation,headquarters_location,London
+3D Systems,industry,3D printing
+Compaq,owned_by,Hewlett-Packard
+Windows 10,developer,Microsoft
+Dixons,industry,retail
+Lexus,owned_by,Toyota
+Lexus,parent_organization,Toyota
+Snapdeal,founded_by,Rohit Bansal
+Snapdeal,founded_by,Kunal Bahl
+Arundhati Bhattacharya,position_held,chairperson
+Starbucks,product_or_material_produced,coffee
+Lyft,founded_by,Logan Green
+Lyft,chief_executive_officer,Logan Green
+Spinneys,headquarters_location,Dubai
+Remains,distributed_by,Spotify
+Because,distributed_by,Spotify
+Future,distributed_by,Spotify
+Moving,distributed_by,Spotify
+Brian Moynihan,employer,Bank of America
+Loaf,legal_form,company
+Comscore,owner_of,Rentrak
+Presto,owned_by,Foxtel
+Tata Steel,product_or_material_produced,steel
+Mastek,industry,software
+Intertek,legal_form,public limited company
+Merkel,headquarters_location,Germany
+General Electric,owner_of,GE Capital
+GE Capital,parent_organization,General Electric
+GE Capital,owned_by,General Electric
+Twitter,product_or_material_produced,microblogging
+Berkshire Hathaway,industry,insurance
+Roy Hill,product_or_material_produced,iron ore
+S11D,product_or_material_produced,iron ore
+Honda Accord,manufacturer,Honda
+Honda City,manufacturer,Honda
+Honda Accord,brand,Honda
+Honda City,brand,Honda
+Codelco,product_or_material_produced,copper
+UNESCO,headquarters_location,World Heritage Centre
+Play,distribution_format,music streaming
+Restrictions,distribution_format,music streaming
+Panasonic Corporation,owner_of,Panasonic
+Panasonic Corporation,industry,electronics
+Panasonic Corporation,owner_of,Technics
+Technics,owned_by,Panasonic Corporation
+go90,owned_by,Verizon
+Berkshire Hathaway,industry,insurance
+David Johnston,employer,University of Waterloo
+WorldPay,headquarters_location,London
+Health Services Union,headquarters_location,Melbourne
+Emirates NBD,industry,Finance
+Fonterra,product_or_material_produced,milk
+SABMiller,product_or_material_produced,beer
+Buckle,industry,retail
+Fletcher Building,industry,construction
+888 Holdings,headquarters_location,Gibraltar
+South32,product_or_material_produced,manganese
+Surface Book,developer,Microsoft
+Xstrata,owned_by,Glencore
+Glencore,industry,mining
+Toyota Highlander,manufacturer,Toyota
+Toyota Highlander,brand,Toyota
+Lead,location_of_formation,Japan
+Glencore,industry,mining
+Timothy Guinnane,employer,Yale University
+Saputo,director_/_manager,Lino Saputo
+Saputo,founded_by,Lino Saputo
+Western Digital,subsidiary,SanDisk
+SanDisk,parent_organization,Western Digital
+Western Digital,owner_of,SanDisk
+SanDisk,owned_by,Western Digital
+Lafarge,product_or_material_produced,cement
+Klaus Kleinfeld,position_held,chief executive officer
+Twitter,product_or_material_produced,microblogging
+Indra Nooyi,position_held,chief executive officer
+Ivan Glasenberg,owner_of,Glencore
+Glencore,owned_by,Ivan Glasenberg
+Glencore,chief_executive_officer,Ivan Glasenberg
+Angeles,location_of_formation,Los Angeles
+Stratasys,industry,3D printing
+Stratasys,product_or_material_produced,3D printing
+Pemex,headquarters_location,Mexico City
+Pemex,product_or_material_produced,petroleum
+Diageo,product_or_material_produced,alcoholic beverage
+Office 365,developer,Microsoft
+Mastercard,product_or_material_produced,credit card
+HDFC Life,product_or_material_produced,life insurance
+Indian Railways,location_of_formation,India
+Indian Railways,owned_by,India
+Available,distributed_by,Spotify
+Eurozone,currency,euro
+Aer Lingus,location_of_formation,Dublin
+Chrysler,owned_by,Fiat Chrysler Automobiles
+Bild,headquarters_location,Berlin
+Upjohn,legal_form,company
+Steve Ballmer,owner_of,Microsoft
+Steve Ballmer,employer,Microsoft
+Interfax,product_or_material_produced,news agency
+MoneyGram,headquarters_location,Dallas
+WorldPay,headquarters_location,London
+Windows 10,developer,Microsoft
+Altria,product_or_material_produced,tobacco
+grocery,operator,Walmart
+Snapdeal,industry,e-commerce
+Samsung,product_or_material_produced,electronics
+aQuantive,parent_organization,Microsoft
+Fortum,owner_of,Uniper
+Uniper,owned_by,Fortum
+ARRAY,legal_form,company
+LVMH,owner_of,Hennessy
+Liberty,product_or_material_produced,gasoline
+Western Digital,subsidiary,SanDisk
+SanDisk,parent_organization,Western Digital
+Western Digital,owner_of,SanDisk
+SanDisk,owned_by,Western Digital
+Nintendo,chief_executive_officer,Satoru Iwata
+Nintendo,owner_of,DeNA
+Tunisair,location_of_formation,Tunis
+Tunisair,headquarters_location,Tunis
+Product,distributed_by,Spotify
+Brian Hartzer,employer,Westpac
+Great Lakes NeuroTechnologies,headquarters_location,Cleveland
+Eurozone,currency,euro
+Lockheed Martin,product_or_material_produced,Orion
+Goldcorp,product_or_material_produced,gold
+Amy Hood,employer,Microsoft
+Windows 10,developer,Microsoft
+Amy Hood,position_held,chief financial officer
+Alcoa,product_or_material_produced,aluminium
+Dixons,industry,retail
+Roomba,manufacturer,iRobot
+iRobot,owner_of,Roomba
+Roomba,owned_by,iRobot
+Tencent,subsidiary,WeChat
+WeChat,developer,Tencent
+Lead,location_of_formation,Japan
+snom,headquarters_location,Berlin
+Glencore,industry,mining
+Chevrolet Trailblazer,manufacturer,General Motors
+Comscore,owner_of,Rentrak
+Dispatches,original_broadcaster,Channel
+Commissioner,location_of_formation,California
+banamex,operator,Citigroup
+Adobe Captivate,developer,Adobe
+coffee roaster,product_or_material_produced,coffee
+Glenn Stevens,employer,Reserve Bank of Australia
+Navantia,industry,shipbuilding
+iiNet,location_of_formation,Perth
+Occidental Petroleum,product_or_material_produced,petroleum
+PREPARE,operator,European Union
+Shopko,industry,retail
+gold mine,product_or_material_produced,gold
+SABMiller,product_or_material_produced,beer
+Golden State Warriors,headquarters_location,San Francisco
+PayPal,legal_form,public company
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+CIT Group,subsidiary,OneWest Bank
+Dennis Muilenburg,employer,Boeing
+Boeing,chief_executive_officer,Dennis Muilenburg
+Nimrod MRA4,manufacturer,BAE Systems
+Initiative,industry,marketing
+Lafarge,product_or_material_produced,cement
+Will Hodgman,position_held,Premier of Tasmania
+Omid Kordestani,employer,Google
+Goldcorp,product_or_material_produced,gold
+Bandhan Bank,headquarters_location,Kolkata
+Vodafone,subsidiary,Vodafone Ghana
+Vodafone Ghana,parent_organization,Vodafone
+water treatment,product_or_material_produced,water
+Jeff Bezos,owner_of,Amazon
+Jeff Bezos,employer,Amazon
+Raghuram Rajan,employer,Reserve Bank of India
+Indian Railways,location_of_formation,India
+About Us,publisher,Global
+Indian Railways,owned_by,India
+Nexus 6P,developer,Google
+Satya Nadella,employer,Microsoft
+Willis Group,industry,insurance broker
+TO,distribution_format,video on demand
+SYRIZA,chairperson,Alexis Tsipras
+City Press,owned_by,Naspers
+We,publisher,Avon
+Moon Studios,founded_by,Gennadiy Korol
+Thomas Mahler,employer,Moon Studios
+Moon Studios,product_or_material_produced,Ori and the Blind Forest
+Moon Studios,founded_by,Thomas Mahler
+Elvira Nabiullina,position_held,governor
+Prime,industry,retail
+SYRIZA,chairperson,Alexis Tsipras
+Primark,owned_by,Associated British Foods
+Primark,parent_organization,Associated British Foods
+Glencore,industry,mining
+Duracell,parent_organization,Berkshire Hathaway
+Duracell,product_or_material_produced,battery
+Duracell,owned_by,Berkshire Hathaway
+grocery,operator,Walmart
+Twitter,headquarters_location,San Francisco
+Fibria,industry,pulp
+Bertelsmann,owner_of,Random House
+Bertelsmann,business_division,Penguin Random House
+Bertelsmann,owner_of,Penguin Random House
+Random House,owned_by,Bertelsmann
+Tata Steel,product_or_material_produced,steel
+Caesars Entertainment,industry,gambling
+DirecTV,owned_by,AT
+Evian,owned_by,Danone
+Evian,parent_organization,Danone
+Cornerstone,industry,marketing
+Baidu,industry,Internet
+Office 365,developer,Microsoft
+Eldorado Gold,legal_form,corporation
+Ally Financial,subsidiary,Ally Bank
+Artemis Fowl,distributed_by,Disney+
+Vodafone,subsidiary,Vodafone Ghana
+Vodafone Ghana,parent_organization,Vodafone
+Adam Schefter,employer,ESPN
+Samsung,product_or_material_produced,electronics
+water treatment,product_or_material_produced,water
+Gmail,owned_by,Google
+Gmail,developer,Google
+PeopleSoft,subsidiary,JD Edwards
+Anadarko Petroleum,product_or_material_produced,petroleum
+Origus,headquarters_location,Beijing
+LaFerrari,manufacturer,Ferrari
+LaFerrari,brand,Ferrari
+Goldman Sachs,industry,financial services
+Comscore,owner_of,Rentrak
+Power Lunch,original_broadcaster,CNBC
+Xbox,owned_by,Microsoft
+John Lewis Partnership,subsidiary,John Lewis
+John Lewis Partnership,founded_by,John Lewis
+Glencore,industry,mining
+Blazor,developer,Microsoft
+Intel,product_or_material_produced,server
+Smiths Group,headquarters_location,London
+betfair,headquarters_location,London
+G4S,headquarters_location,London
+Larry Page,employer,Google
+Trump University,founded_by,Donald Trump
+Ngosa Simbyakula,position_held,justice minister
+Jamf,headquarters_location,Minneapolis
+Ivan Glasenberg,owner_of,Glencore
+Glencore,owned_by,Ivan Glasenberg
+Glencore,chief_executive_officer,Ivan Glasenberg
+Mobileye,legal_form,Intel
+Mobileye,parent_organization,Intel
+Intel,subsidiary,Mobileye
+Airbnb,industry,tourism
+Kinross Gold,legal_form,corporation
+Kingsoft,industry,software
+Narendra Modi,member_of,Bharatiya Janata Party
+A350,operator,Singapore Airlines
+Stratasys,industry,3D printing
+Stratasys,product_or_material_produced,3D printing
+Lafarge,parent_organization,LafargeHolcim
+KPMG,product_or_material_produced,audit
+Xandr,owned_by,WarnerMedia
+HBO Now,owned_by,HBO
+HBO,owner_of,HBO Now
+Boris Johnson,position_held,Mayor of London
+Koch Industries,owned_by,David Koch
+Goldman Sachs,product_or_material_produced,investment bank
+Weatherford International,legal_form,Limited Company
+Ally Financial,subsidiary,Ally Bank
+George Osborne,position_held,Chancellor of the Exchequer
+Aimco,product_or_material_produced,apartment
+Suzuki,subsidiary,Maruti Suzuki
+Maruti Suzuki,parent_organization,Suzuki
+Suzuki,owner_of,Maruti Suzuki
+Maruti Suzuki,owned_by,Suzuki
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+Wella,parent_organization,Coty
+Wella,owned_by,Coty
+Wella,product_or_material_produced,hair care
+Clairol,parent_organization,Coty
+Myer,headquarters_location,Melbourne
+Bandhan Bank,headquarters_location,Kolkata
+Sanofi,subsidiary,Genzyme
+Genzyme,parent_organization,Sanofi
+Genzyme,owned_by,Sanofi
+SYRIZA,chairperson,Alexis Tsipras
+Ryanair,headquarters_location,Dublin Airport
+Aer Lingus,location_of_formation,Dublin
+Aer Lingus,headquarters_location,Dublin Airport
+FireEye,subsidiary,Mandiant
+Mandiant,parent_organization,FireEye
+Berkshire Hathaway,industry,insurance
+Lonmin,industry,mining
+Wynn Resorts,headquarters_location,Las Vegas
+Aurizon,product_or_material_produced,coal
+Josh Earnest,position_held,White House Press Secretary
+iShares,operator,BlackRock
+Cornerstone,industry,marketing
+Millions,location_of_formation,Chicago
+Canfor,legal_form,corporation
+YU Televentures,founded_by,Rahul Sharma
+Clarity,developer,Broadcom
+Ubisoft,member_of,game
+Mecca Bingo,product_or_material_produced,Bingo
+Phenom 300,manufacturer,Embraer
+Jumpman,owned_by,Nike
+grocery,operator,Walmart
+Olive Kitteridge,original_broadcaster,HBO
+certiorari,creator,court
+Bandhan Bank,headquarters_location,Kolkata
+KPMG,product_or_material_produced,audit
+NBCUniversal,founded_by,Comcast
+Comcast,subsidiary,NBCUniversal
+NBCUniversal,owned_by,Comcast
+NBCUniversal,parent_organization,Comcast
+Comscore,owner_of,Rentrak
+ConocoPhillips,product_or_material_produced,petroleum
+Nintendo DS,manufacturer,Nintendo
+Nintendo DS,developer,Nintendo
+Costco,industry,retail
+Roy Hill,product_or_material_produced,iron ore
+Really Love,distribution_format,music streaming
+AustralianSuper,product_or_material_produced,pension
+Glencore,industry,mining
+Sportech,industry,online gambling
+Windows 10,developer,Microsoft
+Airbus,product_or_material_produced,aircraft
+Flipkart,industry,e-commerce
+Direct Line,product_or_material_produced,insurance
+Sergio Marchionne,employer,Fiat
+Codelco,product_or_material_produced,copper
+Iveco,product_or_material_produced,truck
+Jeff Kennett,position_held,president
+Glenn Stevens,employer,Reserve Bank of Australia
+GMC,product_or_material_produced,truck
+Origines,original_broadcaster,France
+VersuS,distributed_by,Spotify
+Balfour Beatty,industry,construction
+fast food industry,product_or_material_produced,fast food
+food industry,product_or_material_produced,food
+Petrobras,stock_exchange,New York Stock Exchange
+Minimal,industry,retail
+Unilever,owner_of,Cornetto
+Unilever,owner_of,Dove
+Western Digital,subsidiary,SanDisk
+SanDisk,parent_organization,Western Digital
+Western Digital,owner_of,SanDisk
+SanDisk,owned_by,Western Digital
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+Dialog Semiconductor,product_or_material_produced,semiconductor
+Southern,headquarters_location,London
+Western Digital,product_or_material_produced,solid-state drive
+Unipetrol,product_or_material_produced,oil
+Sesame Street,original_broadcaster,HBO
+Nexus 6P,developer,Google
+Nexus 6P,manufacturer,Huawei
+Nexus 6P,developer,Huawei
+Software Solutions,product_or_material_produced,software
+Direct Line,product_or_material_produced,insurance
+Launched,distribution_format,music streaming
+Direct Line,product_or_material_produced,insurance
+About Us,publisher,Global
+Deloitte,product_or_material_produced,tax
+Petrobras,product_or_material_produced,gas
+Interbrand,industry,brand
+Chuck,original_broadcaster,NBC
+Boris Johnson,position_held,Mayor of London
+Statistics Canada,headquarters_location,Ottawa
+Jennifer Westacott,employer,Business Council of Australia
+NetSuite,product_or_material_produced,software
+BMC Software,product_or_material_produced,software
+Fairfax Media,headquarters_location,Sydney
+SYRIZA,chairperson,Alexis Tsipras
+Stratasys,industry,3D printing
+Stratasys,product_or_material_produced,3D printing
+Initiative,industry,marketing
+Move It,original_broadcaster,Go
+Dubai World,headquarters_location,Dubai
+Dubai World,location_of_formation,Dubai
+Airbus,product_or_material_produced,aircraft
+Initiative,industry,marketing
+Hilton Worldwide,product_or_material_produced,hotel
+Airbus,product_or_material_produced,aircraft
+KfW,owned_by,Germany
+CapitaLand,headquarters_location,Singapore
+Dallas Mavericks,owned_by,Mark Cuban
+Mark Cuban,owner_of,Dallas Mavericks
+New India Assurance,industry,insurance
+GMC Sierra,manufacturer,GMC
+GMC Sierra,brand,GMC
+eu,operator,European Union
+Morgan Stanley,headquarters_location,New York City
+Morgan Stanley,location_of_formation,New York City
+incorporation,product_or_material_produced,corporation
+Daimler AG,brand,Mercedes-Benz
+Daimler AG,owner_of,Mercedes-Benz
+Thomson Reuters,business_division,Reuters
+Thomson Reuters,subsidiary,Reuters
+PeopleSoft,subsidiary,JD Edwards
+Universal Pictures,legal_form,company
+Google TV,developer,Google
+Google Maps,developer,Google
+Celgene,stock_exchange,NASDAQ
+HSBC Finance,parent_organization,HSBC
+digester,product_or_material_produced,biogas
+Dubai,owned_by,Mohammed bin Rashid Al Maktoum
+Tutor Perini,industry,construction
+Accelerator,developer,Microsoft
+Citigroup,industry,financial services
+Gmail,owned_by,Google
+Gmail,developer,Google
+3D Systems,industry,3D printing
+Populous,industry,architecture
+Permira,industry,private equity
+Wallis,headquarters_location,London
+Exxon,product_or_material_produced,gasoline
+Exxon,product_or_material_produced,diesel
+Aurizon,product_or_material_produced,coal
+Brian Hartzer,employer,Westpac
+Verizon,parent_organization,Vodafone
+Vodafone,subsidiary,Verizon
+Wynn Macau,headquarters_location,Macau
+Facebook,creator,Mark Zuckerberg
+Facebook,founded_by,Mark Zuckerberg
+Greg Craven,employer,Australian Catholic University
+Mastercard,product_or_material_produced,debit card
+department store chain,industry,retail
+Daimler AG,subsidiary,Chrysler
+Facebook,creator,Mark Zuckerberg
+Facebook,founded_by,Mark Zuckerberg
+Taylor Wimpey,headquarters_location,London
+Glencore,industry,mining
+GMC,product_or_material_produced,truck
+General Electric,industry,conglomerate
+Best Buy,product_or_material_produced,consumer electronics
+BorgWarner,product_or_material_produced,powertrain
+Marissa Mayer,employer,Yahoo
+Larry Page,employer,Google
+Universal Music Group,parent_organization,Vivendi
+Universal Music Group,owned_by,Vivendi
+Vivendi,subsidiary,Universal Music Group
+British Airways,parent_organization,International Airlines Group
+British Airways,owned_by,International Airlines Group
+SABMiller,product_or_material_produced,beer
+Autodesk,product_or_material_produced,software
+eu,operator,European Union
+Prime,industry,retail
+Hindustan Times,headquarters_location,New Delhi
+Comscore,owner_of,Rentrak
+Quentin Purdy,position_held,district judge
+Petrobras,owner_of,Petrobras Distribuidora
+Shiv Sena,headquarters_location,Mumbai
+Shiv Sena,location_of_formation,Mumbai
+Primerica,industry,financial services
+Mattel,subsidiary,Fisher-Price
+Mattel,owner_of,Barbie
+Mattel,owner_of,Fisher-Price
+Eugene Fama,employer,University of Chicago
+Sessions,headquarters_location,Santa Cruz
+Vikram Pandit,employer,Citigroup
+JERA,headquarters_location,Tokyo
+Sampoerna,parent_organization,Philip Morris International
+UNIQLO,product_or_material_produced,clothing
+Glencore,industry,mining
+ArcelorMittal,industry,mining
+Foxconn,industry,electronics
+SABMiller,owned_by,Anheuser-Busch InBev
+Stella Artois,manufacturer,Anheuser-Busch InBev
+SABMiller,parent_organization,Anheuser-Busch InBev
+Pilbara Iron,industry,mining
+Joe Kaeser,employer,Siemens
+Hindustan Times,headquarters_location,New Delhi
+Deloitte,location_of_formation,London
+Deloitte,headquarters_location,London
+Rolls Royce Phantom,manufacturer,BMW
+Dairy Farmers,product_or_material_produced,dairy
+Fonterra,product_or_material_produced,milk
+Stratasys,industry,3D printing
+3D Systems,industry,3D printing
+Stratasys,product_or_material_produced,3D printing
+Hughes Electronics,parent_organization,General Motors
+Mirvac,headquarters_location,Sydney
+Hilton Worldwide,product_or_material_produced,hotel
+Pininfarina,industry,car designer
+music industry,product_or_material_produced,music
+Windows 10,developer,Microsoft
+Shopify,industry,e-commerce
+hdfc,operator,HDFC Bank
+hdfc,owned_by,HDFC Bank
+Jeff Bezos,owner_of,Amazon
+Jeff Bezos,employer,Amazon
+grocery,operator,Walmart
+CLIPS,platform,iOS
+Openreach,parent_organization,BT Group
+Foxtel,owned_by,Telstra
+Telstra,owner_of,Foxtel
+Vistaprint,parent_organization,Cimpress
+MoneyGram,headquarters_location,Dallas
+veto power,product_or_material_produced,veto
+PeopleSoft,subsidiary,JD Edwards
+Mattel,owner_of,Barbie
+Vodafone,owner_of,M-Pesa
+Air India,location_of_formation,Mumbai
+Air India,headquarters_location,Mumbai
+Storyful,founded_by,Mark Little
+Windows 10,developer,Microsoft
+Ana Botín,employer,Santander
+Susan Collins,position_held,United States senator
+paper machine,product_or_material_produced,paper
+Turkmenistan,headquarters_location,Ashgabat
+CLSA,headquarters_location,Hong Kong
+Minimal,industry,retail
+Jeff Bezos,owner_of,Amazon
+Jeff Bezos,employer,Amazon
+Dismaland,creator,Banksy
+Japan Post,headquarters_location,Tokyo
+Begin,location_of_formation,Tokyo
+Keio,location_of_formation,Tokyo
+Trulia,parent_organization,Zillow
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+Alan Joyce,employer,Qantas
+Qantas,chief_executive_officer,Alan Joyce
+Hamleys,product_or_material_produced,toy
+Hiscox,industry,insurance
+Amlin,industry,insurance
+Freecharge,owned_by,Snapdeal
+go90,owned_by,Verizon
+Buick,owned_by,General Motors
+Buick,parent_organization,General Motors
+Enter,distributed_by,Spotify
+Traton,subsidiary,Scania
+OZ Minerals,product_or_material_produced,copper
+Airbus,product_or_material_produced,aircraft
+Vikram Pandit,employer,Citigroup
+Alan Joyce,employer,Qantas
+Qantas,chief_executive_officer,Alan Joyce
+Panasonic Corporation,owner_of,Panasonic
+LaFerrari,manufacturer,Ferrari
+LaFerrari,brand,Ferrari
+Raghuram Rajan,employer,Reserve Bank of India
+software development,product_or_material_produced,software
+Momentum,industry,financial services
+Twitter,industry,Internet
+TELUS,legal_form,corporation
+Volkswagen Group,business_division,Volkswagen
+Costa Coffee,product_or_material_produced,coffee
+Balfour Beatty,industry,construction
+Glencore,industry,mining
+Berkshire Hathaway,owner_of,IBM
+Hero MotoCorp,chief_executive_officer,Pawan Munjal
+South32,product_or_material_produced,silver
+hdfc,operator,HDFC Bank
+hdfc,owned_by,HDFC Bank
+Glencore,industry,mining
+Marissa Mayer,employer,Yahoo
+Solera Holdings,industry,software
+Seamless,industry,Internet
+Wesfarmers,subsidiary,Officeworks
+Officeworks,parent_organization,Wesfarmers
+Scotiabank,industry,bank
+Mastercard,product_or_material_produced,credit card
+Boston Pizza,product_or_material_produced,restaurant
+Moz,industry,marketing
+Oxford Analytica,headquarters_location,Oxford
+Doug McMillon,employer,Walmart
+Yes Bank,headquarters_location,Mumbai
+WorldPay,headquarters_location,London
+PLDT,product_or_material_produced,mobile phone
+Goldwind,product_or_material_produced,wind turbine
+Fresh,industry,retail
+Arizona,location_of_formation,New Jersey
+CommonBond,product_or_material_produced,student loan
+Bill Gates,owner_of,Microsoft
+SYRIZA,headquarters_location,Athens
+SYRIZA,chairperson,Alexis Tsipras
+Jamie Dimon,employer,JPMorgan Chase
+Premier Farnell,industry,electronics
+Primark,owned_by,Associated British Foods
+Primark,parent_organization,Associated British Foods
+Primark,product_or_material_produced,clothing
+Prime,industry,retail
+Vertu,industry,retail
+We,publisher,Avon
+John Cleese,member_of,Monty Python
+insurance company,industry,insurance industry
+fronting,industry,insurance industry
+Lyft,headquarters_location,San Francisco
+Quentin Purdy,position_held,district judge
+Apartment,location_of_formation,London
+British Land,headquarters_location,London
+Initiative,industry,marketing
+Xbox One,developer,Microsoft
+Xbox,owned_by,Microsoft
+Glencore,industry,mining
+National Geographic Partners,subsidiary,National Geographic
+National Geographic Partners,legal_form,joint venture
+Samsung,product_or_material_produced,electronics
+Airbus,headquarters_location,Toulouse
+Comscore,owner_of,Rentrak
+Epicor,industry,software
+LexisNexis,parent_organization,RELX Group
+LexisNexis,owned_by,RELX Group
+Hindustan Times,headquarters_location,New Delhi
+Buick,headquarters_location,Detroit
+Buick,owned_by,General Motors
+Buick,parent_organization,General Motors
+General Electric,subsidiary,NBC
+Hero MotoCorp,product_or_material_produced,motorcycle
+Office Depot,product_or_material_produced,office supply
+One Direction,location_of_formation,London
+Mary Barra,employer,General Motors
+Trulia,parent_organization,Zillow
+Facebook,creator,Mark Zuckerberg
+Facebook,founded_by,Mark Zuckerberg
+SYRIZA,chairperson,Alexis Tsipras
+Areva,owned_by,France
+Areva,parent_organization,France
+Balfour Beatty,industry,construction
+Exxon Valdez,owned_by,Exxon
+CyberArk,stock_exchange,NASDAQ
+FireEye,stock_exchange,NASDAQ
+SABMiller,owned_by,Anheuser-Busch InBev
+SABMiller,parent_organization,Anheuser-Busch InBev
+Secret City,distributed_by,Foxtel
+Rafale,manufacturer,Dassault Aviation
+Rafale,developer,Dassault Aviation
+Glencore,industry,mining
+Technip,industry,engineering
+Gucci,parent_organization,Kering
+Janet Yellen,member_of,Federal Open Market Committee
+Wella,owned_by,Coty
+Wella,parent_organization,Coty
+3G Capital,owner_of,Heinz Company
+Intel,product_or_material_produced,software
+skype,operator,Microsoft
+Samsung,product_or_material_produced,electronics
+Shiseido,product_or_material_produced,cosmetics
+Warner Bros,location_of_formation,Los Angeles
+Freecharge,owned_by,Snapdeal
+Freecharge,industry,e-commerce
+Snapdeal,industry,e-commerce
+Airbus,product_or_material_produced,aircraft
+Xstrata,owned_by,Glencore
+Magic Quadrant,owned_by,Gartner
+Magic Quadrant,creator,Gartner
+Debenhams,industry,retail
+Louis Vuitton,owned_by,LVMH
+LVMH,owner_of,Louis Vuitton
+Louis Vuitton,parent_organization,LVMH
+skype,operator,Microsoft
+Equinix,product_or_material_produced,data center
+UGG,product_or_material_produced,footwear
+Airbus,product_or_material_produced,aircraft
+Raghuram Rajan,employer,Reserve Bank of India
+BG Group,parent_organization,Royal Dutch Shell
+SYRIZA,chairperson,Alexis Tsipras
+Edward Snowden,employer,National Security Agency
+Altera,parent_organization,Intel
+Wipro,headquarters_location,Bengaluru
+Facebook Inc,product_or_material_produced,Facebook
+Facebook,owned_by,Facebook Inc
+Facebook,operator,Facebook Inc
+New Democracy,chairperson,Antonis Samaras
+DFS,product_or_material_produced,furniture
+Western Digital,subsidiary,SanDisk
+SanDisk,parent_organization,Western Digital
+Western Digital,owner_of,SanDisk
+SanDisk,owned_by,Western Digital
+Glencore,industry,mining
+CLSA,headquarters_location,Hong Kong
+Airbus,product_or_material_produced,aircraft
+Wesfarmers,industry,conglomerate
+Whopper,manufacturer,Burger King
+58,location_of_formation,California
+Raghuram Rajan,employer,Reserve Bank of India
+Lloyd Blankfein,employer,Goldman Sachs
+Goldman Sachs,chief_executive_officer,Lloyd Blankfein
+Citigroup,industry,financial services
+BASIC Programming,platform,Atari 2600
+Statkraft,product_or_material_produced,energy
+SK Group,owned_by,SK
+gold mine,product_or_material_produced,gold
+OZ Minerals,product_or_material_produced,copper
+SABMiller,owned_by,Anheuser-Busch InBev
+SABMiller,parent_organization,Anheuser-Busch InBev
+mobility,product_or_material_produced,scooter
+Louis Vuitton,owned_by,LVMH
+LVMH,owner_of,Louis Vuitton
+Louis Vuitton,parent_organization,LVMH
+Roslyn Russell,employer,RMIT University
+Vivendi,subsidiary,Gameloft
+Gameloft,parent_organization,Vivendi
+Gameloft,owned_by,Vivendi
+Swissport,industry,aviation
+Dean Foods,product_or_material_produced,milk
+Direct Line,product_or_material_produced,insurance
+Bravia,owned_by,Sony
+Glenn Stevens,employer,Reserve Bank of Australia
+Apple Inc,industry,information technology
+Premier Oil,headquarters_location,London
+Marissa Mayer,employer,Yahoo
+Zeta Interactive,headquarters_location,New York
+Glencore,industry,mining
+Sergio Marchionne,employer,Fiat
+Eurozone,currency,euro
+Mattel,subsidiary,Fisher-Price
+Mattel,owner_of,Barbie
+Mattel,owner_of,Fisher-Price
+Bandhan Bank,industry,Finance
+Bandhan Bank,headquarters_location,Kolkata
+Instacart,industry,delivery
+GoPro,stock_exchange,NASDAQ
+Tata Magic,manufacturer,Tata Motors
+Sergio Marchionne,employer,Fiat
+FedEx,owner_of,TNT
+Citation,manufacturer,Cessna
+Kinross Gold,legal_form,corporation
+Brian Moynihan,employer,Bank of America
+Phillips 66,owned_by,Berkshire Hathaway
+Berkshire Hathaway,owner_of,Phillips 66
+Petra Diamonds,industry,diamond
+Lonmin,industry,mining
+SYRIZA,headquarters_location,Athens
+BayernLB,headquarters_location,Munich
+BayernLB,owned_by,Bavaria
+Yle,location_of_formation,Helsinki
+Gunvor,founded_by,Gennady Timchenko
+Dixons,industry,retail
+Bitstamp,industry,bitcoin
+Kotex,manufacturer,Kimberly-Clark
+Prime Video,parent_organization,Amazon
+Prime Video,founded_by,Amazon
+Prime Video,developer,Amazon
+FedEx,owner_of,TNT
+BG Group,parent_organization,Royal Dutch Shell
+Telstra,owner_of,Foxtel
+Foxtel,owned_by,Telstra
+Red Hat,parent_organization,IBM
+Covestro,owned_by,Bayer
+Chrysler,owned_by,Fiat Chrysler Automobiles
+Lexus,owned_by,Toyota
+Lexus,parent_organization,Toyota
+Lexus RX,manufacturer,Toyota
+Launched,distribution_format,music streaming
+Electrocomponents,headquarters_location,Oxford
+Glencore,industry,mining
+Peabody Energy,industry,coal mining
+Altera,parent_organization,Intel
+Apple Pay,owned_by,Apple Inc
+Apple Pay,developer,Apple Inc
+Apple Inc,product_or_material_produced,Apple Pay
+Hike,founded_by,Kavin Bharti Mittal
+Yum Brands,owner_of,KFC
+Yum Brands,subsidiary,Pizza Hut
+Yum Brands,owner_of,Pizza Hut
+Yum Brands,subsidiary,KFC
+Steve,employer,Associated Press
+Narendra Modi,member_of,Bharatiya Janata Party
+Alan Joyce,employer,Qantas
+Qantas,chief_executive_officer,Alan Joyce
+Impact,distribution_format,CD
+Windows 10,developer,Microsoft
+Willis Group,industry,insurance broker
+Plaid Cymru,chairperson,Leanne Wood
+Telefónica,subsidiary,Telefónica Deutschland
+Telefónica Deutschland,parent_organization,Telefónica
+888 Holdings,industry,gambling
+Prime,industry,retail
+Instacart,industry,delivery
+Mimecast,stock_exchange,NASDAQ
+Havas Worldwide,industry,advertising
+Apple II,developer,Steve Wozniak
+Television,distribution_format,video on demand
+Tanked,distribution_format,video on demand
+Results,distribution_format,video on demand
+TO,distribution_format,video on demand
+Marshall Wace,industry,hedge fund
+General Electric,industry,conglomerate
+Comscore,owner_of,Rentrak
+Dinty Moore,owned_by,Hormel
+Eurozone,currency,euro
+Premier Farnell,industry,electronics
+Thomson Reuters,business_division,Reuters
+Thomson Reuters,subsidiary,Reuters
+Medigus,stock_exchange,NASDAQ
+Vodafone,owner_of,M-Pesa
+Bridgewater Associates,director_/_manager,Ray Dalio
+Bridgewater Associates,founded_by,Ray Dalio
+Alan Joyce,employer,Qantas
+Qantas,chief_executive_officer,Alan Joyce
+Lufthansa,subsidiary,Lufthansa Cargo
+Lufthansa,subsidiary,SunExpress
+SunExpress,owned_by,Lufthansa
+Fortum,owner_of,Uniper
+Uniper,owned_by,Fortum
+Huggies,parent_organization,Kimberly-Clark
+Huggies,owned_by,Kimberly-Clark
+Eurozone,currency,euro
+Platts,owned_by,Global
+Platts,parent_organization,Global
+Brian Hartzer,employer,Westpac
+Jamie Dimon,employer,JPMorgan Chase
+Sanofi,owner_of,Regeneron Pharmaceuticals
+Dick Costolo,employer,Twitter
+Eurogroup,chairperson,Jeroen Dijsselbloem
+SKY TV,parent_organization,Sky
+Rupert Murdoch,owner_of,21st Century Fox
+News Corporation,chief_executive_officer,Rupert Murdoch
+News Corporation,founded_by,Rupert Murdoch
+Platts,owned_by,Global
+Platts,parent_organization,Global
+Standard Chartered,headquarters_location,London
+Standard Chartered,location_of_formation,London
+Games Workshop,location_of_formation,London
+Paramount Pictures,owned_by,Viacom
+Avelumab,manufacturer,Pfizer
+Avelumab,manufacturer,Merck KGaA
+Comscore,owner_of,Rentrak
+Barry Rosenstein,employer,JANA Partners
+JANA Partners,founded_by,Barry Rosenstein
+Klaus Kleinfeld,position_held,chief executive officer
+Alcoa,director_/_manager,Klaus Kleinfeld
+General Electric,owner_of,GE Capital
+GE Capital,parent_organization,General Electric
+GE Capital,owned_by,General Electric
+AmazonFresh,parent_organization,Amazon
+AmazonFresh,industry,retail
+Steve Ballmer,owner_of,Microsoft
+Steve Ballmer,employer,Microsoft
+Lead,location_of_formation,Japan
+Google Authenticator,developer,Google
+Google Authenticator,manufacturer,Google
+Producers,location_of_formation,London
+Duracell,parent_organization,Berkshire Hathaway
+Duracell,product_or_material_produced,battery
+Duracell,owned_by,Berkshire Hathaway
+Indeed,owned_by,Recruit
+Redmi,manufacturer,Xiaomi
+Redmi,parent_organization,Xiaomi
+iZettle,parent_organization,PayPal
+Comscore,owner_of,Rentrak
+Thai Airways,location_of_formation,Bangkok
+CBS Radio,industry,radio
+WHEN,owned_by,iHeartMedia
+Create,platform,PlayStation
+Saipem,parent_organization,Eni
+Come,location_of_formation,Boston
+Citigroup,owned_by,BlackRock
+program,platform,computer
+Cheetah Mobile,parent_organization,Kingsoft
+Cheetah Mobile,owned_by,Kingsoft
+LVMH,chief_executive_officer,Bernard Arnault
+LVMH,director_/_manager,Bernard Arnault
+Telefónica,owner_of,Vivo
+Amazon Prime,owned_by,Amazon
+Telstra,chief_executive_officer,David Thodey
+David Thodey,employer,Telstra
+General Electric,owner_of,GE Capital
+GE Capital,parent_organization,General Electric
+GE Capital,owned_by,General Electric
+SABMiller,owned_by,Anheuser-Busch InBev
+SABMiller,parent_organization,Anheuser-Busch InBev
+Chromecast,developer,Google
+Chromecast,manufacturer,Google
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+Sky Italia,parent_organization,Sky
+Sky Italia,owned_by,Sky
+Sky Deutschland,owned_by,Sky
+Sky Deutschland,parent_organization,Sky
+Lysol,manufacturer,Reckitt
+Lysol,owned_by,Reckitt
+Clarice Starling,creator,Thomas Harris
+Orion Pictures,product_or_material_produced,film
+Hannibal Lecter,creator,Thomas Harris
+Telstra,chief_executive_officer,David Thodey
+David Thodey,employer,Telstra
+Queensland Motorways,owned_by,Transurban
+Carlyle Group,founded_by,David Rubenstein
+Carlyle Group,chief_executive_officer,David Rubenstein
+David Rubenstein,employer,Carlyle Group
+Finns Party,founded_by,Timo Soini
+Finns Party,chairperson,Timo Soini
+Zovio,subsidiary,The University of Arizona Global Campus
+hdfc,operator,HDFC Bank
+| hdfc,owned_by,HDFC Bank
+WorldPay,parent_organization,Advent International
+Queensland Motorways,owned_by,Transurban
+Yum Brands,owner_of,KFC
+Yum Brands,subsidiary,KFC
+Mylan,parent_organization,Viatris
+Viatris,subsidiary,Mylan
+Google Hangouts,developer,Google
+Google Docs,developer,Google
+Google Hangouts,creator,Google
+Google Docs,owned_by,Google
+Eurogroup,chairperson,Jeroen Dijsselbloem
+Swoosh,owned_by,Nike
+Visa Europe,parent_organization,Visa Inc
+Visa Inc,subsidiary,Visa Europe
+Dennis Muilenburg,employer,Boeing
+Boeing,chief_executive_officer,Dennis Muilenburg
+SABMiller,owned_by,Anheuser-Busch InBev
+SABMiller,parent_organization,Anheuser-Busch InBev
+Citigroup,owned_by,BlackRock
+Fincantieri,location_of_formation,Rome
+Viacom,parent_organization,CBS
+Viacom,subsidiary,CBS
+Viacom,owned_by,CBS
+Foxtel,owned_by,News Corp
+Viacom,parent_organization,CBS
+Viacom,subsidiary,CBS
+Viacom,owned_by,CBS
+Facebook,creator,Mark Zuckerberg
+Facebook,founded_by,Mark Zuckerberg
+Ram Pickup,manufacturer,Chrysler
+PayPal,subsidiary,Venmo
+Lavazza,owner_of,Carte Noire
+Raise,distribution_format,music streaming
+Deezer,headquarters_location,Paris
+Walkman,manufacturer,Sony
+Citigroup,headquarters_location,New York City
+Citigroup,location_of_formation,New York City
+Morgan Stanley,headquarters_location,New York City
+Morgan Stanley,location_of_formation,New York City
+SYRIZA,chairperson,Alexis Tsipras
+Aer Lingus,location_of_formation,Dublin
+Aer Lingus,headquarters_location,Dublin Airport
+Nexus 6P,developer,Google
+Nexus 6P,manufacturer,Huawei
+Nexus 6P,developer,Huawei
+Dubai World,headquarters_location,Dubai
+Dubai World,location_of_formation,Dubai
+Vodafone,subsidiary,ONO
+Vodafone,headquarters_location,London
+Vodafone,subsidiary,ONO
+Vodafone,subsidiary,Vodafone Ghana
+Vodafone Ghana,parent_organization,Vodafone
+Magic Quadrant,owned_by,Gartner
+Magic Quadrant,creator,Gartner
+Nordstrom Rack,parent_organization,Nordstrom
+Answer,distributed_by,Spotify
+PeopleSoft,subsidiary,JD Edwards
+Presto,owned_by,Foxtel
+Enel,subsidiary,Enel Green Power
+Enel,owner_of,Enel Green Power
+Chromecast,developer,Google
+Chromecast,manufacturer,Google
+NBCUniversal,subsidiary,Universal Pictures
+Chevrolet Aveo,manufacturer,General Motors
+Nescafé,manufacturer,Nestlé
+Nescafé,owned_by,Nestlé
+Presto,owned_by,Foxtel
+Foxtel,legal_form,joint venture
+Mattel,owner_of,Barbie
+Mattel,product_or_material_produced,doll
+Comscore,owner_of,Rentrak
+Fortum,owner_of,Uniper
+Uniper,owned_by,Fortum
+Facebook Inc,stock_exchange,NASDAQ
+Magic Quadrant,owned_by,Gartner
+Magic Quadrant,creator,Gartner
+Amazon Prime,owned_by,Amazon
+Whitbread,subsidiary,Costa Coffee
+Costa Coffee,parent_organization,Whitbread
+United Airlines,owned_by,United Airlines Holdings
+United Airlines Holdings,subsidiary,United Airlines
+United Airlines,parent_organization,United Airlines Holdings
+Aer Lingus,parent_organization,International Airlines Group
+Mattel,owner_of,Barbie
+Comscore,owner_of,Rentrak
+Harvey Norman,founded_by,Gerry Harvey
+Bourjois,owned_by,Coty
+Bourjois,parent_organization,Coty
+Lufthansa,subsidiary,Eurowings
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+Red Hat,parent_organization,IBM
+Mashable,founded_by,Pete Cashmore
+Lufthansa,chief_executive_officer,Carsten Spohr
+Lufthansa,subsidiary,Eurowings
+Eurowings,parent_organization,Lufthansa Group
+Bild,founded_by,Axel Springer
+Mattel,owner_of,Barbie
+Minecraft,founded_by,Markus Persson
+Mobileye,legal_form,Intel
+Mobileye,parent_organization,Intel
+Intel,subsidiary,Mobileye
+Biocon,founded_by,Kiran Mazumdar-Shaw
+Biocon,director_/_manager,Kiran Mazumdar-Shaw
+Chrysler Sebring,brand,Chrysler
+Chrysler Sebring,manufacturer,Chrysler
+Yelp,founded_by,Jeremy Stoppelman
+Yelp,chief_executive_officer,Jeremy Stoppelman
+Texas Instruments,subsidiary,National Semiconductor
+National Semiconductor,owned_by,Texas Instruments
+Texas Instruments,owner_of,National Semiconductor
+National Semiconductor,parent_organization,Texas Instruments
+Jeep Renegade,manufacturer,Jeep
+Jeep Renegade,brand,Jeep
+Ivan Glasenberg,owner_of,Glencore
+Glencore,owned_by,Ivan Glasenberg
+Glencore,chief_executive_officer,Ivan Glasenberg
+Volvo Trucks,parent_organization,Volvo
+Volvo Trucks,owned_by,Volvo
+Volvo,subsidiary,Volvo Trucks
+Volvo,owner_of,Volvo Trucks
+Buick Encore,brand,Buick
+Mattel,owner_of,Barbie
+Mattel,subsidiary,American Girl
+Global 500,creator,Fortune
+Macquarie Group,subsidiary,Esanda
+Zillow,stock_exchange,NASDAQ
+Chrysler Sebring,brand,Chrysler
+Chrysler Sebring,manufacturer,Chrysler
+Global 500,creator,Fortune
+Lucasfilm,owner_of,Star Wars
+Star Wars,owned_by,Lucasfilm
+Lucasfilm,product_or_material_produced,film
+FedEx,owner_of,TNT
+FedEx Ground,parent_organization,FedEx
+FedEx,subsidiary,FedEx Ground
+Chevrolet Volt,brand,Chevrolet
+Chrysler Executive,manufacturer,Chrysler
+Chrysler Executive,brand,Chrysler
+Tencent,subsidiary,WeChat
+WeChat,developer,Tencent
+Mattel,owner_of,Barbie
+Optus,owned_by,SingTel
+Optus,parent_organization,SingTel
+SingTel,subsidiary,Optus
+Comscore,owner_of,Rentrak
+Lockheed Martin,owner_of,United Launch Alliance
+Steve Ballmer,owner_of,Microsoft
+Steve Ballmer,employer,Microsoft
+Rosneft,director_/_manager,Igor Sechin
+Rosneft,chief_executive_officer,Igor Sechin
+Viacom,parent_organization,CBS
+Viacom,subsidiary,CBS
+Viacom,owned_by,CBS
+Western Digital,subsidiary,SanDisk
+SanDisk,parent_organization,Western Digital
+Western Digital,owner_of,SanDisk
+SanDisk,owned_by,Western Digital
+Chevrolet Volt,brand,Chevrolet
+Boeing,subsidiary,McDonnell Douglas
+NBCUniversal,founded_by,Comcast
+Comcast,subsidiary,NBCUniversal
+NBCUniversal,owned_by,Comcast
+NBCUniversal,parent_organization,Comcast
+TSYS,subsidiary,Global Payments
+Thomson Reuters,business_division,Reuters
+Thomson Reuters,subsidiary,Reuters
+Facebook,creator,Mark Zuckerberg
+Facebook,founded_by,Mark Zuckerberg
+UNIQLO,owned_by,Fast Retailing
+UNIQLO,parent_organization,Fast Retailing
+Fast Retailing,subsidiary,UNIQLO
+Appaloosa Management,founded_by,David Tepper
+Appaloosa Management,director_/_manager,David Tepper
+Appaloosa Management,owned_by,David Tepper
+David Tepper,owner_of,Appaloosa Management
+eBay,legal_form,corporation
+eBay,subsidiary,PayPal
+eBay,owner_of,PayPal
+PayPal,owned_by,eBay
+Dropbox,creator,Drew Houston
+Lufthansa,subsidiary,Austrian Airlines
+Thomson Reuters,business_division,Reuters
+Thomson Reuters,subsidiary,Reuters
+Apple Inc,stock_exchange,NASDAQ
+eBay,stock_exchange,NASDAQ
+Thomson Reuters,business_division,Reuters
+Thomson Reuters,subsidiary,Reuters
+Chevrolet Malibu,brand,Chevrolet
+Natera,stock_exchange,NASDAQ
+SoftBank,headquarters_location,Tokyo
+SoftBank,stock_exchange,Tokyo Stock Exchange
+Xstrata,owned_by,Glencore
+Glencore,industry,mining
+Glencore,stock_exchange,London Stock Exchange
+Wipro,director_/_manager,Azim Premji
+Wipro,owned_by,Azim Premji
+Wipro,founded_by,Azim Premji
+Lonmin,stock_exchange,London Stock Exchange
+Lonmin,headquarters_location,London
+PayPal,stock_exchange,NASDAQ
+Apple Inc,stock_exchange,NASDAQ
+Goldman Sachs,stock_exchange,New York Stock Exchange
+Thomson Reuters,business_division,Reuters
+Thomson Reuters,subsidiary,Reuters
+Apple Inc,stock_exchange,NASDAQ
+eBay,stock_exchange,NASDAQ
+Forrester,stock_exchange,NASDAQ
+Saputo,stock_exchange,Toronto Stock Exchange
