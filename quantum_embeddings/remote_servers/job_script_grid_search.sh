@@ -3,8 +3,8 @@
 #SBATCH --job-name=VQA_KG
 #SBATCH --nodes=1
 #SBATCH --chdir="/home/msantesteban/tesis"
-#SBATCH --error="./quantum_embeddings/cecar/VQA_KG_error-%j.err"
-#SBATCH --output="./quantum_embeddings/cecar/VQA_KG_output-%j.out"
+#SBATCH --error="./quantum_embeddings/remote_servers/VQA_KG_error-%j.err"
+#SBATCH --output="./quantum_embeddings/remote_servers/VQA_KG_output-%j.out"
 #SBATCH --partition=rtx4070,rtx2080
 #SBATCH --time=71:58:00
 

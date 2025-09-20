@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INPUT_DIR="/home/msantesteban/tesis/quantum_embeddings/input_exps"
+INPUT_DIR="/home/msantesteban/mi_tesis/quantum_embeddings/input_exps"
 
 for file in "$INPUT_DIR"/*; do
     if [ -f "$file" ]; then
