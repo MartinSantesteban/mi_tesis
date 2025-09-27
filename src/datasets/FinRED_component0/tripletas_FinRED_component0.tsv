@@ -1,0 +1,2421 @@
+h.name	r.name	t.name
+Apple Inc	chief_executive_officer	Tim Cook
+Apple Inc	industry	information technology
+Apple Inc	product_or_material_produced	Apple TV
+Apple Inc	product_or_material_produced	software
+Apple Inc	industry	electronics
+Apple Inc	product_or_material_produced	iPhone 6S Plus
+Apple Inc	product_or_material_produced	iPad
+Apple Inc	product_or_material_produced	Apple Pay
+Apple Inc	product_or_material_produced	iPhone 6S
+Apple Inc	product_or_material_produced	iPhone
+Apple Inc	stock_exchange	NASDAQ
+Apple Inc	founded_by	Steve Jobs
+Apple Inc	chief_executive_officer	Steve Jobs
+Vikram Pandit	employer	Citigroup
+Lehman Brothers	product_or_material_produced	investment bank
+Lehman Brothers	industry	investment
+Viacom	industry	broadcasting
+Viacom	owned_by	CBS
+Viacom	subsidiary	CBS
+Viacom	parent_organization	CBS
+Les Moonves	employer	CBS
+Talbots	industry	retail
+Bear Stearns	industry	investment
+Analog Devices	stock_exchange	NASDAQ
+Analog Devices	product_or_material_produced	semiconductor
+Walgreens	parent_organization	Walgreens Boots Alliance
+Walgreens	chief_executive_officer	Stefano Pessina
+Walgreens	industry	retail
+Rite Aid	industry	retail
+Mastercard	headquarters_location	Purchase
+Mastercard	product_or_material_produced	credit card
+Mastercard	owner_of	Switch
+Mastercard	member_of	Maestro
+Mastercard	owner_of	Maestro
+Mastercard	product_or_material_produced	debit card
+Mastercard	industry	financial services
+General Electric	chief_executive_officer	Jeff Immelt
+General Electric	owner_of	GE Healthcare
+General Electric	subsidiary	GE Healthcare
+General Electric	stock_exchange	New York Stock Exchange
+General Electric	subsidiary	NBC
+General Electric	owner_of	GE Capital
+General Electric	industry	conglomerate
+Capital One	industry	financial services
+Starbucks	owner_of	Teavana
+Starbucks	subsidiary	Teavana
+Starbucks	product_or_material_produced	coffee
+Gmail	developer	Google
+Gmail	owned_by	Google
+Google Talk	developer	Google
+Google Docs	owned_by	Google
+Google Docs	developer	Google
+Jamie Dimon	position_held	chief executive officer
+Jamie Dimon	employer	JPMorgan Chase
+Xbox 360	manufacturer	Microsoft
+Xbox 360	developer	Microsoft
+Xbox	owned_by	Microsoft
+OfficeMax	parent_organization	Office Depot
+Diet Pepsi	manufacturer	PepsiCo
+Diet Pepsi	brand	Pepsi
+PepsiCo	chief_executive_officer	Indra Nooyi
+PepsiCo	product_or_material_produced	Pepsi
+PepsiCo	owner_of	Rockstar
+PepsiCo	product_or_material_produced	Diet Pepsi
+PepsiCo	owner_of	Gatorade
+PepsiCo	product_or_material_produced	Gatorade
+PepsiCo	product_or_material_produced	Up
+PepsiCo	subsidiary	Gatorade
+Gatorade	owned_by	PepsiCo
+Gatorade	parent_organization	PepsiCo
+Sony	owner_of	Sony Pictures Television
+Sony	owner_of	Olympus
+Sony	product_or_material_produced	software
+Sony	subsidiary	Sony Pictures
+Sony	product_or_material_produced	video game
+Sony	product_or_material_produced	consumer electronics
+Sony	product_or_material_produced	semiconductor
+Sony	owner_of	Crackle
+Sony	owner_of	Sony Pictures
+Sony	industry	consumer electronics
+Buckle	product_or_material_produced	clothing
+Buckle	industry	retail
+mobility	product_or_material_produced	software
+mobility	product_or_material_produced	train
+mobility	product_or_material_produced	scooter
+mobility	product_or_material_produced	bicycle
+Google Chrome	developer	Google
+food industry	product_or_material_produced	food
+Match	industry	retail
+Flying	industry	aviation
+Fresh	industry	retail
+HBO Max	operator	WarnerMedia
+HBO Max	parent_organization	WarnerMedia
+HBO Max	owned_by	AT
+Higher	distributed_by	Spotify
+Higher	distribution_format	music streaming
+VersuS	distribution_format	music streaming
+VersuS	distributed_by	Spotify
+ARRAY	legal_form	company
+LinkedIn	industry	Internet
+LinkedIn	owned_by	Microsoft
+LinkedIn	parent_organization	Microsoft
+GMC	headquarters_location	Detroit
+GMC	owned_by	General Motors
+GMC	product_or_material_produced	truck
+GMC	parent_organization	General Motors
+Zoom Telephonics	product_or_material_produced	software
+DSV	industry	transport
+Working	original_broadcaster	NBC
+TO	distribution_format	video on demand
+Zimbra	product_or_material_produced	software
+Initiative	industry	advertising
+Initiative	headquarters_location	New York City
+Initiative	industry	marketing
+Baidu	director_/_manager	Robin Li
+Baidu	stock_exchange	NASDAQ
+Baidu	product_or_material_produced	search engine
+Baidu	industry	Internet
+Baidu	headquarters_location	Beijing
+Baidu	product_or_material_produced	software
+Baidu	founded_by	Robin Li
+Xeon	manufacturer	Intel
+Extra	original_broadcaster	Nine
+Microsoft Azure	developer	Microsoft
+Microsoft Teams	developer	Microsoft
+Gucci	parent_organization	Kering
+Gucci	industry	fashion
+Stuff	location_of_formation	New York
+FireEye	stock_exchange	NASDAQ
+FireEye	industry	software
+FireEye	subsidiary	Mandiant
+Mandiant	parent_organization	FireEye
+Express Scripts	parent_organization	Cigna
+Google Analytics	creator	Google
+Google Analytics	owned_by	Google
+Google Analytics	developer	Google
+Costco	industry	retail
+Office 365	developer	Microsoft
+TransACT	industry	television
+music industry	product_or_material_produced	music
+Product	distribution_format	music streaming
+Product	distributed_by	Spotify
+Better	distribution_format	music streaming
+Esri	industry	software
+Esri	product_or_material_produced	software
+Zulily	founded_by	Darrell Cavens
+Zulily	industry	e-commerce
+partypoker	industry	online poker
+partypoker	legal_form	company
+Best Buy	industry	retail
+Best Buy	chief_executive_officer	Hubert Joly
+Best Buy	product_or_material_produced	consumer electronics
+Anyone	location_of_formation	California
+retail environment	industry	retail
+Circa	legal_form	company
+Lordstown Motors	stock_exchange	NASDAQ
+Software Solutions	product_or_material_produced	software
+software industry	product_or_material_produced	software
+Chromebook	developer	Google
+UiPath	legal_form	company
+Deloitte	location_of_formation	London
+Deloitte	product_or_material_produced	tax
+Deloitte	product_or_material_produced	risk management
+Deloitte	product_or_material_produced	consultancy
+Deloitte	product_or_material_produced	audit
+Deloitte	headquarters_location	London
+Cornerstone	industry	marketing
+SingTel	subsidiary	Optus
+SingTel	headquarters_location	Singapore
+Samsung	product_or_material_produced	mobile phone
+Samsung	product_or_material_produced	entertainment
+Samsung	industry	conglomerate
+Samsung	location_of_formation	Seoul
+Samsung	product_or_material_produced	electronics
+Samsung	product_or_material_produced	shipbuilding
+Michael Dell	position_held	chief executive officer
+Michael Dell	owner_of	Dell Technologies
+Dell Technologies	founded_by	Michael Dell
+Dell Technologies	chief_executive_officer	Michael Dell
+Dell Technologies	subsidiary	Dell EMC
+ADNOC	headquarters_location	Abu Dhabi
+PayPal	product_or_material_produced	credit card
+PayPal	subsidiary	Braintree
+PayPal	owner_of	Bill Me Later
+PayPal	legal_form	public company
+PayPal	owned_by	eBay
+PayPal	subsidiary	Venmo
+PayPal	stock_exchange	NASDAQ
+PayPal	industry	financial services
+HBO	industry	pay television
+HBO	owner_of	HBO Go
+HBO	owned_by	WarnerMedia
+HBO	parent_organization	WarnerMedia
+HBO	owner_of	HBO Now
+software company	product_or_material_produced	software
+Live	distribution_format	video on demand
+department store chain	industry	retail
+Mervyns	industry	retail
+Cognos	industry	business intelligence
+Cognos	owned_by	IBM
+Cognos	parent_organization	IBM
+Ahold	industry	retail
+Ahold	founded_by	Albert Heijn
+Ahold	subsidiary	Albert Heijn
+Delhaize	industry	retail
+Ahold Delhaize	industry	retail
+Angeles	location_of_formation	Los Angeles
+Begin	location_of_formation	Tokyo
+Walmart Canada	parent_organization	Walmart
+grocery	operator	Walmart
+Envestnet	headquarters_location	Chicago
+Avenue	industry	retail
+Forever 21	industry	retail
+Revlon	product_or_material_produced	cosmetics
+Party City	industry	retail
+CapitaLand	headquarters_location	Singapore
+SuccessFactors	industry	software
+Canadian Tire	industry	retail
+Lead	location_of_formation	Japan
+Sears Outlet	industry	retail
+Fortnite	developer	Epic Games
+Fortnite	publisher	Epic Games
+Epic Games	product_or_material_produced	software
+eBay	owner_of	Gumtree
+eBay	location_of_formation	California
+eBay	owned_by	Pierre Omidyar
+eBay	founded_by	Pierre Omidyar
+eBay	subsidiary	PayPal
+eBay	owner_of	PayPal
+eBay	legal_form	corporation
+eBay	creator	Pierre Omidyar
+eBay	stock_exchange	NASDAQ
+eBay	industry	e-commerce
+Material	location_of_formation	New York City
+DualSense	manufacturer	Sony Interactive Entertainment
+PlayStation	manufacturer	Sony Interactive Entertainment
+PlayStation	developer	Sony Interactive Entertainment
+DualShock	manufacturer	Sony
+iOS 14	platform	iPhone
+Come	location_of_formation	Boston
+Cash Flow	original_broadcaster	CBS
+Beechcraft	parent_organization	Textron
+Beechcraft	industry	aviation
+gold mine	product_or_material_produced	gold
+Audio	distribution_format	music streaming
+Audio	distributed_by	Spotify
+Was	publisher	HarperCollins
+Alteryx	industry	software
+VAST	location_of_formation	Seattle
+Zillow	headquarters_location	Seattle
+Zillow	stock_exchange	NASDAQ
+Momentum	industry	financial services
+Boeing	owned_by	BlackRock
+Boeing	subsidiary	Boeing Capital
+Boeing	subsidiary	Boeing Commercial Airplanes
+Boeing	business_division	Boeing Commercial Airplanes
+Boeing	headquarters_location	Chicago
+Boeing	business_division	Boeing Capital
+Boeing	chief_executive_officer	Dennis Muilenburg
+Boeing	subsidiary	Insitu
+Boeing	owner_of	Boeing Commercial Airplanes
+Boeing	subsidiary	McDonnell Douglas
+Boeing	headquarters_location	Seattle
+Boeing	product_or_material_produced	Boeing 787 Dreamliner
+Boeing	owner_of	United Launch Alliance
+Boeing	product_or_material_produced	Boeing 767
+Boeing	product_or_material_produced	Boeing 737
+Boeing	location_of_formation	Seattle
+Boeing	product_or_material_produced	Boeing 747
+Seamless	parent_organization	GrubHub
+Seamless	industry	Internet
+GrubHub	subsidiary	Seamless
+Ageas	product_or_material_produced	insurance
+Minimal	industry	retail
+Airbus	product_or_material_produced	airplane
+Airbus	parent_organization	Airbus Group
+Airbus	chief_executive_officer	Tom Enders
+Airbus	chief_executive_officer	Guillaume Faury
+Airbus	product_or_material_produced	aircraft
+Airbus	headquarters_location	Toulouse
+Airbus	location_of_formation	France
+Airbus	product_or_material_produced	A350
+Airbus	product_or_material_produced	Airbus A380
+Cognizant	legal_form	public company
+Upjohn	legal_form	company
+Upjohn	parent_organization	Viatris
+remdesivir	developer	Gilead Sciences
+Mylan	parent_organization	Viatris
+Mylan	chief_executive_officer	Heather Bresch
+Mylan	stock_exchange	NASDAQ
+Viatris	subsidiary	Mylan
+Viatris	subsidiary	Upjohn
+battery industry	product_or_material_produced	battery
+Republic Services	stock_exchange	New York Stock Exchange
+Focus Features	parent_organization	Universal Pictures
+Petrobras	headquarters_location	Rio de Janeiro
+Petrobras	stock_exchange	New York Stock Exchange
+Petrobras	owner_of	Petrobras Distribuidora
+Petrobras	product_or_material_produced	gas
+Animal Crossing	publisher	Nintendo
+Animal Crossing	platform	Nintendo Switch
+Animal Crossing	developer	Nintendo
+Nintendo	chief_executive_officer	Tatsumi Kimishima
+Nintendo	chief_executive_officer	Satoru Iwata
+Nintendo	product_or_material_produced	software
+Nintendo	owner_of	DeNA
+Nintendo	location_of_formation	Japan
+A350	operator	Singapore Airlines
+A350	manufacturer	Airbus
+A350	developer	Airbus
+A350	operator	British Airways
+DirecTV	owned_by	AT
+DirecTV	subsidiary	Vrio
+Sky Brasil	owned_by	Vrio
+Vrio	subsidiary	Sky Brasil
+Vrio	parent_organization	DirecTV
+Concentration	original_broadcaster	Nine
+MetLife	industry	insurance industry
+MetLife	product_or_material_produced	insurance
+Limoneira	headquarters_location	California
+ViacomCBS	subsidiary	CBS
+ViacomCBS	owner_of	CBS
+ViacomCBS	owner_of	Pluto TV
+Pluto TV	owned_by	ViacomCBS
+Equinix	stock_exchange	NASDAQ
+Equinix	industry	Internet
+Equinix	product_or_material_produced	data center
+DataXu	industry	marketing
+HBO Go	owned_by	HBO
+MSN	owned_by	Microsoft
+Exposure Notification	developer	Google
+Sonos	product_or_material_produced	Play
+Ternium	product_or_material_produced	steel
+WarnerMedia	owner_of	Max
+WarnerMedia	owned_by	AT
+WarnerMedia	owner_of	HBO
+WarnerMedia	subsidiary	HBO
+WarnerMedia	parent_organization	AT
+CDW	product_or_material_produced	software
+Refinitiv	headquarters_location	London
+DKNY	founded_by	Donna Karan
+DKNY	industry	retail
+Very	distribution_format	music streaming
+Different	distributed_by	Spotify
+Different	distribution_format	music streaming
+Happy	distributed_by	Spotify
+Cigna	product_or_material_produced	health insurance
+Intel	product_or_material_produced	server
+Intel	product_or_material_produced	software
+Intel	stock_exchange	NASDAQ
+Intel	chief_executive_officer	Brian Krzanich
+Intel	subsidiary	Mobileye
+Results	distributed_by	Hulu
+Results	distribution_format	video on demand
+Google Fi	operator	Google
+Google Fi	owned_by	Google
+HiSilicon	owned_by	Huawei
+HiSilicon	parent_organization	Huawei
+Kernel	legal_form	company
+Amazon Go	founded_by	Amazon
+Amazon Go	owned_by	Amazon
+Amazon Go	parent_organization	Amazon
+Amazon Go	operator	Amazon
+Liberty Mutual	industry	insurance
+Ingredion	industry	food
+First Media	industry	advertising
+Mafia Trilogy	platform	Xbox One
+Mafia Trilogy	platform	PlayStation
+Mafia III	platform	Xbox One
+Mafia III	platform	PlayStation
+Mafia III	developer	Hangar 13
+Mafia II	platform	PlayStation
+Civilization VI	developer	Firaxis Games
+Civilization VI	platform	Nintendo Switch
+Civilization VI	platform	PlayStation
+Civilization	platform	PlayStation
+NBA 2K21	platform	PlayStation
+WWE 2K	platform	PlayStation
+Roll7	headquarters_location	London
+OlliOlli	developer	Roll7
+Avanade	founded_by	Microsoft
+Avanade	parent_organization	Microsoft
+Avanade	owned_by	Microsoft
+bank statement	creator	bank
+AppFolio	industry	software
+Dufry	industry	retail
+ASEAN	founded_by	Singapore
+ASEAN	headquarters_location	Jakarta
+ASEAN	founded_by	Indonesia
+ASEAN	founded_by	Philippines
+ASEAN	founded_by	Malaysia
+Prime	industry	retail
+Boeing 747	developer	Boeing
+Foodstuffs	industry	retail
+TD Ameritrade	legal_form	public company
+Within	industry	virtual reality
+Within	headquarters_location	Los Angeles
+SFR	parent_organization	Altice
+SFR	owned_by	Altice
+Saipem	parent_organization	Eni
+Saipem	headquarters_location	Milan
+Vivendi	owned_by	Bolloré
+Vivendi	subsidiary	Gameloft
+Vivendi	subsidiary	Universal Music Group
+Vivendi	subsidiary	Dailymotion
+Vivendi	subsidiary	Editis
+Editis	parent_organization	Vivendi
+Universal Music Group	product_or_material_produced	music
+Universal Music Group	parent_organization	Vivendi
+Universal Music Group	owned_by	Vivendi
+Answer	distributed_by	Spotify
+Has Been	distributed_by	Spotify
+Future	distributed_by	Spotify
+Usiminas	product_or_material_produced	steel
+Nord Pool	parent_organization	Euronext
+Nord Pool	headquarters_location	Oslo
+Euronext	location_of_formation	Amsterdam
+Euronext	headquarters_location	Amsterdam
+Euronext	subsidiary	Nord Pool
+Euronext	founded_by	Euronext Amsterdam
+Wachovia	owned_by	Wells Fargo
+Wachovia	parent_organization	Wells Fargo
+Transavia France	parent_organization	Air France
+Transavia France	parent_organization	Transavia
+Tata Motors	subsidiary	Tata Daewoo
+Tata Motors	product_or_material_produced	truck
+Tata Motors	owner_of	Jaguar Land Rover
+Tata Motors	owner_of	Tata Daewoo
+Tata Motors	subsidiary	Jaguar Land Rover
+TELUS	legal_form	corporation
+Warburg Pincus	industry	investment
+Methanex	legal_form	corporation
+Interxion	industry	data center
+Interxion	product_or_material_produced	data center
+FIFA	platform	PlayStation
+FIFA	platform	Xbox
+FIFA	developer	EA Sports
+Madden NFL	publisher	EA Sports
+FIFA 21	platform	PlayStation
+FIFA 21	publisher	EA Sports
+Madden NFL 21	publisher	EA Sports
+Madden NFL 21	platform	PlayStation
+Further	location_of_formation	Los Angeles
+Marfrig	product_or_material_produced	food
+Land	location_of_formation	Seattle
+UGG	product_or_material_produced	footwear
+UGG	industry	retail
+Xilinx	product_or_material_produced	software
+Google Checkout	developer	Google
+Fendt	parent_organization	AGCO
+Fendt	owned_by	AGCO
+Fendt	product_or_material_produced	tractor
+Virgin Media	parent_organization	Liberty Global
+Virgin Media	owned_by	Liberty Global
+Liberty Global	owner_of	Telenet
+Liberty Global	subsidiary	Telenet
+Liberty Global	subsidiary	Virgin Media
+Liberty Global	owner_of	Virgin Media
+Liberty Global	subsidiary	ITV plc
+Liberty Global	stock_exchange	NASDAQ
+Liberty Global	headquarters_location	London
+Yanacocha	product_or_material_produced	gold
+NBCUniversal	owned_by	Comcast
+NBCUniversal	owner_of	Hulu
+NBCUniversal	parent_organization	Comcast
+NBCUniversal	industry	television
+NBCUniversal	product_or_material_produced	broadcasting
+NBCUniversal	subsidiary	Peacock
+NBCUniversal	subsidiary	NBC
+NBCUniversal	subsidiary	Universal Pictures
+NBCUniversal	owner_of	NBC
+NBCUniversal	founded_by	Comcast
+Comcast	subsidiary	NBCUniversal
+Comcast	subsidiary	Sky
+Comcast	chief_executive_officer	Brian Roberts
+Comcast	stock_exchange	NASDAQ
+Comcast	director_/_manager	Brian Roberts
+Sky Broadband	parent_organization	Sky
+Better Place	industry	transport
+Airbnb	creator	Brian Chesky
+Airbnb	industry	Business travel
+Airbnb	headquarters_location	San Francisco
+Airbnb	chief_executive_officer	Brian Chesky
+Airbnb	founded_by	Brian Chesky
+Airbnb	industry	tourism
+Airbnb	industry	tourism industry
+Volvo	subsidiary	Volvo Trucks
+Volvo	subsidiary	Volvo Buses
+Volvo	owner_of	Volvo Trucks
+Volvo	product_or_material_produced	truck
+Resonate	industry	marketing
+toy industry	product_or_material_produced	toy
+Create	platform	PlayStation
+Create	platform	macOS
+Cameco	product_or_material_produced	uranium
+Cameco	legal_form	corporation
+Cameco	industry	mining
+Kazatomprom	product_or_material_produced	uranium
+Japan Post Holdings	subsidiary	Japan Post
+We Believe	distributed_by	Spotify
+Play	distributed_by	Spotify
+Play	distribution_format	music streaming
+She	distribution_format	music streaming
+She	distributed_by	Spotify
+Open	distributed_by	Spotify
+Above	distributed_by	Spotify
+Available	distributed_by	Spotify
+Available	distribution_format	music streaming
+Inception	distributed_by	Spotify
+Much Higher	distributed_by	Spotify
+Commissioner	location_of_formation	California
+Red Hat	parent_organization	IBM
+Red Hat	product_or_material_produced	software
+Red Hat	headquarters_location	Raleigh
+OpenShift	developer	Red Hat
+Share	platform	Windows XP
+Share	platform	Windows
+Office Online	owned_by	Microsoft
+skype	operator	Microsoft
+KPN	owner_of	BASE
+Canfor	legal_form	corporation
+Audi Q5	manufacturer	Audi
+Audi Q5	brand	Audi
+Mapfre	industry	insurance
+Out There	platform	iOS
+Things	platform	iOS
+Things	distributed_by	App Store
+GROW	platform	iOS
+Mattel	subsidiary	Fisher-Price
+Mattel	industry	toy industry
+Mattel	owner_of	Fisher-Price
+Mattel	subsidiary	American Girl
+Mattel	product_or_material_produced	board game
+Mattel	owner_of	Barbie
+Mattel	product_or_material_produced	doll
+Mattel	stock_exchange	NASDAQ
+Away	location_of_formation	New York City
+Away	headquarters_location	New York City
+Ipsos	industry	market research
+Nucor	product_or_material_produced	steel
+steelmaking	product_or_material_produced	steel
+Codelco	industry	mining
+Codelco	product_or_material_produced	copper
+Codelco	headquarters_location	Santiago
+Grasberg Mine	product_or_material_produced	copper
+Grasberg Mine	product_or_material_produced	gold
+Green	headquarters_location	Tokyo
+Alipay	industry	financial services
+AutoNation	industry	retail
+Xandr	industry	advertising
+Xandr	owned_by	WarnerMedia
+FedEx	subsidiary	FedEx Ground
+FedEx	industry	logistics
+FedEx	owner_of	TNT
+FedEx	subsidiary	FedEx Express
+FedEx	subsidiary	FedEx Office
+FedEx	location_of_formation	Little Rock
+Up	distribution_format	music streaming
+Up	distributed_by	Spotify
+Amazon Prime	owned_by	Amazon
+Boeing 737	operator	Qantas
+Boeing 737	operator	Southwest Airlines
+Boeing 737	developer	Boeing
+Boeing 737	manufacturer	Boeing
+Kenworth	parent_organization	PACCAR
+Kenworth	product_or_material_produced	truck
+PACCAR	subsidiary	DAF
+PACCAR	subsidiary	Kenworth
+PACCAR	product_or_material_produced	truck
+Peterbilt	parent_organization	PACCAR
+Peterbilt	product_or_material_produced	truck
+Peterbilt	owned_by	PACCAR
+DAF	parent_organization	PACCAR
+DAF	owned_by	PACCAR
+Art Van	industry	furniture
+Red Hat Linux	developer	Red Hat
+Prime Video	developer	Amazon
+Prime Video	parent_organization	Amazon
+Prime Video	founded_by	Amazon
+hdfc	owned_by	HDFC Bank
+hdfc	operator	HDFC Bank
+Big Lots	industry	retail
+Living Spaces	industry	furniture
+iShares	operator	BlackRock
+Bouygues Telecom	parent_organization	Bouygues
+Bouygues Telecom	owned_by	Bouygues
+Bouygues	director_/_manager	Martin Bouygues
+Bouygues	industry	conglomerate
+Bouygues	headquarters_location	Paris
+Bouygues	subsidiary	Bouygues Telecom
+Virgin Atlantic	parent_organization	Virgin Group
+Virgin Atlantic	location_of_formation	London
+Virgin Atlantic	owned_by	Virgin Group
+Virgin Atlantic	founded_by	Richard Branson
+Virgin Group	director_/_manager	Richard Branson
+Virgin Group	founded_by	Richard Branson
+Virgin Group	industry	bank
+Virgin Group	owner_of	Virgin Atlantic
+Virgin Group	subsidiary	Virgin Atlantic
+Ocado	headquarters_location	Hatfield
+Ocado	stock_exchange	London Stock Exchange
+Hundreds	platform	iOS
+Steelcase	product_or_material_produced	furniture
+Steelcase	industry	manufacturing
+Leverage	original_broadcaster	TNT
+Leverage	distributed_by	TNT
+FedEx Express	parent_organization	FedEx
+FedEx Ground	parent_organization	FedEx
+FedEx Office	parent_organization	FedEx
+Enhance	headquarters_location	California
+Sanofi	owner_of	Regeneron Pharmaceuticals
+Sanofi	subsidiary	Genzyme
+Sanofi	headquarters_location	Paris
+Genzyme	parent_organization	Sanofi
+Genzyme	owned_by	Sanofi
+Menards	industry	retail
+NetSuite	product_or_material_produced	software
+KPMG	industry	accounting services
+KPMG	product_or_material_produced	audit
+Woolworths Group	industry	retail
+Wella	product_or_material_produced	hair care
+Wella	owned_by	Coty
+Wella	parent_organization	Coty
+Indofood	industry	food
+AutoCAD	developer	Autodesk
+AutoCAD	publisher	Autodesk
+Autodesk	owner_of	AutoCAD
+Autodesk	product_or_material_produced	software
+Nordstrom Rack	parent_organization	Nordstrom
+Nordstrom	industry	retail
+GoPro	chief_executive_officer	Nick Woodman
+GoPro	stock_exchange	NASDAQ
+GoPro	founded_by	Nick Woodman
+Free People	parent_organization	Urban Outfitters
+Free People	industry	retail
+EHang	legal_form	company
+DHL	parent_organization	Deutsche Post AG
+DHL	industry	logistics
+ILS	legal_form	company
+Kabbage	industry	financial services
+Pinduoduo	industry	e-commerce
+Mindshare	industry	marketing
+Meituan	industry	e-commerce
+Meituan	headquarters_location	Beijing
+Jo Malone	location_of_formation	London
+CRH	product_or_material_produced	cement
+CRH	chief_executive_officer	Albert Manifold
+CRH	stock_exchange	London Stock Exchange
+Australia Post	industry	mail
+Australia Post	headquarters_location	Melbourne
+tjx	owned_by	TJX Companies
+Kingsoft	industry	software
+Kingsoft	headquarters_location	Beijing
+Google Ads	developer	Google
+Google Ads	parent_organization	Google
+Google Ads	owned_by	Google
+Flipkart	subsidiary	Myntra
+Flipkart	subsidiary	eBay
+Flipkart	industry	e-commerce
+Flipkart	founded_by	Sachin Bansal
+Flipkart	subsidiary	Phonepe
+Google Play	operator	Google
+Google Play	publisher	Google
+Google Play	developer	Google
+Windows Server	developer	Microsoft
+Swift Response	legal_form	company
+Goldcorp	product_or_material_produced	gold
+Publix	industry	retail
+Samsung Electronics	product_or_material_produced	consumer electronics
+Samsung Electronics	location_of_formation	Seoul
+Samsung Electronics	product_or_material_produced	software
+Zhengzhou	owner_of	Line
+Google Search	owned_by	Google
+Google Search	creator	Sergey Brin
+Google Search	creator	Larry Page
+Google Search	founded_by	Sergey Brin
+Google Search	founded_by	Larry Page
+Farfetch	industry	e-commerce
+Sony Pictures	product_or_material_produced	film
+Sony Pictures	parent_organization	Sony
+Sony Pictures	industry	entertainment
+Sony Pictures	founded_by	Sony
+Sony Pictures	owned_by	Sony
+Places	distributed_by	iTunes
+Pixel	manufacturer	Google
+Pixel	developer	Google
+Apple Maps	platform	iOS
+Embraer	product_or_material_produced	airplane
+Assurant	industry	insurance
+software development	product_or_material_produced	software
+Hindustan Times	headquarters_location	New Delhi
+Bob Dudley	position_held	chief executive officer
+Bob Dudley	employer	BP
+Alcoa	product_or_material_produced	aluminium
+Alcoa	director_/_manager	Klaus Kleinfeld
+Alcoa	legal_form	public company
+Close	distribution_format	music streaming
+Close	distributed_by	Spotify
+Primark	parent_organization	Associated British Foods
+Primark	owned_by	Associated British Foods
+Primark	industry	retail
+Primark	product_or_material_produced	clothing
+Super Mario	distributed_by	Nintendo
+Super Mario	publisher	Nintendo
+Game Boy	manufacturer	Nintendo
+Xbox One	developer	Microsoft
+Wii	developer	Nintendo
+Wii	manufacturer	Nintendo
+CyberArk	industry	software
+CyberArk	product_or_material_produced	software
+CyberArk	stock_exchange	NASDAQ
+Sky Italia	owned_by	Sky
+Sky Italia	parent_organization	Sky
+Sky Deutschland	owned_by	Sky
+Sky Deutschland	parent_organization	Sky
+Vodafone	subsidiary	ONO
+Vodafone	headquarters_location	London
+Vodafone	subsidiary	Talkmobile
+Vodafone	subsidiary	Vodafone Hutchison Australia
+Vodafone	subsidiary	Verizon
+Vodafone	subsidiary	Vodafone India
+Vodafone	owner_of	M-Pesa
+Vodafone	subsidiary	Vodafone Ghana
+Vodafone	director_/_manager	Gerard Kleisterlee
+Vodafone	subsidiary	Vodacom
+Vodafone	subsidiary	Vodacom Tanzania
+Vodafone	stock_exchange	London Stock Exchange
+Numericable	subsidiary	SFR
+Coal India	product_or_material_produced	coal
+Elon Musk	employer	SpaceX
+Elon Musk	position_held	chief executive officer
+Elon Musk	owner_of	SpaceX
+Gwynne Shotwell	position_held	president
+Gwynne Shotwell	employer	SpaceX
+Bupa	product_or_material_produced	health insurance
+Antony Jenkins	employer	Barclays
+Antony Jenkins	position_held	chief executive officer
+Renaissance Center	owned_by	General Motors
+Clairol	parent_organization	Coty
+Max Factor	owned_by	Coty
+Max Factor	product_or_material_produced	cosmetics
+BiondVax	legal_form	company
+Fresnillo plc	industry	mining
+Tullow Oil	industry	oil company
+Tullow Oil	headquarters_location	London
+Tullow Oil	stock_exchange	London Stock Exchange
+Tullow Oil	product_or_material_produced	petroleum
+Tullow Oil	legal_form	public limited company
+Avolon	industry	financial services
+Mary Barra	employer	General Motors
+Mary Barra	position_held	chief executive officer
+Dixons	industry	retail
+Dixons Carphone	industry	retail
+Dixons Carphone	stock_exchange	London Stock Exchange
+Dixons Carphone	headquarters_location	London
+Comscore	industry	Internet
+Comscore	owner_of	Rentrak
+Aer Lingus	location_of_formation	Dublin
+Aer Lingus	parent_organization	International Airlines Group
+Aer Lingus	headquarters_location	Dublin Airport
+Evraz	stock_exchange	London Stock Exchange
+Evraz	headquarters_location	London
+Evraz	legal_form	public limited company
+Evraz	product_or_material_produced	steel
+TUI AG	stock_exchange	London Stock Exchange
+easyJet	stock_exchange	London Stock Exchange
+easyJet	location_of_formation	London
+Intertek	headquarters_location	London
+Intertek	legal_form	public limited company
+Intertek	stock_exchange	London Stock Exchange
+BT Group	stock_exchange	London Stock Exchange
+Goldman Sachs	chief_executive_officer	Lloyd Blankfein
+Goldman Sachs	product_or_material_produced	investment bank
+Goldman Sachs	stock_exchange	New York Stock Exchange
+Goldman Sachs	industry	financial services
+Mr Kipling	owned_by	Premier Foods
+Bisto	owned_by	Premier Foods
+Vontobel	industry	asset management
+Snapdeal	founded_by	Kunal Bahl
+Snapdeal	founded_by	Rohit Bansal
+Snapdeal	industry	e-commerce
+Whitbread	subsidiary	Premier Inn
+Whitbread	legal_form	public limited company
+Whitbread	stock_exchange	London Stock Exchange
+Whitbread	subsidiary	Costa Coffee
+Costa Coffee	location_of_formation	London
+Costa Coffee	parent_organization	Whitbread
+Costa Coffee	product_or_material_produced	coffee
+Windows Phone	developer	Microsoft
+Casino Group	industry	retail
+Casino Group	director_/_manager	Jean-Charles Naouri
+Myer	headquarters_location	Melbourne
+Myer	industry	retail
+Norsk Hydro	product_or_material_produced	aluminium
+UNIQLO	product_or_material_produced	clothing
+UNIQLO	parent_organization	Fast Retailing
+UNIQLO	headquarters_location	Tokyo
+UNIQLO	industry	retail
+UNIQLO	owned_by	Fast Retailing
+Fast Retailing	subsidiary	UNIQLO
+Fast Retailing	industry	retail
+Fast Retailing	founded_by	Tadashi Yanai
+Fast Retailing	product_or_material_produced	clothing
+Fast Retailing	director_/_manager	Tadashi Yanai
+FAO Schwarz	industry	toy
+Chevrolet Silverado	brand	Chevrolet
+Chevrolet Silverado	manufacturer	General Motors
+Tata Daewoo	owned_by	Tata Motors
+Tata Daewoo	parent_organization	Tata Motors
+BBC Worldwide	owned_by	BBC
+BBC Worldwide	chief_executive_officer	Tim Davie
+BBC Worldwide	subsidiary	UKTV
+BBC Worldwide	parent_organization	BBC
+UKTV	parent_organization	BBC Worldwide
+UKTV	owned_by	BBC Worldwide
+UKTV	legal_form	joint venture
+Tim Davie	employer	BBC
+Atlassian	stock_exchange	NASDAQ
+Atlassian	headquarters_location	Sydney
+Atlassian	founded_by	Mike Cannon-Brookes
+Atlassian	founded_by	Scott Farquhar
+Premier Oil	legal_form	public limited company
+Premier Oil	headquarters_location	London
+Premier Oil	stock_exchange	London Stock Exchange
+Teavana	owned_by	Starbucks
+Teavana	product_or_material_produced	tea
+Walter Energy	product_or_material_produced	coal
+Northern Trust	product_or_material_produced	asset management
+Northern Trust	headquarters_location	Chicago
+Johnnie Walker	manufacturer	Diageo
+Johnnie Walker	owned_by	Diageo
+Diageo	stock_exchange	London Stock Exchange
+Diageo	subsidiary	Guinness Ghana Breweries
+Diageo	owner_of	Johnnie Walker
+Diageo	owner_of	Smirnoff
+Diageo	headquarters_location	London
+Diageo	location_of_formation	London
+Diageo	product_or_material_produced	alcoholic beverage
+American Girl	product_or_material_produced	doll
+Albertsons	parent_organization	Cerberus Capital Management
+Albertsons	parent_organization	SuperValu
+Albertsons	subsidiary	Acme Markets
+Albertsons	owned_by	Cerberus Capital Management
+Albertsons	industry	retail
+Chevrolet Volt	manufacturer	General Motors
+Chevrolet Volt	brand	Chevrolet
+Chevrolet Bolt	manufacturer	General Motors
+Chevrolet Bolt	brand	Chevrolet
+Telstra	owner_of	Foxtel
+Telstra	chief_executive_officer	David Thodey
+Telstra	headquarters_location	Melbourne
+David Thodey	employer	Telstra
+Burberry	stock_exchange	London Stock Exchange
+Burberry	chief_executive_officer	Christopher Bailey
+Burberry	headquarters_location	London
+Dick Smith	product_or_material_produced	consumer electronics
+Dick Smith	industry	retail
+retail chain	industry	retail
+Balfour Beatty	legal_form	public limited company
+Balfour Beatty	industry	construction
+Balfour Beatty	headquarters_location	London
+Lonmin	stock_exchange	London Stock Exchange
+Lonmin	headquarters_location	London
+Lonmin	industry	mining
+Hacking Team	industry	information technology
+Hacking Team	product_or_material_produced	software
+Hacking Team	headquarters_location	Italy
+Dick Costolo	employer	Twitter
+Bandhan Bank	industry	Finance
+Bandhan Bank	headquarters_location	Kolkata
+Azimo	headquarters_location	London
+United Internet	industry	Internet service provider
+Babcock International	stock_exchange	London Stock Exchange
+Babcock International	location_of_formation	London
+Babcock International	headquarters_location	London
+British Land	stock_exchange	London Stock Exchange
+British Land	headquarters_location	London
+Producers	location_of_formation	London
+Scotiabank	legal_form	corporation
+Scotiabank	headquarters_location	Toronto
+Scotiabank	industry	bank
+International Bank	industry	financial services
+International Bank	industry	Finance
+Twitter	industry	Internet
+Twitter	headquarters_location	San Francisco
+Twitter	stock_exchange	New York Stock Exchange
+Twitter	publisher	Twitter Inc
+Twitter	operator	Twitter Inc
+Twitter	developer	Twitter Inc
+Twitter	product_or_material_produced	microblogging
+Ellen Pao	employer	Reddit
+Facebook	creator	Mark Zuckerberg
+Facebook	headquarters_location	Menlo Park
+Facebook	owned_by	Facebook Inc
+Facebook	founded_by	Mark Zuckerberg
+Facebook	operator	Facebook Inc
+Natera	stock_exchange	NASDAQ
+Russell 2000	stock_exchange	New York Stock Exchange
+Russell 2000	stock_exchange	NASDAQ
+Searchlight Pictures	product_or_material_produced	film
+Apple TV+	owned_by	Apple Inc
+Apple TV+	operator	Apple Inc
+Apple TV+	parent_organization	Apple Inc
+Version	distribution_format	music streaming
+Version	distributed_by	Spotify
+Launched	distribution_format	music streaming
+eHealthInsurance	product_or_material_produced	health insurance
+eHealthInsurance	industry	insurance
+Merrill Lynch	industry	financial services
+Merrill Lynch	product_or_material_produced	financial services
+Merrill Lynch	headquarters_location	New York City
+Aflac	stock_exchange	New York Stock Exchange
+Merkel	headquarters_location	Germany
+Merkel	legal_form	company
+Google account	owned_by	Google
+Google account	developer	Google
+Google Now	developer	Google
+Google Now	owned_by	Google
+Asda	location_of_formation	Leeds
+Asda	owned_by	Walmart
+Asda	industry	retail
+Asda	headquarters_location	Leeds
+Asda	parent_organization	Walmart
+Paytm	parent_organization	One97 Communications
+Paytm	owned_by	Alibaba Group
+FIFA headquarters	owned_by	FIFA
+Yello	headquarters_location	Chicago
+Altera	parent_organization	Intel
+Arundhati Bhattacharya	position_held	chairperson
+Arundhati Bhattacharya	employer	State Bank of India
+Paladin Energy	product_or_material_produced	uranium
+CoverGirl	product_or_material_produced	cosmetics
+Coty	location_of_formation	Paris
+Alan Joyce	employer	Qantas
+Qantas	chief_executive_officer	Alan Joyce
+Qantas	chief_executive_officer	Geoff Dixon
+Schroders	location_of_formation	London
+Schroders	headquarters_location	London
+Schroders	stock_exchange	London Stock Exchange
+Experian	stock_exchange	London Stock Exchange
+Ashtead Group	stock_exchange	London Stock Exchange
+Ashtead Group	headquarters_location	London
+IP Group	stock_exchange	London Stock Exchange
+IP Group	headquarters_location	London
+Drax Group	stock_exchange	London Stock Exchange
+HellermannTyton	legal_form	public limited company
+HellermannTyton	stock_exchange	London Stock Exchange
+Esure	industry	insurance
+Esure	stock_exchange	London Stock Exchange
+Weir Group	legal_form	public limited company
+Weir Group	stock_exchange	London Stock Exchange
+Popular	distribution_format	music streaming
+iPhone	developer	Apple Inc
+iPhone	manufacturer	Foxconn
+iPhone	manufacturer	Apple Inc
+iTunes	developer	Apple Inc
+Murphy Oil	product_or_material_produced	petroleum
+Range Resources	product_or_material_produced	petroleum
+Michael Corbat	employer	Citigroup
+Marissa Mayer	employer	Yahoo
+Marissa Mayer	employer	Google
+Cdiscount	industry	e-commerce
+Cdiscount	parent_organization	Cnova
+Microsoft Dynamics	developer	Microsoft
+Hansen Yuncken	industry	construction
+Aconex	product_or_material_produced	software
+Jeff Immelt	employer	General Electric
+GE Capital	parent_organization	General Electric
+GE Capital	owned_by	General Electric
+GE Capital	industry	financial services
+Hotmail	owned_by	Microsoft
+Hotmail	developer	Microsoft
+Hotmail	creator	Microsoft
+Hasbro	product_or_material_produced	toy
+Afren	headquarters_location	London
+Endemol	industry	television
+Direct Line	product_or_material_produced	insurance
+Fluor Corporation	industry	construction
+Pemex	product_or_material_produced	petroleum
+Pemex	headquarters_location	Mexico City
+TaskRabbit	legal_form	company
+iTunes Store	developer	Apple Inc
+Lloyd Blankfein	employer	Goldman Sachs
+Lloyd Blankfein	position_held	chief executive officer
+British Airways	headquarters_location	London
+British Airways	location_of_formation	London
+British Airways	parent_organization	International Airlines Group
+British Airways	owned_by	International Airlines Group
+Windows 10	distributed_by	Microsoft Store
+Windows 10	developer	Microsoft
+Premier Farnell	subsidiary	CPC
+Premier Farnell	industry	electronics
+CPC	parent_organization	Premier Farnell
+Aramex	industry	logistics
+Aramex	headquarters_location	Dubai
+Tutor Perini	industry	construction
+Microsoft Office	developer	Microsoft
+Morgan Stanley	product_or_material_produced	investment bank
+Morgan Stanley	location_of_formation	New York City
+Morgan Stanley	industry	financial services
+Morgan Stanley	headquarters_location	New York City
+Windows XP	developer	Microsoft
+Vodafone Ghana	parent_organization	Vodafone
+Airbus Group	chief_executive_officer	Tom Enders
+Airbus Group	subsidiary	Airbus
+Airbus Group	owner_of	ATR
+Airbus Group	headquarters_location	Toulouse
+Airbus Group	industry	aviation
+Airbus Group	owner_of	MBDA
+Airbus A380	developer	Airbus
+Airbus A380	operator	Emirates
+Airbus A380	manufacturer	Airbus
+Airbus A380	operator	British Airways
+Airbus A380	operator	Singapore Airlines
+DFS	industry	retail
+DFS	product_or_material_produced	furniture
+Topps Tiles	industry	retail
+Escondida Mine	product_or_material_produced	copper
+Chapters	industry	retail
+Chapters	parent_organization	Indigo
+Verizon	parent_organization	Vodafone
+Chicago Tribune	headquarters_location	Chicago
+Chicago Tribune	owned_by	Tribune Media
+Chicago Tribune	publisher	Tribune Publishing
+Chicago Tribune	owned_by	Tribune Publishing
+Tribune Publishing	headquarters_location	Chicago
+Tribune Publishing	industry	news
+Los Angeles Times	owned_by	Tribune Publishing
+news agency	product_or_material_produced	news
+Vittorio Colao	employer	Vodafone
+Lavazza	industry	coffee
+Lavazza	product_or_material_produced	coffee
+Lavazza	owner_of	Carte Noire
+Club Med	headquarters_location	France
+Club Med	director_/_manager	Henri Giscard d'Estaing
+Barclaycard	product_or_material_produced	credit card
+Barclaycard	industry	credit card
+Steve Ballmer	owner_of	Microsoft
+Steve Ballmer	employer	Microsoft
+Ruth Porat	position_held	chief financial officer
+Unilever	legal_form	public limited company
+Unilever	subsidiary	Lipton
+Unilever	owner_of	Knorr
+Unilever	stock_exchange	London Stock Exchange
+Unilever	subsidiary	Bovril
+Unilever	owner_of	Magnum
+Unilever	product_or_material_produced	cosmetics
+Unilever	industry	personal care products
+Unilever	owner_of	PG Tips
+Unilever	owner_of	Rexona
+Unilever	owner_of	Lipton
+Unilever	owner_of	Dove
+Unilever	owner_of	Cornetto
+Unilever	owner_of	Close-Up
+Unilever	owner_of	Clear
+Unilever	location_of_formation	London
+Knorr	owned_by	Unilever
+Lockheed Martin	owner_of	United Launch Alliance
+Lockheed Martin	product_or_material_produced	ammunition
+Lockheed Martin	director_/_manager	Marillyn Hewson
+Lockheed Martin	chief_executive_officer	Marillyn Hewson
+Lockheed Martin	product_or_material_produced	Orion
+Visa Inc	product_or_material_produced	credit card
+Visa Inc	subsidiary	Visa Europe
+Visa Europe	parent_organization	Visa Inc
+Visa Europe	headquarters_location	London
+Kosmos Energy	headquarters_location	Dallas
+Apple Music	developer	Apple Inc
+Suffolk University	headquarters_location	Boston
+Shopify	industry	e-commerce
+Emergency	original_broadcaster	Nine
+Qube Logistics	headquarters_location	Sydney
+OZ Minerals	product_or_material_produced	copper
+Turquoise Hill Resources	product_or_material_produced	gold
+Janet Yellen	position_held	economist
+Janet Yellen	position_held	president
+Janet Yellen	member_of	Federal Open Market Committee
+Janet Yellen	position_held	chairperson
+Socialtext	industry	software
+Oracle Corporation	product_or_material_produced	software
+United Airlines	business_division	MileagePlus
+United Airlines	headquarters_location	Chicago
+United Airlines	owned_by	United Airlines Holdings
+United Airlines	parent_organization	United Airlines Holdings
+MileagePlus	operator	United Airlines
+Larry Page	employer	Google
+Mothercare	industry	retail
+Vertu	industry	retail
+banamex	operator	Citigroup
+Bridgewater Associates	founded_by	Ray Dalio
+Bridgewater Associates	director_/_manager	Ray Dalio
+Bridgewater Associates	industry	hedge fund
+Brico	industry	retail
+Castorama	industry	retail
+Screwfix	industry	retail
+Hindustan Petroleum	product_or_material_produced	petroleum
+Bharat Petroleum	product_or_material_produced	petroleum
+Bing Search	developer	Microsoft
+bing	operator	Microsoft
+bing	owned_by	Microsoft
+John Cryan	position_held	chief executive officer
+Eni	headquarters_location	Rome
+Eni	location_of_formation	Milan
+Eni	product_or_material_produced	petroleum
+American Apparel	founded_by	Dov Charney
+American Apparel	headquarters_location	Los Angeles
+American Apparel	industry	retail
+Tata Teleservices	headquarters_location	Mumbai
+Olivier Blanchard	position_held	president
+Mark Carney	position_held	Governor of the Bank of England
+Mark Carney	employer	Goldman Sachs
+Sonic Foundry	product_or_material_produced	software
+Lafarge	product_or_material_produced	cement
+Lafarge	parent_organization	LafargeHolcim
+Holcim	product_or_material_produced	cement
+Glencore	headquarters_location	Baar
+Glencore	stock_exchange	London Stock Exchange
+Glencore	industry	mining
+Glencore	owned_by	Ivan Glasenberg
+Glencore	chief_executive_officer	Ivan Glasenberg
+Glencore	founded_by	Marc Rich
+Glencore	owned_by	Harris Associates
+Glencore	owned_by	BlackRock
+Glencore	owner_of	Katanga Mining
+Run	distribution_format	music streaming
+Google Glass	developer	Google
+Investec	headquarters_location	London
+Whistl	industry	mail
+MSCI	stock_exchange	New York Stock Exchange
+Porsche 911	brand	Porsche
+Porsche 911	manufacturer	Porsche
+Porsche 911 GT3	manufacturer	Porsche
+Porsche 911 GT3	brand	Porsche
+Xstrata	owned_by	Glencore
+Xstrata	industry	mine
+BT	headquarters_location	Sydney
+Sirtex	headquarters_location	Sydney
+Doug McMillon	employer	Walmart
+SABMiller	owned_by	Anheuser-Busch InBev
+SABMiller	owner_of	South African Breweries
+SABMiller	industry	brewery
+SABMiller	subsidiary	MillerCoors
+SABMiller	product_or_material_produced	beer
+SABMiller	headquarters_location	London
+SABMiller	subsidiary	South African Breweries
+SABMiller	parent_organization	Anheuser-Busch InBev
+Nomura Holdings	subsidiary	Nomura Securities
+Nomura Holdings	headquarters_location	Tokyo
+Nomura Securities	parent_organization	Nomura Holdings
+Dragon Oil	headquarters_location	Dubai
+Stephen Elop	employer	Microsoft
+Satya Nadella	position_held	chief executive officer
+Satya Nadella	employer	Microsoft
+Bing Maps	owned_by	Microsoft
+Bing Maps	developer	Microsoft
+Chevrolet Equinox	brand	Chevrolet
+Chevrolet Equinox	manufacturer	General Motors
+Marianne Lake	employer	JPMorgan Chase
+HDFC Bank	industry	Finance
+HDFC Bank	product_or_material_produced	credit card
+MoneyGram	industry	wire transfer
+MoneyGram	headquarters_location	Dallas
+Lyft	founded_by	Logan Green
+Lyft	headquarters_location	San Francisco
+Lyft	founded_by	John Zimmer
+Lyft	chief_executive_officer	Logan Green
+Duracell	product_or_material_produced	battery
+Duracell	parent_organization	Berkshire Hathaway
+Duracell	owned_by	Berkshire Hathaway
+DESFA	owned_by	DEPA
+DESFA	parent_organization	DEPA
+DESFA	product_or_material_produced	gas
+Gap Inc	owner_of	Old Navy
+Gap Inc	product_or_material_produced	clothing
+Gap Inc	industry	retail
+Gap Inc	chief_executive_officer	Art Peck
+Lipper	industry	financial services
+Macquarie Group	product_or_material_produced	asset management
+Macquarie Group	chairperson	Peter Warne
+Macquarie Group	chief_executive_officer	Nicholas Moore
+Macquarie Group	subsidiary	Esanda
+Rupert Murdoch	owner_of	21st Century Fox
+Volkswagen Group	subsidiary	Porsche
+Volkswagen Group	director_/_manager	Martin Winterkorn
+Volkswagen Group	business_division	Volkswagen
+Volkswagen Group	subsidiary	Scania
+Volkswagen Group	chief_executive_officer	Martin Winterkorn
+Volkswagen Group	stock_exchange	NASDAQ
+ArcelorMittal	founded_by	Lakshmi Mittal
+ArcelorMittal	industry	mining
+ArcelorMittal	owned_by	Lakshmi Mittal
+ArcelorMittal	chief_executive_officer	Lakshmi Mittal
+Lakshmi Mittal	owner_of	ArcelorMittal
+Lakshmi Mittal	employer	ArcelorMittal
+FilmOn	headquarters_location	Los Angeles
+Omid Kordestani	employer	Google
+Southwest Airlines	location_of_formation	Dallas
+Southwest Airlines	chief_executive_officer	Gary Kelly
+Southwest Airlines	headquarters_location	Dallas
+Loeb	industry	retail
+Aspects	headquarters_location	London
+Johnston Press	industry	newspaper
+Gerard Kleisterlee	employer	Vodafone
+Bharti Airtel	owned_by	Vodafone
+Bharti Airtel	director_/_manager	director
+entertainment company	product_or_material_produced	entertainment
+Volvo Buses	parent_organization	Volvo
+Trulia	parent_organization	Zillow
+Fairfax Media	headquarters_location	Sydney
+Next plc	industry	retail
+Lulu Hypermarket	industry	retail
+Standard Chartered	location_of_formation	London
+Standard Chartered	legal_form	public limited company
+Standard Chartered	headquarters_location	London
+Standard Chartered	stock_exchange	London Stock Exchange
+Standard Chartered	product_or_material_produced	financial services
+Standard Chartered	industry	financial services
+Check Point	product_or_material_produced	software
+Reddit	industry	news
+Reddit	founded_by	Alexis Ohanian
+Reddit	headquarters_location	San Francisco
+RapidAdvance	industry	financial services
+Man Group	stock_exchange	London Stock Exchange
+Man Group	legal_form	public limited company
+Man Group	industry	hedge fund
+Man Group	headquarters_location	London
+LVMH	owner_of	Hennessy
+LVMH	stock_exchange	Euronext
+LVMH	owner_of	Sephora
+LVMH	subsidiary	DKNY
+LVMH	headquarters_location	Paris
+LVMH	subsidiary	TAG Heuer
+LVMH	owner_of	Louis Vuitton
+LVMH	subsidiary	Sephora
+LVMH	subsidiary	Givenchy
+LVMH	owner_of	TAG Heuer
+LVMH	director_/_manager	Bernard Arnault
+LVMH	chief_executive_officer	Bernard Arnault
+LVMH	location_of_formation	Paris
+Louis Vuitton	headquarters_location	Paris
+Louis Vuitton	parent_organization	LVMH
+Louis Vuitton	location_of_formation	Paris
+Louis Vuitton	owned_by	LVMH
+Madame Tussauds	headquarters_location	London
+Jeff Bezos	owner_of	The Washington Post
+Jeff Bezos	employer	Amazon
+Jeff Bezos	position_held	chief executive officer
+Jeff Bezos	owner_of	Amazon
+Tata Ace	manufacturer	Tata Motors
+Tata Ace	brand	Tata Motors
+Eiffel	location_of_formation	Paris
+Thomson Reuters	stock_exchange	Toronto Stock Exchange
+Thomson Reuters	legal_form	corporation
+Thomson Reuters	headquarters_location	Toronto
+Thomson Reuters	subsidiary	West
+Thomson Reuters	business_division	Reuters
+Thomson Reuters	subsidiary	Reuters
+Thomson Reuters	product_or_material_produced	software
+Thomson Reuters	location_of_formation	Toronto
+Thomson Reuters	stock_exchange	New York Stock Exchange
+Chevrolet Trailblazer	brand	Chevrolet
+Chevrolet Trailblazer	manufacturer	General Motors
+d2h	stock_exchange	NASDAQ
+NASDAQ 100	stock_exchange	NASDAQ
+IKEA	product_or_material_produced	furniture
+IKEA	industry	retail
+Singapore Power	headquarters_location	Singapore
+REA Group	headquarters_location	Melbourne
+Foxtel	legal_form	joint venture
+Foxtel	owned_by	Telstra
+Foxtel	owned_by	News Corp
+News Corp	subsidiary	HarperCollins
+News Corp	subsidiary	News UK
+News Corp	founded_by	Rupert Murdoch
+News Corp	director_/_manager	Rupert Murdoch
+News Corp	product_or_material_produced	newspaper
+News Corp	subsidiary	realtor.com
+News Corp	subsidiary	News Corp Australia
+News Corp Australia	owned_by	News Corp
+Philippines	member_of	Asia-Pacific Economic Cooperation
+Philippines	member_of	UNESCO
+Philippines	member_of	Asian Development Bank
+Philippines	member_of	ASEAN
+Television	distribution_format	video on demand
+Lucasfilm	owner_of	Indiana Jones
+Lucasfilm	owner_of	Star Wars
+Lucasfilm	product_or_material_produced	film
+Lucasfilm	parent_organization	Walt Disney Studios
+Star Wars	owned_by	Lucasfilm
+Ashmore Group	industry	financial services
+Ashmore Group	headquarters_location	London
+RIA Novosti	product_or_material_produced	news
+Berkshire Hathaway	owner_of	Wells Fargo
+Berkshire Hathaway	director_/_manager	Warren Buffett
+Berkshire Hathaway	owner_of	Phillips 66
+Berkshire Hathaway	industry	insurance
+Berkshire Hathaway	owned_by	Warren Buffett
+Berkshire Hathaway	owner_of	Charter Communications
+Berkshire Hathaway	industry	conglomerate
+Berkshire Hathaway	subsidiary	Business Wire
+Berkshire Hathaway	owner_of	IBM
+Berkshire Hathaway	chairperson	Warren Buffett
+Berkshire Hathaway	chief_executive_officer	Warren Buffett
+Warren Buffett	owner_of	Berkshire Hathaway
+Allan Moss	employer	Macquarie Group
+Harvey Norman	industry	retail
+Harvey Norman	founded_by	Gerry Harvey
+Citigroup	industry	financial services
+Citigroup	founded_by	Sanford Weill
+Citigroup	headquarters_location	New York City
+Citigroup	owned_by	BlackRock
+Citigroup	product_or_material_produced	insurance
+Citigroup	location_of_formation	New York City
+WorldPay	headquarters_location	London
+WorldPay	parent_organization	Bain Capital
+WorldPay	parent_organization	Advent International
+Dubai World	headquarters_location	Dubai
+Dubai World	industry	investment
+Dubai World	product_or_material_produced	investment
+Dubai World	location_of_formation	Dubai
+Boston Globe	headquarters_location	Massachusetts
+Boston Globe	headquarters_location	Boston
+NASDAQ Dubai	headquarters_location	Dubai
+Athabasca Basin	product_or_material_produced	uranium
+Admiral Group	headquarters_location	Cardiff
+Admiral Group	stock_exchange	London Stock Exchange
+Stifel	product_or_material_produced	broker
+Stifel	industry	investment
+Network Rail	headquarters_location	London
+Network Rail	parent_organization	Department for Transport
+Just Eat	stock_exchange	London Stock Exchange
+Commonwealth Bank	industry	Finance
+Commonwealth Bank	location_of_formation	Melbourne
+Commonwealth Bank	stock_exchange	Australian Securities Exchange
+Commonwealth Bank	legal_form	national bank
+Commonwealth Bank	headquarters_location	Sydney
+Commonwealth Bank	industry	financial services
+Clarizen	industry	software
+Reid Hoffman	employer	PayPal
+Microsoft Windows	developer	Microsoft
+TJX Companies	industry	retail
+Bradley Horowitz	employer	Google
+Google Photos	owned_by	Google
+Google Photos	developer	Google
+broadcaster	industry	broadcasting
+NBC Sports	business_division	NBC
+Bill Gates	owner_of	Microsoft
+Possible	headquarters_location	Rome
+Possible	location_of_formation	Rome
+Smirnoff	owned_by	Diageo
+Smirnoff	parent_organization	Diageo
+Smirnoff	manufacturer	Diageo
+Facebook Inc	owned_by	Mark Zuckerberg
+Facebook Inc	chief_executive_officer	Mark Zuckerberg
+Facebook Inc	stock_exchange	NASDAQ
+Facebook Inc	director_/_manager	Mark Zuckerberg
+Facebook Inc	founded_by	Mark Zuckerberg
+Facebook Inc	product_or_material_produced	Facebook
+Castrol	parent_organization	BP
+CBS Corporation	subsidiary	CBS
+CBS Corporation	product_or_material_produced	CBS
+CBS News	original_broadcaster	CBS
+CBS News	business_division	CBS
+Office Depot	industry	retail
+Office Depot	product_or_material_produced	office supply
+Gene	location_of_formation	London
+Ralph Norris	employer	Commonwealth Bank
+Nine	distribution_format	video on demand
+Panasonic Corporation	owner_of	National
+Panasonic Corporation	industry	electronics
+Panasonic Corporation	owner_of	Technics
+Panasonic Corporation	owner_of	Panasonic
+brewing	product_or_material_produced	beer
+Harpoon Brewery	headquarters_location	Boston
+Harpoon Brewery	product_or_material_produced	beer
+Harpoon Brewery	industry	brewing
+Neighborly	headquarters_location	San Francisco
+Neighborly	industry	public finance
+EFG Hermes	industry	investment
+Buick Envision	brand	Buick
+Bolloré	product_or_material_produced	logistics
+Bolloré	industry	logistics
+Bolloré	owner_of	Vivendi
+NBC	owned_by	NBCUniversal
+NBC	parent_organization	NBCUniversal
+John Fallon	position_held	chief executive officer
+ConocoPhillips	product_or_material_produced	petroleum
+Marathon Oil	product_or_material_produced	petroleum
+Robin Li	employer	Baidu
+Mining engineer	industry	mining
+French Connection	product_or_material_produced	clothing
+Thomas Cook Group	stock_exchange	London Stock Exchange
+Thomas Cook Group	founded_by	Thomas Cook
+Thomas Cook Group	subsidiary	Thomas Cook
+Medigus	stock_exchange	NASDAQ
+Brian Moynihan	employer	Bank of America
+Brian Moynihan	position_held	chief executive officer
+Tata Steel	product_or_material_produced	steel
+Inter Milan	headquarters_location	Milan
+Polly Pocket	creator	Mattel
+Polly Pocket	distributed_by	Mattel
+Alenia	industry	aerospace
+GE Healthcare	parent_organization	General Electric
+GE Healthcare	owned_by	General Electric
+Mirvac	headquarters_location	Sydney
+Felony	location_of_formation	Los Angeles
+Virgin Money	founded_by	Richard Branson
+Bobby Jindal	position_held	president
+Air France KLM	subsidiary	Air France
+Air France KLM	founded_by	Air France
+Air France KLM	subsidiary	KLM
+ROXI	headquarters_location	London
+ROXI	location_of_formation	London
+Chuquicamata	operator	Codelco
+Chuquicamata	product_or_material_produced	copper
+Elementis	headquarters_location	London
+Accelerator	developer	Microsoft
+SoulCycle	headquarters_location	New York City
+SoulCycle	industry	indoor cycling
+Planet Fitness	stock_exchange	New York Stock Exchange
+Hiscox	industry	insurance
+Boeing Capital	industry	aircraft
+Boeing Capital	parent_organization	Boeing
+Boeing Capital	industry	aerospace
+TechTarget	industry	marketing
+Emirates NBD	headquarters_location	Dubai
+Emirates NBD	industry	Finance
+Global Witness	headquarters_location	London
+Arabtec	headquarters_location	Dubai
+Tim Cook	employer	Apple Inc
+Tim Cook	position_held	chief executive officer
+Offline	distributed_by	Spotify
+Boeing 737 MAX	manufacturer	Boeing
+Boeing 737 MAX	developer	Boeing
+Rathbone Brothers	headquarters_location	London
+Rathbone Brothers	stock_exchange	London Stock Exchange
+Ladbrokes	stock_exchange	London Stock Exchange
+Ladbrokes	headquarters_location	London
+Rightmove	industry	Internet
+Rightmove	headquarters_location	London
+Rightmove	stock_exchange	London Stock Exchange
+Greggs	stock_exchange	London Stock Exchange
+Kesko	industry	retail
+Porsche Macan	brand	Porsche
+Porsche Macan	manufacturer	Porsche
+Sciences Po	headquarters_location	Paris
+Old Mutual	product_or_material_produced	life insurance
+Old Mutual	stock_exchange	London Stock Exchange
+Old Mutual	headquarters_location	London
+3i	headquarters_location	London
+3i	stock_exchange	London Stock Exchange
+Land Securities	headquarters_location	London
+Land Securities	stock_exchange	London Stock Exchange
+Sinopec	headquarters_location	Beijing
+Sinopec	location_of_formation	Beijing
+Apartment	location_of_formation	London
+Interbank	product_or_material_produced	financial services
+Interbank	industry	financial services
+Interbank	industry	Finance
+Google Maps	developer	Google
+Sephora	owned_by	LVMH
+Sephora	parent_organization	LVMH
+TAG Heuer	parent_organization	LVMH
+TAG Heuer	owned_by	LVMH
+Myntra	industry	e-commerce
+Myntra	parent_organization	Flipkart
+Yelp	founded_by	Jeremy Stoppelman
+Yelp	chief_executive_officer	Jeremy Stoppelman
+Jeremy Stoppelman	position_held	chief executive officer
+ABN AMRO	industry	Finance
+Aldus	industry	software
+Aldus	product_or_material_produced	software
+iiNet	location_of_formation	Perth
+iiNet	industry	Internet service provider
+SunGard	product_or_material_produced	software
+SunGard	owned_by	Fidelity National Information Services
+AMP Capital	headquarters_location	Sydney
+Rexona	owned_by	Unilever
+Durex	manufacturer	Reckitt
+Durex	owned_by	Reckitt
+Durex	headquarters_location	London
+ASSOCHAM	headquarters_location	New Delhi
+Standard Bank	location_of_formation	London
+Kinross Gold	product_or_material_produced	gold
+Kinross Gold	owner_of	Tasiast Gold Mine
+Kinross Gold	industry	mining
+Kinross Gold	legal_form	corporation
+Chanda Kochhar	employer	ICICI Bank
+Chanda Kochhar	position_held	chief executive officer
+Chanda Kochhar	position_held	director
+Naftogaz	product_or_material_produced	gas
+Naftogaz	owned_by	Ukraine
+ITV plc	owned_by	Liberty Global
+3i Infrastructure	industry	investment
+Aussie	headquarters_location	Sydney
+Mel Watt	position_held	director
+Wanda Group	location_of_formation	Dalian
+Wanda Group	industry	conglomerate
+Fenchurch	headquarters_location	London
+Hammerson	stock_exchange	London Stock Exchange
+Hammerson	headquarters_location	London
+Singapore Exchange	headquarters_location	Singapore
+Kraft Heinz	owned_by	Berkshire Hathaway
+Kraft Heinz	subsidiary	Cadbury
+Kraft Heinz	parent_organization	Berkshire Hathaway
+Kraft Heinz	product_or_material_produced	ketchup
+Magnum	owned_by	Unilever
+Officeworks	parent_organization	Wesfarmers
+Officeworks	industry	retail
+Electronic Arts	member_of	game
+Electronic Arts	product_or_material_produced	video game
+Suzuki	owner_of	Maruti Suzuki
+Suzuki	subsidiary	Maruti Suzuki
+Suzuki	product_or_material_produced	motorcycle
+Maruti Suzuki	chairperson	Bhargava
+Maruti Suzuki	parent_organization	Suzuki
+Maruti Suzuki	owned_by	Suzuki
+Maruti Suzuki	headquarters_location	New Delhi
+Greg Hywood	employer	Fairfax Media
+Dennis Muilenburg	employer	Boeing
+Rio Tinto Group	headquarters_location	London
+Kathmandu	founded_by	Jan Cameron
+Kathmandu	industry	retail
+game industry	product_or_material_produced	game
+Airbus A330	operator	Virgin Australia
+Lukoil	product_or_material_produced	petroleum
+PVH	product_or_material_produced	clothing
+PVH	industry	clothing
+Sam Altman	employer	Reddit
+Vodafone India	parent_organization	Vodafone
+Vodafone India	headquarters_location	Mumbai
+Sheryl Sandberg	position_held	chief operating officer
+Sheryl Sandberg	employer	Facebook
+Lazard	headquarters_location	London
+Lazard	industry	Finance
+Tim Armstrong	employer	AOL
+Wanda Commercial	headquarters_location	Dalian
+Repsol	product_or_material_produced	petroleum
+MBDA	owned_by	Airbus Group
+Tom Enders	employer	Airbus Group
+Tumblr	owned_by	Yahoo
+Everlane	product_or_material_produced	clothing
+Opera Australia	headquarters_location	Sydney
+Albert Heijn	parent_organization	Ahold
+Albert Heijn	owned_by	Ahold
+Luxoft	industry	software development
+Fannie Mae	chief_executive_officer	Timothy Mayopoulos
+Fannie Mae	industry	financial services
+Wallis	headquarters_location	London
+Dalian	owner_of	Line
+Vertex Pharmaceuticals	headquarters_location	Boston
+Vertex Pharmaceuticals	stock_exchange	NASDAQ
+Sears Canada	industry	retail
+Donut	developer	Google
+Renée James	employer	Intel
+Brian Krzanich	employer	Intel
+Citibank	industry	Finance
+Citibank	headquarters_location	New York City
+Canada Post	industry	mail
+Canada Post	headquarters_location	Ottawa
+Orkambi	manufacturer	Vertex Pharmaceuticals
+Areva	product_or_material_produced	nuclear reactor
+Areva	headquarters_location	Paris
+Areva	owned_by	France
+Areva	parent_organization	France
+Areva	headquarters_location	Courbevoie
+Televisa	product_or_material_produced	television
+Televisa	headquarters_location	Mexico City
+Minute	headquarters_location	Paris
+Jeremy Clarkson	employer	BBC
+BrightHouse	industry	retail
+BrightHouse	product_or_material_produced	furniture
+Resolution Copper	product_or_material_produced	copper
+Ivan Glasenberg	owner_of	Glencore
+USAA	product_or_material_produced	insurance
+Alexis Ohanian	employer	Reddit
+Taylor Wimpey	legal_form	public limited company
+Taylor Wimpey	headquarters_location	London
+Debenhams	legal_form	public limited company
+Debenhams	industry	retail
+Debenhams	headquarters_location	London
+New Balance	location_of_formation	Boston
+New Balance	industry	footwear
+New Balance	headquarters_location	Boston
+New Balance	product_or_material_produced	sneakers
+Chief	location_of_formation	New York City
+Wesfarmers	industry	conglomerate
+Wesfarmers	subsidiary	Coles Supermarkets
+Wesfarmers	subsidiary	Officeworks
+Wesfarmers	headquarters_location	Perth
+Alphabet Inc	subsidiary	Google
+Alphabet Inc	chief_executive_officer	Sundar Pichai
+Zocdoc	founded_by	Cyrus Massoumi
+Zocdoc	headquarters_location	New York
+Zocdoc	legal_form	company
+Ryanair	stock_exchange	London Stock Exchange
+Ryanair	headquarters_location	Dublin Airport
+Ryanair	chief_executive_officer	Michael O'Leary
+Findus	industry	food industry
+Findus	owned_by	Nomad Foods
+Volkswagen Polo	brand	Volkswagen
+Foxconn	industry	electronics
+Foxconn	founded_by	Terry Gou
+Foxconn	owned_by	Terry Gou
+Foxconn	chief_executive_officer	Terry Gou
+Foxconn	chairperson	Terry Gou
+Russell Group	headquarters_location	London
+Ekart	founded_by	Flipkart
+Presto	owned_by	Foxtel
+MSCI World	operator	MSCI
+Fininvest	headquarters_location	Milan
+Fininvest	industry	holding company
+New India Assurance	industry	insurance
+Johnson Matthey	stock_exchange	London Stock Exchange
+Johnson Matthey	headquarters_location	London
+Shire plc	stock_exchange	London Stock Exchange
+GKN	legal_form	public limited company
+GKN	stock_exchange	London Stock Exchange
+Southern	headquarters_location	London
+Dr Dre	location_of_formation	Los Angeles
+Appaloosa Management	director_/_manager	David Tepper
+Appaloosa Management	industry	hedge fund
+Appaloosa Management	owned_by	David Tepper
+Appaloosa Management	founded_by	David Tepper
+David Tepper	owner_of	Appaloosa Management
+Topshop	industry	retail
+Topshop	product_or_material_produced	clothing
+Topshop	parent_organization	Arcadia Group
+Topshop	owned_by	Arcadia Group
+Orica	headquarters_location	Melbourne
+Sage Group	stock_exchange	London Stock Exchange
+KeyBank	industry	Finance
+SolarEdge	stock_exchange	NASDAQ
+Amazon Kindle	developer	Amazon
+Amazon Kindle	owned_by	Amazon
+Microsoft Store	parent_organization	Microsoft
+Kinect	developer	Microsoft
+Century	headquarters_location	Tokyo
+Chevrolet Cruze	manufacturer	General Motors
+Chevrolet Cruze	brand	Chevrolet
+Pueblo Viejo mine	product_or_material_produced	gold
+Oando	product_or_material_produced	petroleum
+IEA	industry	consumer electronics
+Tim Hortons	product_or_material_produced	coffee
+LetterOne	industry	investment
+LetterOne	owned_by	Mikhail Fridman
+Sony Music	product_or_material_produced	music
+News Corporation	owner_of	The Wall Street Journal
+News Corporation	chief_executive_officer	Rupert Murdoch
+News Corporation	founded_by	Rupert Murdoch
+News Corporation	industry	mass media
+deposit slip	creator	bank
+Synchrony	industry	financial services
+Interfax	headquarters_location	Moscow
+Interfax	product_or_material_produced	news agency
+RF	legal_form	corporation
+Patriot Coal	product_or_material_produced	coal
+Patriot Coal	industry	mining
+James Squire	owned_by	Lion
+James Squire	product_or_material_produced	beer
+Brooks Brothers	industry	retail
+Like	distribution_format	video on demand
+Daughter	location_of_formation	London
+Solid Energy	industry	mining
+Gears	owned_by	Google
+Gears	creator	Google
+Gears	developer	Google
+Citadel LLC	industry	hedge fund
+Waha Capital	headquarters_location	Abu Dhabi
+Waha Capital	industry	investment
+Chances	original_broadcaster	Nine
+Mashreq	headquarters_location	Dubai
+Chicago Air	headquarters_location	Chicago
+Shiseido	product_or_material_produced	cosmetics
+Ausgrid	headquarters_location	Sydney
+MyRepublic	headquarters_location	Singapore
+Alon USA	product_or_material_produced	petroleum
+Blogger	developer	Google
+Blogger	owned_by	Google
+Blogger	creator	Google
+Blogger	parent_organization	Google
+Textron	subsidiary	Cessna
+Cessna	industry	aviation
+Cessna	legal_form	Textron
+Cessna	parent_organization	Textron
+Cessna	owned_by	Textron
+Meggitt	stock_exchange	London Stock Exchange
+Vodacom Tanzania	parent_organization	Vodafone
+Vodacom	parent_organization	Vodafone
+Vodacom	owned_by	Vodafone
+LafargeHolcim	product_or_material_produced	cement
+Chevrolet Cobalt	manufacturer	General Motors
+Profit	headquarters_location	Moscow
+Freeport McMoRan	industry	mining
+Freeport McMoRan	product_or_material_produced	copper
+Savers	industry	retail
+Unibanco	product_or_material_produced	bank
+Unibanco	industry	Finance
+Business Wire	owned_by	Berkshire Hathaway
+Business Wire	parent_organization	Berkshire Hathaway
+Tenaris	product_or_material_produced	pipe
+Tenaris	product_or_material_produced	steel
+Ferrexpo	stock_exchange	London Stock Exchange
+Reliance Infrastructure	chairperson	Anil Ambani
+Reliance Infrastructure	headquarters_location	Mumbai
+Western Electric	parent_organization	AT
+Aurizon	product_or_material_produced	coal
+Dell Inc	product_or_material_produced	data storage
+Dell Inc	chief_executive_officer	Michael Dell
+Dell Inc	industry	software
+Dell Inc	product_or_material_produced	software
+Dell Inc	founded_by	Michael Dell
+Dell Inc	director_/_manager	Michael Dell
+Buick	parent_organization	General Motors
+Buick	owned_by	General Motors
+Buick	headquarters_location	Detroit
+Cadillac Escalade	manufacturer	General Motors
+Dairy Crest	legal_form	public limited company
+Dairy Crest	stock_exchange	London Stock Exchange
+Statistics Canada	headquarters_location	Ottawa
+Bradesco	industry	Finance
+Air India	founded_by	Tata
+Air India	location_of_formation	Mumbai
+Air India	headquarters_location	New Delhi
+Air India	headquarters_location	Mumbai
+Microsoft Word	developer	Microsoft
+Amazon Studios	parent_organization	Amazon
+Jira	developer	Atlassian
+Tide	headquarters_location	London
+Restoration Hardware	industry	retail
+Mastek	industry	software
+Pacific Life	industry	insurance
+Pacific Life	industry	life insurance
+In July	distribution_format	video on demand
+Alps Electric	industry	electronics
+Inmarsat	headquarters_location	London
+Inmarsat	stock_exchange	London Stock Exchange
+G4S	headquarters_location	London
+G4S	stock_exchange	London Stock Exchange
+Cineworld	headquarters_location	London
+Cineworld	stock_exchange	London Stock Exchange
+Cineworld	legal_form	public limited company
+Playtech	stock_exchange	London Stock Exchange
+Petrofac	legal_form	public limited company
+Petrofac	location_of_formation	London
+Petrofac	stock_exchange	London Stock Exchange
+Petrofac	headquarters_location	London
+Back On	location_of_formation	Tokyo
+Grocon	industry	construction
+Terry Gou	employer	Foxconn
+Terry Gou	owner_of	Foxconn
+Chrome OS	developer	Google
+Major League Soccer	headquarters_location	New York City
+Major League Soccer	subsidiary	New York City FC
+Keio	location_of_formation	Tokyo
+Buick LaCrosse	brand	Buick
+PhosAgro	headquarters_location	Moscow
+Kmart	industry	retail
+NBS	product_or_material_produced	financial services
+Google Fiber	owned_by	Google
+Givenchy	industry	fashion
+Givenchy	parent_organization	LVMH
+Restrictions	distribution_format	music streaming
+Restrictions	distributed_by	Spotify
+Classic	manufacturer	General Motors
+Santander UK	headquarters_location	London
+Microsoft Mobile	product_or_material_produced	smartphone
+Microsoft Mobile	parent_organization	Microsoft
+CGG	headquarters_location	Paris
+SoftBank	stock_exchange	Tokyo Stock Exchange
+SoftBank	headquarters_location	Tokyo
+filmmaking	product_or_material_produced	film
+Polyus	product_or_material_produced	gold
+Polyus	industry	mining
+Buick Regal	brand	Buick
+Buick Verano	brand	Buick
+Tribune Media	headquarters_location	Chicago
+Telenet	owner_of	BASE
+Telenet	subsidiary	BASE
+Telenet	owned_by	Liberty Global
+Telenet	parent_organization	Liberty Global
+Personal	distributed_by	Spotify
+Change	distributed_by	Spotify
+Dollar Tree	stock_exchange	NASDAQ
+Seagate Technology	product_or_material_produced	hard disk drive
+Seagate Technology	stock_exchange	NASDAQ
+Micron Technology	stock_exchange	NASDAQ
+SanDisk	parent_organization	Western Digital
+SanDisk	owned_by	Western Digital
+SanDisk	stock_exchange	NASDAQ
+Eldorado Gold	legal_form	corporation
+Eldorado Gold	industry	mining
+Phenom 300	manufacturer	Embraer
+Postbus	operator	mail
+PokerStars	industry	online poker
+Masdar	headquarters_location	Abu Dhabi
+Adam Smith Institute	headquarters_location	London
+Duane Reade	industry	retail
+One Direction	location_of_formation	London
+Capture	location_of_formation	Sydney
+Comerica	location_of_formation	Detroit
+Comerica	headquarters_location	Detroit
+Coles Supermarkets	owned_by	Wesfarmers
+Coles Supermarkets	parent_organization	Wesfarmers
+Hero Cycles	headquarters_location	Ludhiana
+Hero Cycles	product_or_material_produced	bicycle
+Audi RS5	brand	Audi
+Audi RS5	manufacturer	Audi
+Audi Sport	manufacturer	Audi
+Surface Pro	developer	Microsoft
+Porter Airlines	headquarters_location	Toronto
+Porter Airlines	location_of_formation	Toronto
+Western Digital	product_or_material_produced	software
+Western Digital	product_or_material_produced	hard disk drive
+Western Digital	subsidiary	SanDisk
+Western Digital	product_or_material_produced	solid-state drive
+Western Digital	owner_of	SanDisk
+El Abra mine	operator	Freeport-McMoRan
+El Abra mine	product_or_material_produced	copper
+Paramount Pictures	owned_by	Viacom
+Paramount Pictures	product_or_material_produced	film
+Viterra	industry	agriculture
+IRESS	stock_exchange	Australian Securities Exchange
+OnStar	parent_organization	General Motors
+Phillips 66	owned_by	Berkshire Hathaway
+Polyvore	owned_by	Yahoo
+Buick Encore	manufacturer	General Motors
+Buick Encore	brand	Buick
+Cencosud	industry	retail
+Cencosud	headquarters_location	Santiago
+GfK	industry	market research
+coffee roaster	product_or_material_produced	coffee
+Tchibo	industry	retail
+Tchibo	product_or_material_produced	coffee
+Debswana	industry	mining
+Shopko	industry	retail
+Rosneft	director_/_manager	Igor Sechin
+Rosneft	headquarters_location	Moscow
+Rosneft	product_or_material_produced	petroleum
+Rosneft	location_of_formation	Moscow
+Rosneft	chief_executive_officer	Igor Sechin
+Evolution Fresh	parent_organization	Starbucks
+Evolution Fresh	product_or_material_produced	juice
+Jumia	industry	retail
+betfair	industry	online gambling
+betfair	headquarters_location	London
+Escort	location_of_formation	New York
+Michelob	manufacturer	Anheuser-Busch InBev
+Writer	distributed_by	Spotify
+Ashley Madison	headquarters_location	Toronto
+GMC Envoy	brand	GMC
+Western Bulldogs	headquarters_location	Melbourne
+Tizen	developer	Samsung
+Federal Bank	industry	Finance
+PG Tips	owned_by	Unilever
+PG Tips	product_or_material_produced	tea
+Savills	headquarters_location	London
+Heathrow Hub	headquarters_location	London
+Impala Platinum	industry	mining
+Harrods	location_of_formation	London
+Harrods	industry	retail
+Harrods	headquarters_location	London
+incorporation	product_or_material_produced	corporation
+Premier Inn	parent_organization	Whitbread
+Premier Inn	founded_by	Whitbread
+Amit Sood	employer	Google
+APUS Group	headquarters_location	Beijing
+Panshi	headquarters_location	Hangzhou
+BeiBei	industry	e-commerce
+BeiBei	headquarters_location	Hangzhou
+Tujia	industry	e-commerce
+Tujia	headquarters_location	Beijing
+Taobao	headquarters_location	Hangzhou
+Taobao	industry	e-commerce
+Taobao	industry	online shopping
+Taobao	parent_organization	Alibaba Group
+Taobao	owned_by	Alibaba Group
+Fanli	industry	e-commerce
+Altice	director_/_manager	Patrick Drahi
+Altice	headquarters_location	Amsterdam
+Altice	founded_by	Patrick Drahi
+Altice	subsidiary	Hot
+Dubai	owned_by	Mohammed bin Rashid Al Maktoum
+Spillers	legal_form	company
+Spillers	industry	food
+Walkman	manufacturer	Sony
+Fletcher Building	industry	construction
+Asus	product_or_material_produced	smartphone
+ASUS ZenFone	manufacturer	Asus
+ASUS ZenFone	developer	Asus
+Epicor	legal_form	company
+Epicor	industry	software
+Urban Outfitters	industry	retail
+Anthropologie	industry	retail
+Linn Energy	product_or_material_produced	petroleum
+Victrex	legal_form	public limited company
+iPad	manufacturer	Apple Inc
+Tongrentang	headquarters_location	Beijing
+Later	original_broadcaster	NBC
+Shide Group	headquarters_location	Dalian
+LogMeIn	industry	software
+Hofbräuhaus	industry	brewing
+FXCM	industry	financial services
+FXCM	headquarters_location	New York
+iBall	product_or_material_produced	smartphone
+iPhone 6S	manufacturer	Apple Inc
+Capex	industry	financial services
+Huntington Bank	industry	financial services
+Reliance Communications	headquarters_location	Mumbai
+Reliance Communications	founded_by	Dhirubhai Ambani
+Reliance Communications	founded_by	Anil Ambani
+Nexus 6P	manufacturer	Huawei
+Nexus 6P	developer	Huawei
+Nexus 6P	developer	Google
+Google Nexus	developer	Google
+Google Nexus	manufacturer	Google
+Mack Trucks	product_or_material_produced	truck
+iPhone 6S Plus	manufacturer	Apple Inc
+Google TV	developer	Google
+go90	owned_by	Verizon
+App Store	developer	Apple Inc
+iOS app	developer	Apple Inc
+Amlin	industry	insurance
+General Dynamics	subsidiary	Bath Iron Works
+General Dynamics	industry	shipbuilding
+Petra Diamonds	industry	diamond
+Petra Diamonds	stock_exchange	London Stock Exchange
+Teck Resources	legal_form	corporation
+Teck Resources	product_or_material_produced	coal
+MillerCoors	industry	brewery
+MillerCoors	parent_organization	SABMiller
+MillerCoors	product_or_material_produced	beer
+How To	distributed_by	iTunes
+How To	distribution_format	e-book
+Rubicon Project	location_of_formation	Los Angeles
+Rubicon Project	headquarters_location	Los Angeles
+Katanga Mining	parent_organization	Glencore
+Katanga Mining	owned_by	Glencore
+Lowell McAdam	employer	Verizon
+Chromecast	manufacturer	Google
+Chromecast	developer	Google
+60 Minutes	original_broadcaster	Nine
+Klaus Kleinfeld	position_held	chief executive officer
+Google Earth	operator	Google
+Google Earth	founded_by	Google
+Google Earth	publisher	Google
+Google Earth	owned_by	Google
+Google Earth	developer	Google
+Google Earth	creator	Google
+Kickstarter	industry	crowd funding
+Kickstarter	industry	Internet
+Freecharge	industry	e-commerce
+Freecharge	owned_by	Snapdeal
+Technics	owned_by	Panasonic Corporation
+SodaStream	owned_by	PepsiCo
+SodaStream	parent_organization	PepsiCo
+Talkmobile	parent_organization	Vodafone
+Deal	original_broadcaster	NBC
+FCB	industry	advertising
+Vallourec	product_or_material_produced	pipe
+Cash Converters	industry	retail
+Audi A6	brand	Audi
+Audi A6	manufacturer	Audi
+Yes Bank	product_or_material_produced	credit card
+Yes Bank	industry	Finance
+Yes Bank	headquarters_location	Mumbai
+Veladero mine	product_or_material_produced	gold
+Columbia Pictures	product_or_material_produced	film
+Buenaventura	industry	mining
+watchOS	platform	Apple Watch
+watchOS	developer	Apple Inc
+Media Player	developer	Microsoft
+iPod	manufacturer	Steve Jobs
+Solera Holdings	industry	software
+Marshall Wace	industry	hedge fund
+Angel Broking	industry	financial services
+Martin Winterkorn	employer	Volkswagen Group
+Martin Winterkorn	employer	Audi
+Martin Winterkorn	position_held	chief executive officer
+App	distribution_format	video on demand
+Creator	distribution_format	video on demand
+GroupM	industry	advertising
+Fnac	product_or_material_produced	music
+Golden State Warriors	headquarters_location	San Francisco
+AGCO	owner_of	Valtra
+AGCO	industry	manufacturing
+AGCO	owner_of	Massey Ferguson
+AGCO	product_or_material_produced	tractor
+AGCO	owner_of	Fendt
+Valtra	parent_organization	AGCO
+Valtra	owned_by	AGCO
+Massey Ferguson	parent_organization	AGCO
+Massey Ferguson	owned_by	AGCO
+National Geographic Society	subsidiary	National Geographic Partners
+National Geographic Society	owner_of	National Geographic
+National Geographic Society	owner_of	National Geographic Partners
+National Geographic Partners	owned_by	National Geographic Society
+National Geographic Partners	subsidiary	National Geographic
+National Geographic Partners	legal_form	joint venture
+Fiserv	industry	financial services
+Fiserv	stock_exchange	NASDAQ
+Metro Bank	headquarters_location	London
+Metro Bank	founded_by	Vernon Hill
+Electrocomponents	stock_exchange	London Stock Exchange
+Electrocomponents	headquarters_location	Oxford
+Hearts	developer	Microsoft
+Quantedge	headquarters_location	Singapore
+Jeff Kennett	position_held	Premier of Victoria
+Jeff Kennett	position_held	president
+Forrester	industry	market research
+Forrester	stock_exchange	NASDAQ
+Crowdnetic	headquarters_location	New York City
+Citation	manufacturer	Cessna
+Bloomsbury Publishing	stock_exchange	London Stock Exchange
+Bloomsbury Publishing	headquarters_location	London
+Crest Nicholson	stock_exchange	London Stock Exchange
+Rexam	headquarters_location	London
+Rexam	stock_exchange	London Stock Exchange
+Good Energy	stock_exchange	London Stock Exchange
+Novatek	stock_exchange	London Stock Exchange
+Merlin Entertainments	stock_exchange	London Stock Exchange
+Merlin Entertainments	owner_of	Legoland
+Vectura Group	stock_exchange	London Stock Exchange
+United Utilities	stock_exchange	London Stock Exchange
+Quarto Group	stock_exchange	London Stock Exchange
+Smiths Group	stock_exchange	London Stock Exchange
+Smiths Group	headquarters_location	London
+Oxford Instruments	stock_exchange	London Stock Exchange
+Oxford Instruments	legal_form	public limited company
+IG Group	stock_exchange	London Stock Exchange
+IG Group	legal_form	public limited company
+IG Group	headquarters_location	London
+Ultra Electronics	stock_exchange	London Stock Exchange
+Ultra Electronics	industry	transport
+Reckitt	stock_exchange	London Stock Exchange
+Pierre Omidyar	owner_of	eBay
+Star India	headquarters_location	Mumbai
+Rent	distribution_format	video on demand
+Optiver	industry	financial services
+TechCrunch	owned_by	AOL
+TechCrunch	parent_organization	Verizon
+Servcorp	headquarters_location	Sydney
+Chevrolet Impala	manufacturer	General Motors
+RMIT University	headquarters_location	Melbourne
+cement plant	product_or_material_produced	cement
+KLM	owned_by	Air France-KLM
+KLM	location_of_formation	Amsterdam
+KLM	parent_organization	Air France-KLM
+ING	industry	financial services
+ING	product_or_material_produced	financial services
+ING	location_of_formation	Amsterdam
+Bright Blue	headquarters_location	London
+Moscow Exchange	headquarters_location	Moscow
+Japan Display	owned_by	Sony
+Japan Display	owned_by	Toshiba
+Japan Display	owned_by	Hitachi
+Japan Display	headquarters_location	Tokyo
+Looking	distributed_by	Hulu
+Looking	original_broadcaster	HBO
+Indra Nooyi	employer	PepsiCo
+Indra Nooyi	position_held	chief executive officer
+Millions	location_of_formation	Chicago
+Patrick Pichette	employer	Google
+Pennon Group	legal_form	public limited company
+Poundland	industry	retail
+News UK	parent_organization	News Corp
+Discover Card	industry	financial services
+Discover Financial	product_or_material_produced	Discover Card
+Internet Explorer	developer	Microsoft
+Windows Media Player	owned_by	Microsoft
+Windows Media Player	developer	Microsoft
+Windows Media	developer	Microsoft
+Google Camera	developer	Google
+Hikvision	headquarters_location	Hangzhou
+Gilead Sciences	stock_exchange	NASDAQ
+Karen Millen	industry	retail
+Dunelm Group	industry	retail
+Carpetright	industry	retail
+Toll Group	industry	logistics
+Cantor Fitzgerald	product_or_material_produced	financial services
+Cantor Fitzgerald	chief_executive_officer	Howard Lutnick
+Cantor Fitzgerald	industry	financial services
+Second Cup	product_or_material_produced	coffee
+Gemfields	product_or_material_produced	emerald
+Gemfields	industry	mining
+Gear VR	developer	Samsung Electronics
+Gear VR	manufacturer	Samsung Electronics
+RadioShack	industry	retail
+RadioShack	industry	trade
+Sachin Bansal	employer	Flipkart
+Finally	distributed_by	Spotify
+Dan Cobley	employer	Google
+AU Optronics	industry	electronics
+PlayStation Vue	parent_organization	Sony
+Talisman Energy	product_or_material_produced	petroleum
+Brad Smith	employer	Microsoft
+Games Workshop	location_of_formation	London
+Avanti Communications	headquarters_location	London
+Microsoft Edge	developer	Microsoft
+Carlisle Companies	industry	manufacturing
+Wolfgang Hatz	employer	Audi
+Platts	owned_by	Global
+Platts	parent_organization	Global
+Platts	headquarters_location	New York City
+Platts	industry	agriculture
+Virgin Australia	founded_by	Richard Branson
+Tatsumi Kimishima	employer	Nintendo
+Hero MotoCorp	product_or_material_produced	motorcycle
+Hero MotoCorp	chief_executive_officer	Pawan Munjal
+Old Navy	parent_organization	Gap Inc
+Old Navy	location_of_formation	San Francisco
+Old Navy	owned_by	Gap Inc
+Old Navy	headquarters_location	San Francisco
+Movies	distribution_format	music streaming
+Medium	headquarters_location	San Francisco
+Gamers	product_or_material_produced	video game
+Big Bazaar	industry	retail
+Ryerson University	headquarters_location	Toronto
+Bravia	owned_by	Sony
+Sucden	industry	financial services
+See	original_broadcaster	Apple TV+
+See	distributed_by	Apple Inc
+Process	platform	iOS
+Microsoft Band	manufacturer	Microsoft
+Lexmark	product_or_material_produced	software
+Porsche Cayman	manufacturer	Porsche
+Porsche Cayman	brand	Porsche
+Heather Bresch	employer	Mylan
+United Mine Workers	industry	mining
+Google Express	owned_by	Google
+Dialog Semiconductor	product_or_material_produced	semiconductor
+Dialog Semiconductor	headquarters_location	London
+Mix	distribution_format	video on demand
+Chevrolet Malibu	manufacturer	General Motors
+Chevrolet Malibu	brand	Chevrolet
+NASDAQ	headquarters_location	Broadway
+PGI	product_or_material_produced	software
+PGI	industry	software
+AmazonFresh	industry	retail
+AmazonFresh	parent_organization	Amazon
+Pebble Mine	product_or_material_produced	gold
+Pebble Mine	product_or_material_produced	copper
+Cotton Bowl	owned_by	Dallas
+Seafood	location_of_formation	London
+Instagram	headquarters_location	San Francisco
+Radio	distribution_format	music streaming
+Ross McEwan	position_held	chief executive officer
+Liberty Bank	industry	financial services
+Reliance Capital	founded_by	Dhirubhai Ambani
+Failure	location_of_formation	Los Angeles
+Buick Enclave	manufacturer	General Motors
+Buick Enclave	brand	Buick
+Exmor	manufacturer	Sony
+Euronext Amsterdam	operator	Euronext
+Euronext Amsterdam	owned_by	Euronext
+Rapper	distribution_format	music streaming
+BTG	headquarters_location	London
+Bank Mandiri	headquarters_location	Jakarta
+See Tickets	owned_by	Vivendi
+Dailymotion	owned_by	Vivendi
+Dailymotion	parent_organization	Vivendi
+Powerhouse	industry	retail
+Amit Singhal	employer	Google
+Singapore Airlines	location_of_formation	Singapore
+Singapore Airlines	headquarters_location	Singapore
+Harvey Nash	headquarters_location	London
+Travis Perkins	industry	retail
+Travis Perkins	stock_exchange	London Stock Exchange
+Automation	platform	Microsoft Windows
+Mountain Warehouse	industry	retail
+Free Tibet	headquarters_location	London
+Gameloft	member_of	game
+Gameloft	owned_by	Vivendi
+Gameloft	parent_organization	Vivendi
+Ubisoft	member_of	game
+Banana Republic	chief_executive_officer	Art Peck
+Heroes Reborn	original_broadcaster	NBC
+Cemex	product_or_material_produced	cement
+AmBev	product_or_material_produced	beer
+ING Group	product_or_material_produced	financial services
+ING Group	industry	financial services
+ING Group	headquarters_location	Amsterdam
+Michel Platini	position_held	president
+Fidelity Bank Ghana	industry	financial services
+Pixar	parent_organization	Walt Disney Studios
+Walt Disney Studios	founded_by	Walt Disney
+Indiana Jones	owned_by	Lucasfilm
+Chris Coons	position_held	president
+Dettol	owned_by	Reckitt
+VH1	owned_by	Viacom
+Harcourts	legal_form	company
+phd	operator	Google
+Tories	headquarters_location	London
+Insitu	parent_organization	Boeing
+Gazprom Neft	industry	retail
+Lavasoft	product_or_material_produced	software
+Show	distributed_by	Spotify
+Because	distributed_by	Spotify
+Chevrolet Camaro	manufacturer	General Motors
+Chevrolet Camaro	brand	Chevrolet
+Mobileye	parent_organization	Intel
+Mobileye	headquarters_location	Jerusalem
+Mobileye	legal_form	Intel
+OneBeacon	industry	insurance
+Ansible	developer	Red Hat
+Ansible	owned_by	Red Hat
+Discover	manufacturer	IBM
+Scott Farquhar	employer	Atlassian
+Xpeng	stock_exchange	New York Stock Exchange
+Ensure Insurance	industry	insurance
+Resolution Foundation	headquarters_location	London
+Spinneys	headquarters_location	Dubai
+Remains	distributed_by	Spotify
+Moving	distributed_by	Spotify
+Loaf	legal_form	company
+UNESCO	headquarters_location	World Heritage Centre
+Health Services Union	headquarters_location	Melbourne
+Surface Book	developer	Microsoft
+Saputo	director_/_manager	Lino Saputo
+Saputo	founded_by	Lino Saputo
+Saputo	stock_exchange	Toronto Stock Exchange
+HDFC Life	product_or_material_produced	life insurance
+aQuantive	parent_organization	Microsoft
+Amy Hood	employer	Microsoft
+Amy Hood	position_held	chief financial officer
+Navantia	industry	shipbuilding
+Occidental Petroleum	product_or_material_produced	petroleum
+About Us	publisher	Global
+Anadarko Petroleum	product_or_material_produced	petroleum
+Origus	headquarters_location	Beijing
+Blazor	developer	Microsoft
+HBO Now	owned_by	HBO
+Olive Kitteridge	original_broadcaster	HBO
+Nintendo DS	developer	Nintendo
+Nintendo DS	manufacturer	Nintendo
+Really Love	distribution_format	music streaming
+Sportech	industry	online gambling
+Iveco	product_or_material_produced	truck
+Origines	original_broadcaster	France
+Sesame Street	original_broadcaster	HBO
+Chuck	original_broadcaster	NBC
+BMC Software	product_or_material_produced	software
+KfW	owned_by	Germany
+GMC Sierra	brand	GMC
+GMC Sierra	manufacturer	GMC
+Universal Pictures	legal_form	company
+Celgene	stock_exchange	NASDAQ
+Shiv Sena	headquarters_location	Mumbai
+Shiv Sena	location_of_formation	Mumbai
+Primerica	industry	financial services
+JERA	headquarters_location	Tokyo
+Stella Artois	manufacturer	Anheuser-Busch InBev
+Pilbara Iron	industry	mining
+Hughes Electronics	parent_organization	General Motors
+CLIPS	platform	iOS
+Openreach	parent_organization	BT Group
+Japan Post	headquarters_location	Tokyo
+Hamleys	product_or_material_produced	toy
+Enter	distributed_by	Spotify
+Traton	subsidiary	Scania
+Moz	industry	marketing
+Oxford Analytica	headquarters_location	Oxford
+PLDT	product_or_material_produced	mobile phone
+insurance company	industry	insurance industry
+fronting	industry	insurance industry
+Secret City	distributed_by	Foxtel
+Warner Bros	location_of_formation	Los Angeles
+Warner Bros	product_or_material_produced	film
+58	location_of_formation	California
+Roslyn Russell	employer	RMIT University
+Swissport	industry	aviation
+Zeta Interactive	headquarters_location	New York
+Tata Magic	manufacturer	Tata Motors
+Apple Pay	developer	Apple Inc
+Apple Pay	platform	watchOS
+Apple Pay	owned_by	Apple Inc
+Mimecast	stock_exchange	NASDAQ
+Havas Worldwide	industry	advertising
+Tanked	distribution_format	video on demand
+SKY TV	parent_organization	Sky
+Google Authenticator	manufacturer	Google
+Google Authenticator	developer	Google
+iZettle	parent_organization	PayPal
+Cheetah Mobile	owned_by	Kingsoft
+Cheetah Mobile	parent_organization	Kingsoft
+Lysol	manufacturer	Reckitt
+Lysol	owned_by	Reckitt
+Orion Pictures	product_or_material_produced	film
+| hdfc	owned_by	HDFC Bank
+Google Hangouts	creator	Google
+Google Hangouts	developer	Google
+Fincantieri	location_of_formation	Rome
+Raise	distribution_format	music streaming
+Deezer	headquarters_location	Paris
+Chevrolet Aveo	manufacturer	General Motors
+United Airlines Holdings	subsidiary	United Airlines
+Bourjois	owned_by	Coty
+Bourjois	parent_organization	Coty
+Volvo Trucks	owned_by	Volvo
+Volvo Trucks	parent_organization	Volvo
+Optus	owned_by	SingTel
+Optus	parent_organization	SingTel
+TheCityUK	headquarters_location	London
+Henderson Group	headquarters_location	London
+Henderson Group	stock_exchange	London Stock Exchange
+Suzuki Ertiga	manufacturer	Suzuki
+Suzuki Ertiga	brand	Suzuki
+Allianz SE	industry	financial services
+Provident Financial	industry	financial services
+Twitter Inc	director_/_manager	Omid Kordestani
+Twitter Inc	product_or_material_produced	Twitter
+Far	distributed_by	Spotify
+Premiere	original_broadcaster	CBS
+HuffPost	parent_organization	AOL
+HuffPost	owned_by	AOL
+GMC Acadia	manufacturer	General Motors
+Lux Capital	headquarters_location	New York City
+Grupo Modelo	owned_by	Anheuser-Busch InBev
+Grupo Modelo	industry	brewing
+Passion Capital	headquarters_location	London
+Skylake	manufacturer	Intel
+Skylake	developer	Intel
+SM Energy	product_or_material_produced	petroleum
+Nutanix	legal_form	public company
+AccountAbility	headquarters_location	London
+Stagecoach Group	stock_exchange	London Stock Exchange
+Swiss Re	industry	insurance
+Swiss Re	product_or_material_produced	insurance
+Secret Escapes	headquarters_location	London
+Deliveroo	location_of_formation	London
+Deliveroo	headquarters_location	London
+Bumi Resources	product_or_material_produced	coal
+Chevrolet Traverse	manufacturer	General Motors
+Volkswagen Passat	manufacturer	Volkswagen Group
+Volkswagen Passat	brand	Volkswagen
+Unibank	industry	bank
+Spirent	stock_exchange	London Stock Exchange
+Computacenter	stock_exchange	London Stock Exchange
+Cairn Energy	stock_exchange	London Stock Exchange
+Carillion	stock_exchange	London Stock Exchange
+Entertainment One	stock_exchange	London Stock Exchange
+Jardine Matheson	industry	trade
+Manx Telecom	legal_form	public limited company
+Booker Group	industry	retail
+PBS	product_or_material_produced	television
+RD	location_of_formation	London
+Sri Mulyani Indrawati	position_held	director
+Ping An Insurance	industry	insurance
+MSD Capital	founded_by	Michael Dell
+Talk Talk	location_of_formation	London
+Atlas Jewellery	headquarters_location	Dubai
+Pioneer Investments	industry	asset management
+Miu Miu	industry	fashion
+Yahoo Sports	creator	Yahoo
+Yahoo Sports	owned_by	Yahoo
+Google Books	owned_by	Google
+Google Books	creator	Google
+Dunkin Brands	stock_exchange	NASDAQ
+Amstrad	industry	electronics
+China Mobile	headquarters_location	Beijing
+INEOS	chief_executive_officer	Jim Ratcliffe
+INEOS	chairperson	Jim Ratcliffe
+INEOS	headquarters_location	London
+INEOS	founded_by	Jim Ratcliffe
+INEOS	owner_of	Grangemouth Refinery
+Jim Ratcliffe	employer	INEOS
+Jan Hatzius	employer	Goldman Sachs
+Eutelsat	stock_exchange	Euronext
+Grangemouth Refinery	operator	INEOS
+Grangemouth Refinery	owned_by	INEOS
+Chevrolet Corvette	brand	Chevrolet
+Daniel Zhang	position_held	chief executive officer
+Yodlee	industry	financial services
+Chevrolet Trax	brand	Chevrolet
+Montgomery Ward	industry	retail
+Culture	distribution_format	music streaming
+Freedom	distribution_format	music streaming
+Google Sites	developer	Google
+Google Sites	owned_by	Google
+Hoyts	headquarters_location	Sydney
+Yahoo Mail	owned_by	Yahoo
+Blackbaud	industry	software
+Premier Foods	product_or_material_produced	food
+Rebel Sport	industry	retail
+PayScale	product_or_material_produced	software
+Christian Clausen	position_held	chief executive officer
+Suzuki SX4	manufacturer	Suzuki
+Suzuki SX4	brand	Suzuki
+Suzuki Kizashi	brand	Suzuki
+Blanket Mine	product_or_material_produced	gold
+Chevrolet Spark	brand	Chevrolet
+DBS Bank	industry	Finance
+Domain Group	headquarters_location	Sydney
+NOVA Entertainment	headquarters_location	Sydney
+Become	distributed_by	Spotify
+Ico	platform	PlayStation
+Suzan DelBene	employer	Microsoft
+Aquarius Platinum	industry	mining
+Committed	original_broadcaster	NBC
+Josh Constine	employer	TechCrunch
+New York Post	owned_by	News Corp
+HarperCollins	parent_organization	News Corp
+HarperCollins	owned_by	News Corp
+Stiff	distributed_by	Spotify
+Microsoft Translator	owned_by	Microsoft
+Captain Morgan	manufacturer	Diageo
+Mobvoi	headquarters_location	Beijing
+Anime+	headquarters_location	Japan
+Emma Marcegaglia	position_held	president
+Perth Wildcats	headquarters_location	Perth
+David Ebersman	employer	Facebook
+Chevron Corporation	product_or_material_produced	petroleum
+AliExpress	parent_organization	Alibaba Group
+AliExpress	owned_by	Alibaba Group
+Pepper	manufacturer	SoftBank
+Campaign Monitor	industry	marketing
+Changing	distribution_format	video on demand
+Magento	owned_by	eBay
+Eramet	product_or_material_produced	mining
+Eramet	industry	mining

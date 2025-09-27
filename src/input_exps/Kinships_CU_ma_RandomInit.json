@@ -1,0 +1,20 @@
+{
+  "dataset": "Kinships",
+  "early_stopper_params": {
+    "frequency": 20,
+    "patience": 3,
+    "delta" : 0.0005,
+    "metric": "mean_reciprocal_rank"
+  },
+  "grid_search_attrs": {
+    "loss_function": ["MSE"],
+    "margin": [1],
+    "overlap_estimator": ["ComputeUncompute"],
+    "num_qubits": [6],
+    "rotations": [["ma"]],
+    "controls": [["ma"]],
+    "batch_size" : [256]
+  },
+  "max_epochs": 300,
+  "output_dir": "./quantum_embeddings/results/Kinships_CU_ma_RandomInit"
+}
